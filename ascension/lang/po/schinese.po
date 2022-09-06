@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-06 11:30+0000\n"
+"PO-Revision-Date: 2022-09-06 13:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -994,14 +994,14 @@ msgstr "而且阿兰多的预言并不意味着巴尔后裔全都是毁灭的化
 msgid ""
 "You can walk away. You can do what's right, Balthazar, what you know to be "
 "right instead of what you've resigned yourself to."
-msgstr "你的面前还有另一条路。你可以做正确的事，巴萨札，你知道什么才是对的，而不是受"
-"命运的摆布。"
+msgstr "你可以就此放手。你可以做正确的事，巴萨札，你知道什么才是对的，而不是受命运的"
+"摆布。"
 
 #: balth.tra:1143
 msgid ""
 "You are walking a path that you don't need to, Balthazar. You see yourself "
 "as evil, but it doesn't have to be that way."
-msgstr "你选择了一条你没必要选的路，巴萨札。你把自己当作了恶人，但完全没有必要这样。"
+msgstr "你走了一段你没必要走的路，巴萨札。你把自己当作了恶人，但完全没有必要这样。"
 
 #: balth.tra:1144
 msgid ""
@@ -1052,96 +1052,67 @@ msgstr "是一个炽天神侍告诉我的，预言的代理人！这……哦，
 "真的！"
 
 #: balth.tra:1151
-#, fuzzy
-#| msgid ""
-#| "I have been told many things by agents of Alaundo's prophecy... higher "
-#| "beings that have sought me out to prepare me.  Alaundo's prophecy does not "
-#| "necessarily mean what you think it does, Balthazar."
 msgid ""
 "I have been told many things by agents of Alaundo's prophecy... higher "
 "beings that have sought me out to prepare me. Alaundo's prophecy does not "
 "necessarily mean what you think it does, Balthazar."
-msgstr "我从预言的代理人那里学到了很多知识......她把我找了出来并为这件事做了很多准备。阿兰多的预言并不是你像的那样，巴尔撒扎。"
+msgstr "阿兰多预言的代理人告诉我了很多事情……高等存在把我找了出来，并做了很多准备。阿"
+"兰多的预言未必是你想象的那样，巴萨札。"
 
 #: balth.tra:1152
-#, fuzzy
-#| msgid ""
-#| "A Solar has been my mentor since this began, guiding me and preparing me for"
-#| " what is to come.  The prophecy is not so simple as you think it to be, no "
-#| "matter how we assume it to be.  Think about it and you'll know it to be "
-#| "true, Balthazar... everything has more than one side."
 msgid ""
 "A Solar has been my mentor since this began, guiding me and preparing me for"
 " what is to come. The prophecy is not so simple as you think it to be, no "
 "matter how we assume it to be. Think about it and you'll know it to be true,"
 " Balthazar... everything has more than one side."
-msgstr "一个神使，作为我的指引者，引导并帮助我准备将到来的事，预言并不想你想象的那样简单，仔细想想吧，巴尔撒扎，很多事情都有其两面性。"
+msgstr ""
+"作为我的指引者，一位炽天神侍从一开始就引导并帮助我准备将到来的事。预言并不像"
+"你想象的那样简单，无论我们如何假设它会怎样。仔细想想你就该知道了，巴萨札……很"
+"多事情都有其两面性。"
 
 #: balth.tra:1153
-#, fuzzy
-#| msgid ""
-#| "I have no agent of the heavens to interpret my destiny for me, <CHARNAME>.  "
-#| "And my path remains clear."
 msgid ""
 "I have no agent of the heavens to interpret my destiny for me, <CHARNAME>. "
 "And my path remains clear."
-msgstr "即使没有神使来为我指引道路，<CHARNAME>，我依然能看清自己的道路。"
+msgstr "没有神界的代理人来为我指引道路，<CHARNAME>。我仍能看清自己的道路。"
 
 #: balth.tra:1154
-#, fuzzy
-#| msgid ""
-#| "You plant a seed of doubt in me, <CHARNAME>, and I begin to wonder.  Yet... "
-#| "it seems that my destiny may differ from yours.  I have no heavenly "
-#| "guidance.  Perhaps my path has been made for me, yet."
 msgid ""
 "You plant a seed of doubt in me, <CHARNAME>, and I begin to wonder. Yet... "
 "it seems that my destiny may differ from yours. I have no heavenly guidance."
 " Perhaps my path has been made for me, yet."
-msgstr "你在我内心中播下了困惑的种子，我有些迷茫了，看起来我的命运跟你是不一样，没有人指引我，但也许我的确还有另一条路可走......"
+msgstr "你在我内心中播下了困惑的种子， <CHARNAME>，我开始迷茫了。看起来我的命运或许与"
+"你不同。没有人指引我。但也许我的前路还未可知。"
 
 #: balth.tra:1155
-#, fuzzy
-#| msgid ""
-#| "What you say is incredible, and yet... it does make sense.  Have I prepared "
-#| "myself for all this time in error?  How could this be?"
 msgid ""
 "What you say is incredible, and yet... it does make sense. Have I prepared "
 "myself for all this time in error? How could this be?"
-msgstr "你的话实在是......但的确是有些道理。我从前所做的事都是错的么？这可能么？"
+msgstr "你的话实在是难以置信……但的确是有些道理。一直以来我为此刻所做的准备都是错的？"
+"怎么会是这样？"
 
 #: balth.tra:1156
-#, fuzzy
-#| msgid ""
-#| "An appealing notion, to walk away.  Would that I could do so.  Would that "
-#| "any of us could have done so."
 msgid ""
 "An appealing notion, to walk away. Would that I could do so. Would that any "
 "of us could have done so."
-msgstr "很吸引人的主意，按照自己的想法走下去，我能这么做么？有谁能这么做么？"
+msgstr "很吸引人的见解，就此放手。我早就能这么做。我们中的任何人都能够这么做。"
 
 #: balth.tra:1157
-#, fuzzy
-#| msgid ""
-#| "But perhaps I have resigned myself to a path that is not what it seems.  You"
-#| " are... hardly what I expected for the last of the Bhaalspawn, <CHARNAME>.  "
-#| "Perhaps there is hope... or perhaps I am only deluding myself."
 msgid ""
 "But perhaps I have resigned myself to a path that is not what it seems. You "
 "are... hardly what I expected for the last of the Bhaalspawn, <CHARNAME>. "
 "Perhaps there is hope... or perhaps I am only deluding myself."
-msgstr "也许我为自己确定的方向并不能达到我想要的目标，你和我想的不一样，<CHARNAME>。也许真的还有希望，也许我只是在蒙骗自己。"
+msgstr ""
+"也许我为自己确定的方向并不能达到我想要的目标。你……和我预期中最终存活的巴尔后"
+"裔不一样，<CHARNAME>。也许真的还有希望……也许我只是在蒙骗自己。"
 
 #: balth.tra:1158
-#, fuzzy
-#| msgid ""
-#| "But that is a fool's notion, <CHARNAME>, and I am no fool.  There is no such"
-#| " option available to me or any of us, no matter how appealing you may make "
-#| "it seem."
 msgid ""
 "But that is a fool's notion, <CHARNAME>, and I am no fool. There is no such "
 "option available to me or any of us, no matter how appealing you may make it"
 " seem."
-msgstr "愚蠢的想法，我不是傻子，我们种的任何人都没有这样的可能，无论你说得多好听。"
+msgstr "但那是个愚蠢的想法， "
+"<CHARNAME>，我又不是傻子。我们中的任何人都没有这种选择，无论你说得多好听。"
 
 #: balth.tra:1159
 #, fuzzy
@@ -1158,7 +1129,9 @@ msgid ""
 "greater good... I cannot forget! I will not forgive myself and I will *not* "
 "allow others to be afflicted with the taint I possess!"
 msgstr ""
-"不，你根本没听明白我说什么！我们根本没有选择的余地！你想让我忘记因我而死的那些人么，那些被正义之名屠杀的人......我不可能忘记！我不会原谅自己，也不会原谅有同样天赋的人！"
+"不！你根本没听明白我说什么！我们根本没有选择的余地！你想让我忘记因我而死的那"
+"些人么，那些被正义之名屠杀的人......"
+"我不可能忘记！我不会原谅自己，也不会原谅有同样天赋的人！"
 
 #: balth.tra:1160
 #, fuzzy
