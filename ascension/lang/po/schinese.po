@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-06 09:30+0000\n"
+"PO-Revision-Date: 2022-09-06 10:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -738,7 +738,8 @@ msgid ""
 "What makes you think you could kill her? I'm the one that has defeated all "
 "the Bhaalspawn... while you were doing nothing but hiding in this fortress "
 "making the peasants miserable."
-msgstr "你凭什么认为自己杀得了她？我才是那个击败所有巴尔之子的人……而你只是一事无成地躲在这座要塞里，为平民带去痛苦。"
+msgstr "你凭什么认为自己杀得了她？我才是那个击败所有巴尔后裔的人……而你只是一事无成地"
+"躲在这座要塞里，为平民带去痛苦。"
 
 #: balth.tra:1102
 msgid ""
@@ -802,7 +803,7 @@ msgstr "你比我想的还蠢。现在让我们结束这一切吧，如何？我
 
 #: balth.tra:1113
 msgid "Yes... you are right."
-msgstr "嗯...你是对的。"
+msgstr "嗯……你是对的。"
 
 #: balth.tra:1114
 msgid ""
@@ -881,7 +882,7 @@ msgstr "那就如此吧。来吧，我的弟子们……愿诸神保佑我们。
 msgid ""
 "No. Further dialogue is pointless. Let us end this now, <CHARNAME>...and may"
 " the gods have pity on us all."
-msgstr "不，再谈下去也没什么意义了。让我们结束这一切吧，<CHARNAME>……..愿诸神宽恕我们。"
+msgstr "不，再谈下去也没什么意义了。让我们结束这一切吧，<CHARNAME>……愿诸神宽恕我们。"
 
 #: balth.tra:1126
 msgid ""
@@ -950,62 +951,44 @@ msgid ""
 msgstr "显然你未必能够抵抗得了这种诱惑，<CHARNAME>。我更相信自身的判断而非你的。让你进入巴尔王座就意味着放弃我的信念。"
 
 #: balth.tra:1137
-#, fuzzy
-#| msgid ""
-#| "Strength is nothing, <CHARNAME>.  You may vanquish me with your might, and "
-#| "you may even vanquish Melissan.  But you will never vanquish yourself.  "
-#| "Might will bring you no peace... this I know.  And this is why I must be the"
-#| " last."
 msgid ""
 "Strength is nothing, <CHARNAME>. You may vanquish me with your might, and "
 "you may even vanquish Melissan. But you will never vanquish yourself. Might "
 "will bring you no peace... this I know. And this is why I must be the last."
-msgstr "力量并不代表一切，你可能会击败我，甚至会击败梅丽珊，但却击不败自己的心魔，也无法给你带来真正的平静，因此，我必须留到最后！"
+msgstr ""
+"力量并不代表一切，<CHARNAME>。你可能会用武力击败我，甚至会击败梅丽珊。但你却"
+"无法击败自己的心魔。武力无法给你带来平静……我知道这点。所以我必须留到最后。"
 
 #: balth.tra:1138
-#, fuzzy
-#| msgid ""
-#| "I am tired of the battles I have fought, <CHARNAME>.  I am tired of the "
-#| "anguish that I have endured, placing the greater good above the welfare of "
-#| "others, of myself and my own immortal soul.  It will be enough that Bhaal's "
-#| "legacy is destroyed, there is no temptation beyond that."
 msgid ""
 "I am tired of the battles I have fought, <CHARNAME>. I am tired of the "
 "anguish that I have endured, placing the greater good above the welfare of "
 "others, of myself and my own immortal soul. It will be enough that Bhaal's "
 "legacy is destroyed, there is no temptation beyond that."
 msgstr ""
-"在经历过这么多之后，我已经累了，而为了终结巴尔的传说，我也时常的问自己，我可以为了这个目标牺牲自己，但是其他无辜的人呢？这......应该么？"
+"我已经厌倦了我经历的战斗，<CHARNAME>。为了至高的善良，却罔顾他人的利益、我自"
+"己和我的不朽灵魂，我再也无法忍受这种心灵上的折磨。摧毁巴尔遗产就足够了，除此"
+"以外再无旁念。"
 
 #: balth.tra:1139
-#, fuzzy
-#| msgid "But I do.  It is my destiny.  What other choice have I?"
 msgid "But I do. It is my destiny. What other choice have I?"
-msgstr "但我知道，这是我的宿命，我没有别的选择......"
+msgstr "但我不得不做。这是我的宿命。我还有别的选择吗？"
 
 #: balth.tra:1140
-#, fuzzy
-#| msgid ""
-#| "You always have a choice, Balthazar.  Don't be a slave to Alaundo's "
-#| "prophecy!  I have fought against it ever since I found out about my heritage"
-#| " and I will *not* give up!"
 msgid ""
 "You always have a choice, Balthazar. Don't be a slave to Alaundo's prophecy!"
 " I have fought against it ever since I found out about my heritage and I "
 "will *not* give up!"
-msgstr "你会有机会选择的，巴尔撒扎，不要被阿兰多的预言所支配！我一直在为自己而奋斗而且从未放弃！"
+msgstr "你一直有机会选择的，巴萨札。不要被阿兰多的预言所支配！自从发现了我继承的邪恶"
+"血脉以来，我一直在抗争，而且我绝*不会*放弃！"
 
 #: balth.tra:1141
-#, fuzzy
-#| msgid ""
-#| "Alaundo's prophecy does not mean the Bhaalspawn must be destroyers, "
-#| "Balthazar!  It also means we can stop the prophecy from becoming true, I "
-#| "know this!"
 msgid ""
 "Alaundo's prophecy does not mean the Bhaalspawn must be destroyers, "
 "Balthazar! It also means we can stop the prophecy from becoming true, I know"
 " this!"
-msgstr "而且阿兰多的预言并不意味着巴尔之子全都是毁灭的化身！巴尔撒扎，他也提到了我们有机会阻止预言的实现。"
+msgstr "而且阿兰多的预言并不意味着巴尔后裔全都是毁灭的化身，巴萨札！它也意味着我们可"
+"以阻止预言成真，我知道！"
 
 #: balth.tra:1142
 #, fuzzy
