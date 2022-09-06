@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-06 10:30+0000\n"
+"PO-Revision-Date: 2022-09-06 11:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -991,96 +991,65 @@ msgstr "而且阿兰多的预言并不意味着巴尔后裔全都是毁灭的化
 "以阻止预言成真，我知道！"
 
 #: balth.tra:1142
-#, fuzzy
-#| msgid ""
-#| "You can walk away.  You can do what's right, Balthazar, what you know to be "
-#| "right instead of what you've resigned yourself to."
 msgid ""
 "You can walk away. You can do what's right, Balthazar, what you know to be "
 "right instead of what you've resigned yourself to."
-msgstr "你的面前还有另一条路，巴尔撒扎，你的内心知道你应该怎么走，而不是受预言的摆布"
+msgstr "你的面前还有另一条路。你可以做正确的事，巴萨札，你知道什么才是对的，而不是受"
+"命运的摆布。"
 
 #: balth.tra:1143
-#, fuzzy
-#| msgid ""
-#| "You are walking a path that you don't need to, Balthazar.  You see yourself "
-#| "as evil, but it doesn't have to be that way."
 msgid ""
 "You are walking a path that you don't need to, Balthazar. You see yourself "
 "as evil, but it doesn't have to be that way."
-msgstr "相反现在的你正沿着一条毫无意义的路走下去，巴尔撒扎，而且完全没有必要这样。"
+msgstr "你选择了一条你没必要选的路，巴萨札。你把自己当作了恶人，但完全没有必要这样。"
 
 #: balth.tra:1144
-#, fuzzy
-#| msgid ""
-#| "I am your <PRO_BROTHERSISTER>, Balthazar.  Let us fight what is inevitable!"
-#| "  We can work together!"
 msgid ""
 "I am your <PRO_BROTHERSISTER>, Balthazar. Let us fight what is inevitable! "
 "We can work together!"
-msgstr "我是你的<PRO_BROTHERSISTER>，巴尔撒扎，我们应该并肩作战！而不是互相残杀！"
+msgstr "我是你的<PRO_BROTHERSISTER>，巴萨札。让我们一起对抗注定发生的事！我们能并肩作"
+"战！"
 
 #: balth.tra:1145
-#, fuzzy
-#| msgid ""
-#| "Forget it.  There's no point in discussing this with you, is there?  Let's "
-#| "get this over with."
 msgid ""
 "Forget it. There's no point in discussing this with you, is there? Let's get"
 " this over with."
-msgstr "算了吧，跟你谈话真没意思，赶快把这事解决了吧。"
+msgstr "算了吧。跟你谈话真没意义，不是吗？让我们把这事解决了吧。"
 
 #: balth.tra:1146
-#, fuzzy
-#| msgid ""
-#| "You are impressive with your words, <CHARNAME>.  I can feel destiny altering"
-#| " to your will, how you are the center of it all... how is it that I did not "
-#| "see this before?"
 msgid ""
 "You are impressive with your words, <CHARNAME>. I can feel destiny altering "
 "to your will, how you are the center of it all... how is it that I did not "
 "see this before?"
-msgstr "你的话很深刻，我甚至能感觉到我的宿命因你而改变，你是预言的中心......我从前怎么没意识到呢？"
+msgstr "你的话很深刻， <CHARNAME>。我能感觉到宿命因你的意志而改变，你是预言的中心……我"
+"从前怎么没意识到呢？"
 
 #: balth.tra:1147
-#, fuzzy
-#| msgid ""
-#| "But the simple truth is your words ring hollow to me.  I do not believe "
-#| "them.  You have fought against destiny, yet I see it in you even the more as"
-#| " you speak."
 msgid ""
 "But the simple truth is your words ring hollow to me. I do not believe them."
 " You have fought against destiny, yet I see it in you even the more as you "
 "speak."
-msgstr "可惜，四个字，我不相信！抗争命运？很空洞，我看这句话用在你身上才合适。"
+msgstr "然而你的话对我而言很空洞。我不相信。你说你抗争过命运，但我看是你说的比做的多"
+"。"
 
 #: balth.tra:1148
-#, fuzzy
-#| msgid ""
-#| "Perhaps... perhaps there is something to your words.  I look within myself "
-#| "and see how rigidly I have held myself to my destiny... and I feel hollow.  "
-#| "But I... cannot believe that this has been for nothing."
 msgid ""
 "Perhaps... perhaps there is something to your words. I look within myself "
 "and see how rigidly I have held myself to my destiny... and I feel hollow. "
 "But I... cannot believe that this has been for nothing."
-msgstr "也许......也许你的话有些道理，当我沿着信念的道路走下去时，感受到的只有空虚，但我很难相信之前所做的一切......竟然毫无意义。"
+msgstr "也许……也许你的话有些道理。我审视自己，看到了自己是如何顺从宿命……并且我感受到"
+"的只有空虚。但我很难相信之前所做的一切……竟然毫无意义。"
 
 #: balth.tra:1149
-#, fuzzy
-#| msgid "What do you mean?  How do you know this?"
 msgid "What do you mean? How do you know this?"
-msgstr "你怎么知道这些的？"
+msgstr "你是什么意思？你怎么知道这些的？"
 
 #: balth.tra:1150
-#, fuzzy
-#| msgid ""
-#| "It was told to me by a Solar, an agent of prophecy!  It... oh, I know how it"
-#| " sounds, but it's true!"
 msgid ""
 "It was told to me by a Solar, an agent of prophecy! It... oh, I know how it "
 "sounds, but it's true!"
-msgstr "是一个神使告诉我的，预言的代理人！她......我知道这听起来难以置信，但却是真的！"
+msgstr "是一个炽天神侍告诉我的，预言的代理人！这……哦，我知道这听起来难以置信，但却是"
+"真的！"
 
 #: balth.tra:1151
 #, fuzzy
