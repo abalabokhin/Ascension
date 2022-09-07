@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-07 06:30+0000\n"
+"PO-Revision-Date: 2022-09-07 07:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -591,7 +591,9 @@ msgid ""
 "know too well the thirst for death that comes with the taint of our sire. I "
 "have mastered it, but only barely... I pity those who are a slave to it."
 msgstr ""
-"我从未期望我的<PRO_BROTHERSISTER>会带给我任何不同的答案。来自我们父亲的血脉将招致对死亡与杀戮的崇拜。我对此已深有所感，甚至对你们这些杀戮之王的奴隶深感同情。"
+"我从未期望我的<PRO_BROTHERSISTER>会带给我任何不同的答案。来自我们父亲的污秽将"
+"招致对死亡与杀戮的崇拜。我对此已深有所感，甚至对你们这些杀戮之王的奴隶深感同"
+"情。"
 
 #: balth.tra:1081
 msgid ""
@@ -1231,40 +1233,25 @@ msgstr "我并不认为我的所作所为值得赞扬，但这是我达成目标
 "了大错，你的疏忽造成的伤害比我的策划造成的伤害还多。"
 
 #: balth.tra:1171
-#, fuzzy
-#| msgid ""
-#| "I will *not* be mocked so!  I have sacrificed my entire life, the people of "
-#| "this village, everything I have in order to see this evil destroyed!  "
-#| "Destroyed, all of it!  I cry out to Ao the Overfather that such evil must "
-#| "not be allowed to live in the hearts of mortals, and I *will* be heard!"
 msgid ""
 "I will *not* be mocked so! I have sacrificed my entire life, the people of "
 "this village, everything I have in order to see this evil destroyed! "
 "Destroyed, all of it! I cry out to Ao the Overfather that such evil must not"
 " be allowed to live in the hearts of mortals, and I *will* be heard!"
 msgstr ""
-"我不是这么容易被愚弄的！为了毁灭这个邪恶，我牺牲了自己的生命，这个镇里的人民，我所拥有的一切！全都被毁了！我向众神之神祈祷，这样的邪恶绝对不允许在人心中存留。"
+"我*不会*被这么愚弄的！为了毁灭这个邪恶，我牺牲了自己的一生，这个镇里的人民，"
+"我所拥有的一切！全都被毁了！我向众神之神大声呼喊，决不能让这样的邪恶在凡人心"
+"中存留，祇*会*回应我的！"
 
 #: balth.tra:1172
-#, fuzzy
-#| msgid ""
-#| "I... know only what the temptations are that the taints puts upon us, "
-#| "<CHARNAME>.  I know only that if our power was to grow, if your power was to"
-#| " grow, that so would the temptation."
 msgid ""
 "I... know only what the temptations are that the taints puts upon us, "
 "<CHARNAME>. I know only that if our power was to grow, if your power was to "
 "grow, that so would the temptation."
-msgstr "我......只知道这个诱惑存在于我们的天赋之中，每当我们的力量更强大，这种诱惑也就更强烈。"
+msgstr "我……只知道污秽对我们的诱惑是什么，<CHARNAME>。我只知道，每当我们的力量增长时"
+"，这种诱惑也会随之增强。"
 
 #: balth.tra:1173
-#, fuzzy
-#| msgid ""
-#| "But... you have been successful in fighting temptation.  More successful "
-#| "than I.  I have... done much that I regret, in the name of good.  My people "
-#| "suffer because I held my ultimate goal above all else... but is it not true "
-#| "that our treatment of the least of our brethren is the true judge of a man's"
-#| " soul?  I... I am ashamed."
 msgid ""
 "But... you have been successful in fighting temptation. More successful than"
 " I. I have... done much that I regret, in the name of good. My people suffer"
@@ -1272,38 +1259,25 @@ msgid ""
 "our treatment of the least of our brethren is the true judge of a man's "
 "soul? I... I am ashamed."
 msgstr ""
-"但......你的确成功的对抗了这种诱惑，比我成功的多，在正义之名下我干了很多后悔的事，我的人民因为我的目标而受苦，但是我们如何对待手足同胞不正是判断一个人心灵善恶的准绳吗？我很羞愧。"
+"但……你成功地抵制了这种诱惑。比我成功的多。在正义之名下，我……做了很多后悔的事"
+"。我的人民因为我把最终目标置于一切之上而受苦……但是我们对待手足同胞的方式，不"
+"正是判断一个人心灵善恶的准绳吗？我……我很羞愧。"
 
 #: balth.tra:1174
-#, fuzzy
-#| msgid ""
-#| "And despite what you might profess, I think the taint sits closer to your "
-#| "heart then you would have me believe.  I must walk my own path, "
-#| "<CHARNAME>...and you must walk yours."
 msgid ""
 "And despite what you might profess, I think the taint sits closer to your "
 "heart then you would have me believe. I must walk my own path, "
 "<CHARNAME>...and you must walk yours."
-msgstr "不管你怎么说，我认为天赋影响了你的思想，我必须沿着我的路走下去，<CHARNAME>，你也一样。"
+msgstr "不管你做出何种说辞，我认为污秽比你所自诩的更接近你的内心。我必须沿着我的路走"
+"下去，<CHARNAME>……而你也一样。"
 
 #: balth.tra:1175
-#, fuzzy
-#| msgid ""
-#| "Very well.  Come, my students... my teachings are ended.  We make our last "
-#| "stand now for what is right.  May the gods have pity on us all."
 msgid ""
 "Very well. Come, my students... my teachings are ended. We make our last "
 "stand now for what is right. May the gods have pity on us all."
-msgstr "很好，来吧，我的学生们，我的课结束了，我们必须为正义而战，愿神宽恕我们。"
+msgstr "很好。来吧，我的学生们……我的教学束了。我们必须为正义而战。愿神宽恕我们。"
 
 #: balth.tra:1176
-#, fuzzy
-#| msgid ""
-#| "Even had destiny not brought us to this point, I doubt things would have "
-#| "been different.  Perhaps if you had not borne the taint of our sire, things "
-#| "might have been different with you.  I would have liked to meet a "
-#| "<PRO_MANWOMAN> such as yourself without the taint on your soul, I think.  "
-#| "But now I have little choice."
 msgid ""
 "Even had destiny not brought us to this point, I doubt things would have "
 "been different. Perhaps if you had not borne the taint of our sire, things "
@@ -1311,7 +1285,9 @@ msgid ""
 "<PRO_MANWOMAN> such as yourself without the taint on your soul, I think. But"
 " now I have little choice."
 msgstr ""
-"即使是命运，也没有让我们达成共识，有些东西的确是变了，可能你并没有背负着这种命运，可能事情在你那里会有变化。话说回来，如果你没有这样的天赋，我会很高兴认识你，但现在，我没有别的选择。"
+"即使是命运，也没有让我们达成共识，虽然有些东西的确是变了。如果你没有带着我们"
+"父亲的污秽出生，也许事情会有所不同。我想，如果你的灵魂里没有这样的污秽，我会"
+"很高兴认识你。但现在，我没有别的选择。"
 
 #: balth.tra:1177
 #, fuzzy
