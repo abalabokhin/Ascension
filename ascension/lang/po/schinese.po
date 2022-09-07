@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-07 10:30+0000\n"
+"PO-Revision-Date: 2022-09-07 11:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -1493,164 +1493,103 @@ msgid ""
 "I require satisfaction before the Child of Bhaal makes any sort of decision,"
 " creature. Both my brother and this... Melissan, lie dead. Your hunt has "
 "been delightfully successful, <CHARNAME>."
-msgstr "在巴尔之子做出任何决定前，我来索取我的报酬，生物。我弟弟和这个......"
-"梅丽珊，都死了。你的狩猎非常成功，<CHARNAME>。"
+msgstr "在巴尔之子做出任何决定前，我来索取我的报酬，生物。我弟弟和这个……梅丽珊，都死"
+"了。你的狩猎非常成功，<CHARNAME>。"
 
 #: bodhi_solar.tra:73
-#, fuzzy
-#| msgid ""
-#| "But do not forget our deal.  I am impatient for the piece of your soul you "
-#| "promised me.  I have enjoyed our dance Child of Bhaal, but I tire of this "
-#| "place.  Give me what I want so I may leave... we need not meet each other "
-#| "again, unless you wish it."
 msgid ""
 "But do not forget our deal. I am impatient for the piece of your soul you "
 "promised me. I have enjoyed our dance Child of Bhaal, but I tire of this "
 "place. Give me what I want so I may leave... we need not meet each other "
 "again, unless you wish it."
 msgstr ""
-"别忘了我们的交易，我在耐心的等待着你允诺的那部分灵魂，跟你在一起很有趣，但我厌倦了这个地方，给我我要的我会立刻离开......我们不会再见面了，除非你想要。"
+"但别忘了我们的交易。我在耐心地等待着你允诺的那部分灵魂。我很享受我们的舞蹈，"
+"巴尔之子，但我厌倦了这个地方。给我我想要的，这样我就可以离开了……我们不没必要"
+"再见面了，除非你希望这样。"
 
 #: bodhi_solar.tra:74
-#, fuzzy
-#| msgid ""
-#| "It was a pleasure to have you fight by my side, Bodhi.  You have earned this"
-#| " reward."
 msgid ""
 "It was a pleasure to have you fight by my side, Bodhi. You have earned this "
 "reward."
-msgstr "很高兴并肩作战，你赢得了这个。"
+msgstr "很高兴你在我这边作战，芭荻。这是你的酬劳。"
 
 #: bodhi_solar.tra:75
-#, fuzzy
-#| msgid ""
-#| "You shall have nothing.  Your use to me is at an end.  I shall enjoy sending"
-#| " you screaming back into the abyss."
 msgid ""
 "You shall have nothing. Your use to me is at an end. I shall enjoy sending "
 "you screaming back into the abyss."
-msgstr "你什么也得不到，你已经没用了，我很高兴送你回深渊。"
+msgstr "你什么也得不到。你已经没用了。我很高兴一边看你尖叫一边把你送回深渊。"
 
 #: bodhi_solar.tra:76
-#, fuzzy
-#| msgid ""
-#| "Hmmm, I could kill you... no, I have better things to do.  Take these scraps"
-#| " of my essence and depart."
 msgid ""
 "Hmmm, I could kill you... no, I have better things to do. Take these scraps "
 "of my essence and depart."
-msgstr "嗯......我可以杀了你，但我还有更重要的事去做，拿着滚吧。"
+msgstr "嗯，我可以杀了你……不，我还有更重要的事去做。拿着我精华的碎屑滚吧。"
 
 #: bodhi_solar.tra:77
-#, fuzzy
-#| msgid ""
-#| "No Bodhi, I think I will keep all of my soul.  You will fall back into the "
-#| "abyss.  Give Bhaal my regards."
 msgid ""
 "No Bodhi, I think I will keep all of my soul. You will fall back into the "
 "abyss. Give Bhaal my regards."
-msgstr "不，我要保留我的灵魂，滚回深渊去吧，顺便帮我向巴尔带好。"
+msgstr "不，芭荻，我要保留我的灵魂。滚回深渊去吧。顺便帮我向巴尔问好。"
 
 #: bodhi_solar.tra:78
-#, fuzzy
-#| msgid ""
-#| "Fool!  You think to betray me, Child of Bhaal?  I refuse to return to the "
-#| "abyss.  I shall rip every shred of that soul from your body!  Let the dance "
-#| "end here!"
 msgid ""
 "Fool! You think to betray me, Child of Bhaal? I refuse to return to the "
 "abyss. I shall rip every shred of that soul from your body! Let the dance "
 "end here!"
-msgstr "蠢货，你想背叛我？巴尔之子，我不会回去的，我要把你撕成碎片！来吧！"
+msgstr "蠢货！你想背叛我，巴尔之子？我不会回深渊去的。我要把你的灵魂撕成碎片！让舞会"
+"就此结束吧！"
 
 #: bodhi_solar.tra:79
-#, fuzzy
-#| msgid ""
-#| "This is my realm, Bodhi.  I control everything here.  It is time for you to "
-#| "join your brother."
 msgid ""
 "This is my realm, Bodhi. I control everything here. It is time for you to "
 "join your brother."
-msgstr "这是我的地盘，我操控着一切，去跟你的弟弟见面吧。"
+msgstr "这是我的地盘，芭荻。我操控着一切。去跟你的弟弟见面吧。"
 
 #: bodhi_solar.tra:80
-#, fuzzy
-#| msgid ""
-#| "Enough talk!  The dance has come to an end, Bodhi, and so has your part in "
-#| "it."
 msgid ""
 "Enough talk! The dance has come to an end, Bodhi, and so has your part in "
 "it."
-msgstr "够了，结束了！"
+msgstr "说得够多了！舞会结束了，芭荻，你也该退场了。"
 
 #: bodhi_solar.tra:81
-#, fuzzy
-#| msgid "Die!  Witness my power, insect!"
 msgid "Die! Witness my power, insect!"
-msgstr "死吧，作为我力量的见证！"
+msgstr "死吧！看看我的力量吧，蛆虫！"
 
 #: bodhi_solar.tra:82
-#, fuzzy
-#| msgid ""
-#| "Oh Bodhi, you should have begged.  I would have liked to see that.  Too late"
-#| " now."
 msgid ""
 "Oh Bodhi, you should have begged. I would have liked to see that. Too late "
 "now."
-msgstr "噢，你如果哀求我，我会很高兴的，但是现在太晚了。"
+msgstr "哦，芭荻，你应该哀求我的。我很想看到。但是现在太晚了。"
 
 #: bodhi_solar.tra:83
-#, fuzzy
-#| msgid ""
-#| "So you have betrayed me, <CHARNAME>.  It would seem that working together "
-#| "was never our true calling."
 msgid ""
 "So you have betrayed me, <CHARNAME>. It would seem that working together was"
 " never our true calling."
-msgstr "你背叛了我，巴尔之子，看起来我们永远不会真正的并肩作战。"
+msgstr "你背叛了我，<CHARNAME>。看起来我们永远不会真正的合作。"
 
 #: bodhi_solar.tra:84
-#, fuzzy
-#| msgid ""
-#| "Ahhhhh, such feeling.  I feel the life flow through me!  Such a gift you "
-#| "carry Child of Bhaal...  such power...  such strength.  Oh this is simply "
-#| "divine!"
 msgid ""
 "Ahhhhh, such feeling. I feel the life flow through me! Such a gift you carry"
 " Child of Bhaal... such power... such strength. Oh this is simply divine!"
-msgstr "啊......这种感觉，我感到生命回到了我的身体！这种力量，这是神格的力量！"
+msgstr "啊——这种感觉。我感到生命流回了我的身体！你有这样的天赋，巴尔之子……这种能力……"
+"这种力量。哦，这是神格的力量！"
 
 #: bodhi_solar.tra:85
-#, fuzzy
-#| msgid ""
-#| "Such an ungrateful <PRO_MANWOMAN> you are.  Still, I have life once more, "
-#| "and I intend to enjoy it.  Perhaps the wizards of Spellhold still wish to "
-#| "play?"
 msgid ""
 "Such an ungrateful <PRO_MANWOMAN> you are. Still, I have life once more, and"
 " I intend to enjoy it. Perhaps the wizards of Spellhold still wish to play?"
-msgstr "你可真是个讨厌的人，尽管如此，我还是有生命了，我也很喜欢。也许禁魔堡垒的法师还想要玩玩？"
+msgstr "你可真是个讨厌的<PRO_MANWOMAN>。不过，我再次拥有了生命了，我打算去享受它。也"
+"许禁魔监狱的法师们还想再玩玩？"
 
 #: bodhi_solar.tra:86
-#, fuzzy
-#| msgid ""
-#| "Well, Child of Bhaal, it would seem that our time together is at an end.  I "
-#| "shall enjoy carrying this piece of you with me.  Perhaps we shall meet "
-#| "again, you and I..."
 msgid ""
 "Well, Child of Bhaal, it would seem that our time together is at an end. I "
 "shall enjoy carrying this piece of you with me. Perhaps we shall meet again,"
 " you and I..."
-msgstr "哦，巴尔之子，看来我们在一起的时间走到尽头了。我会记住你和我一起的这段时光的，我们还会再见的，你和我......"
+msgstr "好吧，巴尔之子，看来我们在一起的时间已经结束了。我很高兴带走你的这块碎片的。"
+"也许我们还会再见面的，你和我……"
 
 #: bodhi_solar.tra:586
-#, fuzzy
-#| msgid ""
-#| "While it fills me with distaste that you would even bring such a creature of"
-#| " evil before me, god-child, you must remember that in this place an oath is "
-#| "worth more than the words with which it is spoken.  You are no god yet... "
-#| "and while I would rather destroy this undead thing, it now falls on me to "
-#| "enforce the promise you have made."
 msgid ""
 "While it fills me with distaste that you would even bring such a creature of"
 " evil before me, god-child, you must remember that in this place an oath is "
@@ -1658,7 +1597,9 @@ msgid ""
 " while I would rather destroy this undead thing, it now falls on me to "
 "enforce the promise you have made."
 msgstr ""
-"你竟然把这样邪恶的东西带到了我面前，神之子，你要知道，无论你在这里说了什么，你都必须履行这个誓言。你还不是神呢......虽然我可以立刻摧毁这个不死生物，但是我必须让你完成你的承诺。"
+"你竟然把这样邪恶的东西带到了我面前，神之子，虽然这使我厌恶至极，但你要知道，"
+"无论你在这里说了什么，你都必须履行这个誓言。你还不是神呢……虽然我宁愿摧毁这个"
+"不死生物，但我必须让你完成你的承诺。"
 
 #: description.tra:1
 #, fuzzy
