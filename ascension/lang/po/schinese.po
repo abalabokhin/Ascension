@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-07 09:30+0000\n"
+"PO-Revision-Date: 2022-09-07 10:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -24,6 +24,7 @@ msgid "Transform Into Bat"
 msgstr "蝙蝠形态"
 
 #: ascension.tra:1006 tougher.tra:9
+#, fuzzy
 msgid "Shockwave"
 msgstr "冲击波"
 
@@ -32,10 +33,12 @@ msgid "Lightning Aura"
 msgstr "闪电灵光"
 
 #: ascension.tra:1009
+#, fuzzy
 msgid "Telekinesis"
 msgstr "心灵传动"
 
 #: ascension.tra:1012
+#, fuzzy
 msgid "Flip Resistances"
 msgstr "反转抗力"
 
@@ -44,22 +47,27 @@ msgid "Control Demon"
 msgstr "控制恶魔"
 
 #: ascension.tra:1014
+#, fuzzy
 msgid "Focus"
 msgstr "能量聚焦"
 
 #: ascension.tra:1016
+#, fuzzy
 msgid "Divine Mantle"
 msgstr "非凡防御"
 
 #: ascension.tra:1017
+#, fuzzy
 msgid "Draw Power"
 msgstr "非凡之力"
 
 #: ascension.tra:1018
+#, fuzzy
 msgid "Divine Spell Shield"
 msgstr "非凡护盾"
 
 #: ascension.tra:1019
+#, fuzzy
 msgid "Command Demon"
 msgstr "驱役恶魔"
 
@@ -68,18 +76,22 @@ msgid "Banish"
 msgstr "放逐术"
 
 #: ascension.tra:1022
+#, fuzzy
 msgid "Unleash"
 msgstr "能量释放"
 
 #: ascension.tra:1024
+#, fuzzy
 msgid "Feedback"
 msgstr "反馈"
 
 #: ascension.tra:1025
+#, fuzzy
 msgid "Divine Restoration"
 msgstr "非凡恢复"
 
 #: ascension.tra:1026
+#, fuzzy
 msgid "Divine Cleansing"
 msgstr "非凡净化"
 
@@ -100,18 +112,22 @@ msgid "Ravager Change"
 msgstr "变身终结者"
 
 #: ascension.tra:1038
+#, fuzzy
 msgid "Melissan: Command the Minions of the Abyss"
 msgstr "梅丽珊：驱役深渊爪牙"
 
 #: ascension.tra:1039
+#, fuzzy
 msgid "Bhaalspawn Power gained: Immunity to Energy Drain"
 msgstr "获得巴尔神力：免疫能量吸取"
 
 #: ascension.tra:1040
+#, fuzzy
 msgid "Bhaalspawn Power gained: 25% physical damage resistance"
 msgstr "获得巴尔神力：物理伤害抗性提高25％"
 
 #: ascension.tra:1041
+#, fuzzy
 msgid "Transfixed"
 msgstr "惊恐"
 
@@ -124,10 +140,12 @@ msgid "Grabbed"
 msgstr "被抓住"
 
 #: ascension.tra:1044
+#, fuzzy
 msgid "Regains Bhaal powers"
 msgstr "重新获得巴尔能力"
 
 #: ascension.tra:1045
+#, fuzzy
 msgid "You have regained control for now."
 msgstr "你现在已经恢复控制。"
 
@@ -1275,7 +1293,7 @@ msgstr "不管你做出何种说辞，我认为污秽比你所自诩的更接近
 msgid ""
 "Very well. Come, my students... my teachings are ended. We make our last "
 "stand now for what is right. May the gods have pity on us all."
-msgstr "很好。来吧，我的学生们……我的教学束了。我们必须为正义而战。愿神宽恕我们。"
+msgstr "很好。来吧，我的学生们……我的教学结束了。我们必须为正义而战。愿神宽恕我们。"
 
 #: balth.tra:1176
 msgid ""
@@ -1382,52 +1400,33 @@ msgstr ""
 "为一个普通的凡人，按照你认为合适的方式去追随命运。"
 
 #: balth_finsol.tra:584
-#, fuzzy
-#| msgid ""
-#| "As you wish, Balthazar, so it is done.  Go in peace, and know that in the "
-#| "end you walked that narrow path which had ever eluded you."
 msgid ""
 "As you wish, Balthazar, so it is done. Go in peace, and know that in the end"
 " you walked that narrow path which had ever eluded you."
-msgstr "如你所愿，巴尔撒扎，完成了，平静的离去吧，记住那种坎坷的岁月永远的离开了你。"
+msgstr "如你所愿，巴萨札，这样就结束了。平静的离去吧，要记住，你在最后走的那条你一直"
+"在逃避的路。"
 
 #: balth_finsol.tra:585
 msgid "Now there is but one other sibling who must also make her choice."
-msgstr "现在，她也必须做出选择。"
+msgstr "现在，另一位巴尔之子也必须做出她的选择。"
 
 #: balth_finsol.tra:1009
-#, fuzzy
-#| msgid "You... you are so beautiful.  I... had no idea..."
 msgid "You... you are so beautiful. I... had no idea..."
-msgstr "你......你真美。我......我不知道。"
+msgstr "你……你太美了。 我……不知道……"
 
 #: balth_finsol.tra:1010
-#, fuzzy
-#| msgid ""
-#| "Choose?  You mean... I may rid myself of the taint on my soul forever?"
 msgid "Choose? You mean... I may rid myself of the taint on my soul forever?"
-msgstr "选择？你是说......我可以永远除去这种天赋？"
+msgstr "选择？你是说……我可以从灵魂里永远除去这种污秽？"
 
 #: balth_finsol.tra:1011
-#, fuzzy
-#| msgid ""
-#| "And there is nothing that I ever wanted more.  I choose to become a mortal "
-#| "gladly, and with all my heart.  To walk the earth without that dark burden "
-#| "twisting my soul... I... I cannot even imagine..."
 msgid ""
 "And there is nothing that I ever wanted more. I choose to become a mortal "
 "gladly, and with all my heart. To walk the earth without that dark burden "
 "twisting my soul... I... I cannot even imagine..."
-msgstr "我没有别的愿望了，我很高兴成为一个凡人，这种天赋所带来的的困扰，折磨......简直无法想象。"
+msgstr "我没有别的愿望了。我从心底感到高兴，能够成为一个凡人。在没有那种黑暗负担扭曲"
+"我的灵魂的情况下走遍大陆……我……我简直无法想象……"
 
 #: balth_finsol.tra:1012
-#, fuzzy
-#| msgid ""
-#| "I cannot thank you enough, <CHARNAME>, for the gift you have given me.  I "
-#| "once thought I had done everything I could to fight for what was good... but"
-#| " it was you that showed me how wrong I was.  Without you, I would have died "
-#| "with that stain upon my soul and perhaps even been Melissan's puppet "
-#| "forever."
 msgid ""
 "I cannot thank you enough, <CHARNAME>, for the gift you have given me. I "
 "once thought I had done everything I could to fight for what was good... but"
@@ -1435,86 +1434,67 @@ msgid ""
 "with that stain upon my soul and perhaps even been Melissan's puppet "
 "forever."
 msgstr ""
-"我非常感谢你，<CHARNAME>，你给了我最珍贵的礼物。我原来认为我所做的都是对的......但你证明了我大错特错。如果不是你，我可能就会带着这个污点死去，甚至会成为梅丽珊的傀儡。"
+"我不知道怎么感谢你才好，<CHARNAME>，你给了我最珍贵的礼物。我曾认为我所奋斗的"
+"一切都是对的……是你证明了我大错特错。如果不是你，我可能就会带着灵魂上的污点而"
+"死去，甚至可能会永远成为梅丽珊的傀儡。"
 
 #: balth_finsol.tra:1013
-#, fuzzy
-#| msgid ""
-#| "I cannot pretend to know what you are thinking, now, of the decision you "
-#| "must make.  Nor do I pretend to certainty that the taint would bring such a "
-#| "<PRO_MANWOMAN> such as yourself towards evil.  Perhaps you would overcome "
-#| "that taint and be a good god, I cannot say."
 msgid ""
 "I cannot pretend to know what you are thinking, now, of the decision you "
 "must make. Nor do I pretend to certainty that the taint would bring such a "
 "<PRO_MANWOMAN> such as yourself towards evil. Perhaps you would overcome "
 "that taint and be a good god, I cannot say."
-msgstr "我的确不知道你在想什么，现在，这是你的决定。这种天赋会把你引向邪恶么？也许你会克服这种天赋成为一位善良的神，我不知道。"
+msgstr ""
+"我的确不知道你在想什么，现在，你必须做出决定。我也不确定这种污秽是否会把像你"
+"这样的<PRO_MANWOMAN>带向邪恶。也许你会克服这种污秽而成为一位善良的神，我不知"
+"道。"
 
 #: balth_finsol.tra:1014
-#, fuzzy
-#| msgid ""
-#| "I just ask you to consider how Bhaal's taint has affected your life to this "
-#| "point.  Do you really wish to have all of it?  What type of person actually "
-#| "wishes to become a god?  Sarevok?  Irenicus?  Melissan?  Even if your "
-#| "intentions are good, what of an eternity being chained to such power?"
 msgid ""
 "I just ask you to consider how Bhaal's taint has affected your life to this "
 "point. Do you really wish to have all of it? What type of person actually "
 "wishes to become a god? Sarevok? Irenicus? Melissan? Even if your intentions"
 " are good, what of an eternity being chained to such power?"
 msgstr ""
-"我只想说再仔细考虑一下天赋给你所带来的影响，你真的想接受所有的天赋么？什么样的人才想登神？沙洛弗克？伊雷尼库斯？梅丽珊？即使你的本意是好的，但这种永恒会带来什么？"
+"我只是请你考虑一下，巴尔的污秽是如何影响你的生活的。你真的想接受所有的污秽吗"
+"？什么样的人才想登神？沙洛弗克？艾瑞尼卡斯？梅丽珊？即使你的本意是好的，但永"
+"远被束缚在这样的力量上又会变成怎样？"
 
 #: balth_finsol.tra:1015
-#, fuzzy
-#| msgid ""
-#| "The choice is your own.  You know yourself better than I.  I simply ask that"
-#| " you consider the life you might have led, the mortal life, had the taint "
-#| "never visited itself upon you back at Candlekeep.  I look forward to my own."
 msgid ""
 "The choice is your own. You know yourself better than I. I simply ask that "
 "you consider the life you might have led, the mortal life, had the taint "
 "never visited itself upon you back at Candlekeep. I look forward to my own."
-msgstr "这是你的选择，你比我了解你自己，我只想请你回忆一下原先的生活吧，那平凡的生活，没有天赋所困扰的生活。我一直渴望着那样的生活。"
+msgstr "这是你自己的选择。你比我了解你自己。我只想请你回忆一下原先的生活，那平凡的生"
+"活，污秽觉醒前在烛堡的生活。我一直向往着那样的生活。"
 
 #: balth_finsol.tra:1016
-#, fuzzy
-#| msgid ""
-#| "And so it is done.  I believe you have made the right choice.  I look "
-#| "forward to meeting you again on FaerÃ»n, <CHARNAME>...as a mortal and a true"
-#| " <PRO_BROTHERSISTER>."
 msgid ""
 "And so it is done. I believe you have made the right choice. I look forward "
 "to meeting you again on Faerun, <CHARNAME>...as a mortal and a true "
 "<PRO_BROTHERSISTER>."
-msgstr "一切都结束了，我相信你的选择是正确的。费仑再见，<CHARNAME>......我的凡人兄弟！"
+msgstr ""
+"一切都结束了。我相信你的选择是正确的。我期待在费伦再次见到你，<CHARNAME>……作"
+"为凡人，以及真正的<PRO_BROTHERSISTER>。"
 
 #: balth_finsol.tra:1017
-#, fuzzy
-#| msgid ""
-#| "And so you take the road less traveled, <CHARNAME>.  I cannot say I envy "
-#| "you.  I hope the power brings you what you expect and desire, my friend.  "
-#| "When I look up at the heavens and see the brightest star in the sky, I shall"
-#| " think of you and offer a prayer."
 msgid ""
 "And so you take the road less traveled, <CHARNAME>. I cannot say I envy you."
 " I hope the power brings you what you expect and desire, my friend. When I "
 "look up at the heavens and see the brightest star in the sky, I shall think "
 "of you and offer a prayer."
-msgstr "你选择了这条路，<CHARNAME>。我并不羡慕你，我希望这些天赋能带给你所期望的，朋友。当我仰望天空看到最亮的星星时，我会为你祈祷。，"
+msgstr ""
+"所以你选择了这条少有人走的路，<CHARNAME>。我不能说我羡慕你。我希望这力量能带"
+"给你所期望和渴望的东西，朋友。当我仰望天空，看到天上最亮的星星时，我会想起你"
+"并祈祷。"
 
 #: bodhi_solar.tra:72
-#, fuzzy
-#| msgid ""
-#| "I require satisfaction before the Child of Bhaal makes any sort of decision,"
-#| " creature.  Both my brother and this... Melissan, lie dead.  Your hunt has "
-#| "been delightfully successful, <CHARNAME>."
 msgid ""
 "I require satisfaction before the Child of Bhaal makes any sort of decision,"
 " creature. Both my brother and this... Melissan, lie dead. Your hunt has "
 "been delightfully successful, <CHARNAME>."
-msgstr "在<CHARNAME>做出任何决定前，我要我的报酬，生物，我弟弟和这个......梅丽珊，都死了，一切都结束了。"
+msgstr "在巴尔之子做出任何决定前，我来索取我的报酬，生物。我弟弟和这个......"
+"梅丽珊，都死了。你的狩猎非常成功，<CHARNAME>。"
 
 #: bodhi_solar.tra:73
 #, fuzzy
