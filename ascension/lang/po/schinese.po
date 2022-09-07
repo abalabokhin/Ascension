@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-07 08:30+0000\n"
+"PO-Revision-Date: 2022-09-07 09:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -1348,54 +1348,38 @@ msgstr ""
 "晰。"
 
 #: balth_finsol.tra:580
-#, fuzzy
-#| msgid ""
-#| "Only one other spawn of the dead god remains... the sibling who fought at "
-#| "your side.  His portion of the essence is less than your own, but still "
-#| "significant.  His choice must also be made."
 msgid ""
 "Only one other spawn of the dead god remains... the sibling who fought at "
 "your side. His portion of the essence is less than your own, but still "
 "significant. His choice must also be made."
-msgstr "现在，只剩你队里的巴尔之子了，尽管天赋比你少很多，但也很重要，现在必须做出选择。"
+msgstr "现在剩下的巴尔之子只剩下一位了……那位与你并肩作战的兄弟。他的那份精华虽然比你"
+"的少，但仍然很重要。他现在必须做出选择。"
 
 #: balth_finsol.tra:581
-#, fuzzy
-#| msgid ""
-#| "First, however, there is the matter of the children of the dead god who "
-#| "fought by your side.  Their essences are less than your own, but their "
-#| "decision no less important."
 msgid ""
 "First, however, there is the matter of the children of the dead god who "
 "fought by your side. Their essences are less than your own, but their "
 "decision no less important."
-msgstr "首先，你队里还有别的巴尔之子，尽管他们的天赋比你少的多，但也很重要，他们现在必须做出选择。"
+msgstr "然而，首先是与你并肩作战的其他巴尔之子的事情。尽管他们的精华比你的少，但他们"
+"的决定也很重要。"
 
 #: balth_finsol.tra:582
-#, fuzzy
-#| msgid ""
-#| "I am merely an agent of the universe in this matter, Balthazar.  I am "
-#| "charged to see the destiny of the children of Bhaal brought to its "
-#| "conclusion.  You have an opportunity that few are given.  You may choose "
-#| "your destiny... a choice you thought yourself forever denied."
 msgid ""
 "I am merely an agent of the universe in this matter, Balthazar. I am charged"
 " to see the destiny of the children of Bhaal brought to its conclusion. You "
 "have an opportunity that few are given. You may choose your destiny... a "
 "choice you thought yourself forever denied."
-msgstr "我只是这件事的代理人，巴尔撒扎，我负责将巴尔之子们的宿命结束，你是仅有的几个有机会选择的人，你必须选择你的宿命，这决定你的永远。"
+msgstr "我只是这件事的代理人，巴萨札。我负责见证巴尔之子们的宿命结束。你有一个他人罕"
+"有的机会。你可以选择你的命运……一个你曾认为自己会永远拒绝的选择。"
 
 #: balth_finsol.tra:583
-#, fuzzy
-#| msgid ""
-#| "If that is your choice, you may surrender the portion of your divine essence"
-#| " to your elder sibling.  You may become a normal mortal, with a destiny to "
-#| "follow as you see fit."
 msgid ""
 "If that is your choice, you may surrender the portion of your divine essence"
 " to your elder sibling. You may become a normal mortal, with a destiny to "
 "follow as you see fit."
-msgstr "如果这是你的选择，你可以把你的天赋交给你的<PRO_BROTHERSISTER>，你就会成为一个平常人，以及你想过的生活。"
+msgstr ""
+"如果这是你的选择，你会放弃你的神性精华，并交给你的<PRO_BROTHERSISTER>。你会成"
+"为一个普通的凡人，按照你认为合适的方式去追随命运。"
 
 #: balth_finsol.tra:584
 #, fuzzy
