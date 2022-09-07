@@ -4,34 +4,35 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2022-09-07 13:30+0000\n"
+"Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: ascension.tra:500
 msgid "Babau"
-msgstr ""
+msgstr "Babau"
 
 #: ascension.tra:1003
 msgid "Transform Into Bat"
-msgstr ""
+msgstr "Transformera Till Fladdermus"
 
 #: ascension.tra:1006 tougher.tra:9
 msgid "Shockwave"
-msgstr ""
+msgstr "Chockvåg"
 
 #: ascension.tra:1007 tougher.tra:10
 msgid "Lightning Aura"
-msgstr ""
+msgstr "Blixtaura"
 
 #: ascension.tra:1009
 msgid "Telekinesis"
-msgstr ""
+msgstr "Telekinesis"
 
 #: ascension.tra:1012
 msgid "Flip Resistances"
@@ -43,11 +44,11 @@ msgstr ""
 
 #: ascension.tra:1014
 msgid "Focus"
-msgstr ""
+msgstr "Fokusera"
 
 #: ascension.tra:1016
 msgid "Divine Mantle"
-msgstr ""
+msgstr "Gudomlig Mantel"
 
 #: ascension.tra:1017
 msgid "Draw Power"
