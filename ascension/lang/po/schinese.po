@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-07 04:30+0000\n"
+"PO-Revision-Date: 2022-09-07 06:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -1175,36 +1175,21 @@ msgstr "你没有资格评判我？真可笑！你所谓的必然性只是一个
 "们的父亲增光啊！"
 
 #: balth.tra:1165
-#, fuzzy
-#| msgid ""
-#| "And what if that is my path, too, Balthazar?  You say you don't judge me, "
-#| "and yet you hold yourself to some duty as the only person who can fight "
-#| "against evil?  Do you know destiny so well that you can say for certain "
-#| "where it leads for someone else, never mind yourself?"
 msgid ""
 "And what if that is my path, too, Balthazar? You say you don't judge me, and"
 " yet you hold yourself to some duty as the only person who can fight against"
 " evil? Do you know destiny so well that you can say for certain where it "
 "leads for someone else, never mind yourself?"
 msgstr ""
-"那我的路是什么呢？巴尔撒扎？你说你没法评价我，那你为什么认定自己就是唯一一个能对抗邪恶的人呢？你真的那么了解自己的宿命么？那你能知道未来要发生的事么？真要知道的话，你有什么可怕的呢？"
+"那如果这也是我的路呢，巴萨札？你说你没法评判我，那你为什么认定自己就是唯一一"
+"个能对抗邪恶的人呢？你如此肯定宿命会影响他人却不提及你自己，你真的那么了解自"
+"己的宿命吗？"
 
 #: balth.tra:1166
-#, fuzzy
-#| msgid "Then let's get this over with.  I'm tired of talking."
 msgid "Then let's get this over with. I'm tired of talking."
-msgstr "赶快结束吧，我有点累了。"
+msgstr "让我们赶快结束吧。我不想再说下去了。"
 
 #: balth.tra:1167
-#, fuzzy
-#| msgid ""
-#| "It... it is true.  I paid little attention to my men's actions, but I... I "
-#| "knew what they were doing.  I thought it a great sacridice, necessary to "
-#| "maintain secrecy, to attain my ultimate goal that they, in their ignorance, "
-#| "did not know would benefit them more in the end.  But... it is how we treat "
-#| "the most helpless of our brethren in the worst of times that marks the "
-#| "goodness of a man, does it not?  I... I am ashamed, <CHARNAME>.  I sought..."
-#| " only to do what was best for us all."
 msgid ""
 "It... it is true. I paid little attention to my men's actions, but I... I "
 "knew what they were doing. I thought it a great sacrifice, necessary to "
@@ -1214,44 +1199,36 @@ msgid ""
 "goodness of a man, does it not? I... I am ashamed, <CHARNAME>. I sought... "
 "only to do what was best for us all."
 msgstr ""
-"没错......我并没有管教我手下的行为，而且我......清楚的知道他们的所作所为。我想这是一个为了保守秘密而作出的巨大牺牲，那是为了达到我的最终目标。虽然，由于他们的无知，他们不知道这个目标最终会使他们获益更多。但是在困难时刻的所做所为最能体现出一个人的品德，不是么？在这点上我很羞愧，<CHARNAME>，但我的确是为了我们最根本的利益着想。"
+"没……没错。我并没有管教我手下的行为，而且我……知道他们的所作所为。我认为这是一"
+"个为了保守秘密而作出的巨大牺牲，那是为了达到我的最终目标。虽然，由于他们的无"
+"知，他们不知道这个目标最终会使他们获益更多。但……这就是我们在最糟糕的时期对待"
+"最无助的兄弟的方式，这标志着一个人的善良，不是吗？我……我很惭愧，<CHARNAME>。"
+"我寻求……只做对我们所有人最好的事情。"
 
 #: balth.tra:1168
-#, fuzzy
-#| msgid ""
-#| "You found out who the Five were through Melissan's scheming... and through, "
-#| "in no small part, my own.  But who is to say that things might not have been"
-#| " different?  Who are *you* to say that things might have been different?"
 msgid ""
 "You found out who the Five were through Melissan's scheming... and through, "
 "in no small part, my own. But who is to say that things might not have been "
 "different? Who are *you* to say that things might have been different?"
-msgstr "你找出了梅丽珊计划里的五人组，而且，我还是其中的一员，但有谁能说事情不会变化，你有什么资格说事情有所不同？"
+msgstr "你找出了梅丽珊计划里的五裔……而且，在很大程度上，我也是其中的一员。但是有谁能"
+"说事情会发生变化呢？*你*有什么资格说事情有所不同？"
 
 #: balth.tra:1169
-#, fuzzy
-#| msgid ""
-#| "But... it is true, nevertheless.  I have taken the easy path, and have done "
-#| "much that has brought harm to others in the name of necessity.  But when "
-#| "does 'necessity' cross into the realm of evil?  I... I am ashamed, "
-#| "<CHARNAME>."
 msgid ""
 "But... it is true, nevertheless. I have taken the easy path, and have done "
 "much that has brought harm to others in the name of necessity. But when does"
 " 'necessity' cross into the realm of evil? I... I am ashamed, <CHARNAME>."
-msgstr "但......没错，我选择了一个简单的办法，而且在必须的名义下伤害了很多人。我很惭愧，<CHARNAME>。"
+msgstr ""
+"但……尽管如此，没错。我选了一条简单的道路，并且做了很多以必要的名义伤害他人的"
+"事情。但是这个“必然”什么时候会跨入邪恶的领域呢？我……我很惭愧，<CHARNAME>。"
 
 #: balth.tra:1170
-#, fuzzy
-#| msgid ""
-#| "I do not stand here proud of my accomplishments in attaining what I see to "
-#| "be a necessary goal... but neither should you.  You have blundered about, "
-#| "causing more harm by your negligence than I ever could by my plotting."
 msgid ""
 "I do not stand here proud of my accomplishments in attaining what I see to "
 "be a necessary goal... but neither should you. You have blundered about, "
 "causing more harm by your negligence than I ever could by my plotting."
-msgstr "我并不认为我的所作所为值得赞扬，但这是我达成目标的必经之路，你也一样，你的疏忽也对他人造成了严重的伤害。"
+msgstr "我并不认为我的所作所为值得赞扬，但这是我达成目标的必经之路……但你也一样。你犯"
+"了大错，你的疏忽造成的伤害比我的策划造成的伤害还多。"
 
 #: balth.tra:1171
 #, fuzzy
