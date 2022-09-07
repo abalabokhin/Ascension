@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-07 07:30+0000\n"
+"PO-Revision-Date: 2022-09-07 08:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -109,7 +109,7 @@ msgstr "获得巴尔神力：免疫能量吸取"
 
 #: ascension.tra:1040
 msgid "Bhaalspawn Power gained: 25% physical damage resistance"
-msgstr "获得巴尔神力：物理伤害抗性提高25%"
+msgstr "获得巴尔神力：物理伤害抗性提高25％"
 
 #: ascension.tra:1041
 msgid "Transfixed"
@@ -133,7 +133,7 @@ msgstr "你现在已经恢复控制。"
 
 #: ascension.tra:1046 ascension.tra:1047
 msgid "Magic Resistance lowered by 5%"
-msgstr "魔法抗力降低5%"
+msgstr "魔法抗力降低5％"
 
 #: ascension.tra:1048
 msgid "Slayer transformation enhanced"
@@ -1290,28 +1290,16 @@ msgstr ""
 "很高兴认识你。但现在，我没有别的选择。"
 
 #: balth.tra:1177
-#, fuzzy
-#| msgid ""
-#| "Would that your claim of innocence meant anything to the dead of Saradush.  "
-#| "Were I to question the recent dead of Athkatla, of Baldur's Gate, of "
-#| "Candlekeep... would I not find some who would claim such innocence for "
-#| "themselves?  Who died merely because they were caught in your wake?"
 msgid ""
 "Would that your claim of innocence meant anything to the dead of Saradush. "
 "Were I to question the recent dead of Athkatla, of Baldur's Gate, of "
 "Candlekeep... would I not find some who would claim such innocence for "
 "themselves? Who died merely because they were caught in your wake?"
 msgstr ""
-"你敢说对史拉督许城的屠杀一点责任没有么，还有你在阿斯卡特拉，博得之门，烛堡杀死的人里，没有无辜的么？有多少仅仅是因为打扰了你的休息而被杀的？"
+"你敢说你对萨拉督许的死者一点责任没有吗。还有那些近期死在阿斯卡特拉、博德之门"
+"和烛堡的人……这其中难道没有无辜的人吗？有多少人是被你抓到后杀死的？"
 
 #: balth.tra:1178
-#, fuzzy
-#| msgid ""
-#| "Do you think that others of our kind are any different?  Count them, "
-#| "<CHARNAME>, and think of the multitudes of Bhaalspawn that existed and "
-#| "brought misery to others, if not by intent, then even by their very "
-#| "presence.  Would you allow such carnage to continue?  Have we not spared the"
-#| " entire land from agony by the slaying of our siblings?"
 msgid ""
 "Do you think that others of our kind are any different? Count them, "
 "<CHARNAME>, and think of the multitudes of Bhaalspawn that existed and "
@@ -1319,60 +1307,45 @@ msgid ""
 "presence. Would you allow such carnage to continue? Have we not spared the "
 "entire land from agony by the slaying of our siblings?"
 msgstr ""
-"你认为其他的巴尔之子会有所区别么？想想吧，<CHARNAME>，我们只能给其他人带来不幸，即使不是我们的本意，内在的天赋也会为他人带来死亡，你会允许这样的屠杀发生么？我们正在给整个大陆带来苦恼与不幸！"
+"你认为其他的巴尔后裔会有所区别吗？想想吧，<CHARNAME>，这世上有着众多的巴尔后"
+"裔，即便不是出自他们本意，仅仅是存在就会给他人带来苦难。你会允许这样的屠杀继"
+"续吗？我们不是为了让整个大陆免于苦难才杀害自己的手足的吗？"
 
 #: balth.tra:1179
-#, fuzzy
-#| msgid ""
-#| "You believe yourself to be the master of your destiny, do you?  The destiny "
-#| "foreseen long ago by Alaundo?  You believe it by choice alone that you ended"
-#| " up here, in this place?"
 msgid ""
 "You believe yourself to be the master of your destiny, do you? The destiny "
 "foreseen long ago by Alaundo? You believe it by choice alone that you ended "
 "up here, in this place?"
-msgstr "你相信能够掌控自己的命运？那久远以前阿兰多所做的预言，你相信它会因你的选择而改变么？"
+msgstr "你相信你能够掌控自己的命运，不是吗？那个阿兰多在很久以前做出的预言？你认为你"
+"独自一人就能在这里终结它吗？"
 
 #: balth.tra:1180
-#, fuzzy
-#| msgid ""
-#| "You mistake the path for the journey, my friend.  Whatever paths you have "
-#| "taken since leaving Candlekeep, the journey has ended here as it was always "
-#| "meant to.  Destiny masters us... we do not master it."
 msgid ""
 "You mistake the path for the journey, my friend. Whatever paths you have "
 "taken since leaving Candlekeep, the journey has ended here as it was always "
 "meant to. Destiny masters us... we do not master it."
-msgstr "你误解了旅途的意思，我的朋友，无论你从烛堡出发时选择了怎样的路，旅途到这里都该终结了。还是那句话：事情能改变人，而人改变不了事情。"
+msgstr "你误解了旅途的意思，我的朋友。无论你从烛堡出发时选择了怎样的道路，旅途到这里"
+"都该结束了。天命有归，人谋不及。"
 
 #: balth.tra:1181
-#, fuzzy
-#| msgid ""
-#| "Yes, whether they were obstacles to be overcome or merely by-standers "
-#| "crossing your path.  My own life has been little different, no matter how I "
-#| "have struggled against it.  I am glad you see this... it will make things "
-#| "much easier."
 msgid ""
 "Yes, whether they were obstacles to be overcome or merely by-standers "
 "crossing your path. My own life has been little different, no matter how I "
 "have struggled against it. I am glad you see this... it will make things "
 "much easier."
-msgstr ""
-"没错，无论他们是需要克服的障碍，还是擦肩而过的路人，我的命运不会有任何改变，无论我需要做出怎样的努力，我很高兴你明白这点......这会使事情简单的多。"
+msgstr "没错，无论他们是需要克服的障碍，还是擦肩而过的路人。无论我如何挣扎，我自己的"
+"人生都不会有所不同。我很高兴你明白这点……这会使事情简单很多。"
 
 #: balth.tra:1182
-#, fuzzy
-#| msgid ""
-#| "You sound like Yaga-Shura, a giant in ego as well as body.  Yet he fell, "
-#| "too, when his fate came due.  The power of your blood may yet make you "
-#| "victorious, it is true, but the fact that you embrace the taint within you "
-#| "makes my own path that much the clearer."
 msgid ""
 "You sound like Yaga-Shura, a giant in ego as well as body. Yet he fell, too,"
 " when his fate came due. The power of your blood may yet make you "
 "victorious, it is true, but the fact that you embrace the taint within you "
 "makes my own path that much the clearer."
-msgstr "你有点像亚加舒拉，一个自私的巨人，他注定了要失败。你血液中的力量可能会使你成功，没错，但是你拥抱天赋的行为会使得你的结局更加确定。"
+msgstr ""
+"你有点像雅加苏拉，身心强大。然而，当他的命运来临时，他也倒下了。你血脉中的力"
+"量可能会让你胜利，没错，但是你拥抱你内在的污污秽这一事实使我自己的道路更加清"
+"晰。"
 
 #: balth_finsol.tra:580
 #, fuzzy
