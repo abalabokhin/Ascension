@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-07 13:30+0000\n"
+"PO-Revision-Date: 2022-09-07 16:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -36,11 +36,11 @@ msgstr "Telekinesis"
 
 #: ascension.tra:1012
 msgid "Flip Resistances"
-msgstr ""
+msgstr "Omvänd Motstånd"
 
 #: ascension.tra:1013
 msgid "Control Demon"
-msgstr ""
+msgstr "Kontrollera Demon"
 
 #: ascension.tra:1014
 msgid "Focus"
@@ -52,11 +52,11 @@ msgstr "Gudomlig Mantel"
 
 #: ascension.tra:1017
 msgid "Draw Power"
-msgstr ""
+msgstr "Dra Kraft"
 
 #: ascension.tra:1018
 msgid "Divine Spell Shield"
-msgstr ""
+msgstr "Gudomlig Trollsköld"
 
 #: ascension.tra:1019
 msgid "Command Demon"
