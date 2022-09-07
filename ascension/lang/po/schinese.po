@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-06 14:30+0000\n"
+"PO-Revision-Date: 2022-09-07 04:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -663,7 +663,8 @@ msgid ""
 " a larger purpose behind it... I seek to end the possibility of Bhaal's "
 "return forever, and to wipe his taint from the land."
 msgstr ""
-"不。虽然我确实为这片土地带来了杀戮与毁灭，但我仍在为了一个更大的目标而奋斗……我要彻底抹杀巴尔复活的任何可能，并把他所留下的痕迹从这块土地上彻底清除。"
+"不。虽然我确实为这片土地带来了杀戮与毁灭，但我仍在为了一个更大的目标而奋斗……"
+"我要彻底抹杀巴尔复活的任何可能，并把他的污秽从这块土地上彻底清除。"
 
 #: balth.tra:1091
 msgid ""
@@ -1127,70 +1128,51 @@ msgstr ""
 "我不可能忘记！我不会原谅自己，也*不会*原谅与我受到同样污秽侵染的人！"
 
 #: balth.tra:1160
-#, fuzzy
-#| msgid ""
-#| "You have considerable charisma, <CHARNAME>...but it is because we are "
-#| "siblings that we cannot work together.  You know as well as I what the "
-#| "essence seeks, and it will not be satisfied until our destiny is culminated."
 msgid ""
 "You have considerable charisma, <CHARNAME>...but it is because we are "
 "siblings that we cannot work together. You know as well as I what the "
 "essence seeks, and it will not be satisfied until our destiny is culminated."
 msgstr ""
-"你的人格魅力很强，<CHARNAME>......但也就因为我们有着相同的天赋，我们不可能并肩作战，你我都知道这种天赋会导致什么，而且直到我们走到宿命的劲头，这种天赋都不会结束。"
+"你有着超凡的魅力，<CHARNAME>……但也就因为我们是<PRO_BROTHERSISTER>，我们不可能"
+"并肩作战。你我都知道我们的神性本质在渴求什么，而且直到我们走到宿命的尽头，它"
+"都不会满足。"
 
 #: balth.tra:1161
-#, fuzzy
-#| msgid ""
-#| "I make no judgement upon you, <CHARNAME>.  You are what you were born to be."
-#| "  I can only trust myself to hold to the path of good that will lead to the "
-#| "destruction of the true evil that threatens FaerÃ»n.  There is no other path"
-#| " for me."
 msgid ""
 "I make no judgement upon you, <CHARNAME>. You are what you were born to be. "
 "I can only trust myself to hold to the path of good that will lead to the "
 "destruction of the true evil that threatens Faerun. There is no other path "
 "for me."
-msgstr "我没有资格评价你，你要沿着你的路走下去，而我也要沿着我的路走下去----直至毁灭这威胁费仑的邪恶----没有别的选择。"
+msgstr "我没有资格评判你，<CHARNAME>。你保持着你的天性。我只能坚信自己能够秉持正义之"
+"道，将威胁费伦的真正邪恶摧毁。对我而言没有别的道路。"
 
 #: balth.tra:1162
-#, fuzzy
-#| msgid ""
-#| "Look at the suffering you have brought to Amkethran!  Your monks terrorize "
-#| "the innocent at your command!  You hire soulless mercenaries that cut down "
-#| "the innocent at the slightest provocation!  And all for nothing!  You call "
-#| "these the actions of a good man?"
 msgid ""
 "Look at the suffering you have brought to Amkethran! Your monks terrorize "
 "the innocent at your command! You hire soulless mercenaries that cut down "
 "the innocent at the slightest provocation! And all for nothing! You call "
 "these the actions of a good man?"
-msgstr "回头看看你给阿姆卡斯兰带来了什么！你的僧侣和雇佣兵肆无忌惮的在镇里恐吓，抢劫，屠杀这些无辜的人们。你认为你没有责任么？"
+msgstr ""
+"来看看你给安姆克萨蓝带来了什么苦难！你的僧侣奉你之命去恐吓无辜的人们！你雇的"
+"无情佣兵只要稍有招惹，就会对无辜的人们拔刀相向！而且不会受到任何制裁！你就把"
+"这叫做好人的行为？"
 
 #: balth.tra:1163
-#, fuzzy
-#| msgid ""
-#| "A truly good man would have stood against Melissan from the beginning.  You "
-#| "say you wanted to find out who the Five were... and yet I defeated them "
-#| "without your scheming.  It was your choice to join the Five in their reign "
-#| "of destruction, so live up to it!"
 msgid ""
 "A truly good man would have stood against Melissan from the beginning. You "
 "say you wanted to find out who the Five were... and yet I defeated them "
 "without your scheming. It was your choice to join the Five in their reign of"
 " destruction, so live up to it!"
 msgstr ""
-"真正的善良的人应该从开始就对抗梅丽珊。你说你要找出五人组......可是我没靠你就把他们全击败了。但加入五人组是你的决定，你也要承担这个后果！"
+"真正的好人应该从一开始就对抗梅丽珊。你说你想要找出五裔……然而没有你的帮助，我"
+"仍把他们全击败了。加入五裔的残暴统治是你自己决定的，你要承担这个后果！"
 
 #: balth.tra:1164
-#, fuzzy
-#| msgid ""
-#| "You make no judgement upon me?  Don't make me laugh!  Inevitability is only "
-#| "the newest excuse for yet one more murder!  You would make our father proud!"
 msgid ""
 "You make no judgement upon me? Don't make me laugh! Inevitability is only "
 "the newest excuse for yet one more murder! You would make our father proud!"
-msgstr "你没有资格评价我？真可笑！你所谓的“必然”只是屠杀的一个借口！你真是给我们的父亲增光啊！"
+msgstr "你没有资格评判我？真可笑！你所谓的必然性只是一个又一个屠杀的借口！你真是给我"
+"们的父亲增光啊！"
 
 #: balth.tra:1165
 #, fuzzy
