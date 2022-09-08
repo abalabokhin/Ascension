@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-08 03:57+0000\n"
+"PO-Revision-Date: 2022-09-08 03:59+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -62,7 +62,6 @@ msgid "Divine Spell Shield"
 msgstr "神力法术护盾"
 
 #: ascension.tra:1019
-#, fuzzy
 msgid "Command Demon"
 msgstr "驱役恶魔"
 
