@@ -78,9 +78,8 @@ msgid "Feedback"
 msgstr "神性回归"
 
 #: ascension.tra:1025
-#, fuzzy
 msgid "Divine Restoration"
-msgstr "非凡恢复"
+msgstr "神力复原"
 
 #: ascension.tra:1026
 #, fuzzy
