@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
 "PO-Revision-Date: 2022-09-08 03:59+0000\n"
-"Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
+"Last-Translator: RomancingSugar <saladinqiao@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
 "Language: schinese\n"
@@ -70,14 +70,12 @@ msgid "Banish"
 msgstr "放逐术"
 
 #: ascension.tra:1022
-#, fuzzy
 msgid "Unleash"
-msgstr "能量释放"
+msgstr "神力释放"
 
 #: ascension.tra:1024
-#, fuzzy
 msgid "Feedback"
-msgstr "反馈"
+msgstr "神性回归"
 
 #: ascension.tra:1025
 #, fuzzy
