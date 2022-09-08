@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-08 03:59+0000\n"
-"Last-Translator: RomancingSugar <saladinqiao@gmail.com>\n"
+"PO-Revision-Date: 2022-09-08 04:30+0000\n"
+"Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
 "Language: schinese\n"
@@ -47,7 +47,7 @@ msgstr "控制恶魔"
 
 #: ascension.tra:1014
 msgid "Focus"
-msgstr "神力聚焦"
+msgstr "神性聚焦"
 
 #: ascension.tra:1016
 msgid "Divine Mantle"
@@ -71,7 +71,7 @@ msgstr "放逐术"
 
 #: ascension.tra:1022
 msgid "Unleash"
-msgstr "神力释放"
+msgstr "神性释放"
 
 #: ascension.tra:1024
 msgid "Feedback"
@@ -103,19 +103,16 @@ msgid "Ravager Change"
 msgstr "化身破坏者"
 
 #: ascension.tra:1038
-#, fuzzy
 msgid "Melissan: Command the Minions of the Abyss"
-msgstr "梅丽珊：驱役深渊爪牙"
+msgstr "梅丽珊：驱役深渊仆役"
 
 #: ascension.tra:1039
-#, fuzzy
 msgid "Bhaalspawn Power gained: Immunity to Energy Drain"
-msgstr "获得巴尔神力：免疫能量吸取"
+msgstr "获得巴尔后裔的力量：免疫能量吸取"
 
 #: ascension.tra:1040
-#, fuzzy
 msgid "Bhaalspawn Power gained: 25% physical damage resistance"
-msgstr "获得巴尔神力：物理伤害抗性提高25％"
+msgstr "获得巴尔后裔的力量：物理伤害抗性提高25％"
 
 #: ascension.tra:1041
 #, fuzzy
@@ -131,9 +128,8 @@ msgid "Grabbed"
 msgstr "被抓住"
 
 #: ascension.tra:1044
-#, fuzzy
 msgid "Regains Bhaal powers"
-msgstr "重新获得巴尔能力"
+msgstr "重新获得巴尔的力量"
 
 #: ascension.tra:1045
 msgid "You have regained control for now."
@@ -169,39 +165,39 @@ msgstr "恶魔抗拒了梅丽珊的意志"
 
 #: ascension.tra:1054
 msgid "Bhaalspawn Power gained: Unleash"
-msgstr "获得巴尔神力：能量释放"
+msgstr "获得巴尔后裔的力量：神力释放"
 
 #: ascension.tra:1055
 msgid "Bhaalspawn Power gained: immunity to death magic"
-msgstr "获得巴尔神力：免疫即死魔法"
+msgstr "获得巴尔后裔的力量：免疫即死魔法"
 
 #: ascension.tra:1056
 msgid "Bhaalspawn Power gained: immunity to vorpal effects"
-msgstr "获得巴尔神力：免疫斩首效果"
+msgstr "获得巴尔后裔的力量：免疫斩首效果"
 
 #: ascension.tra:1057
 msgid "Bhaalspawn Power gained: Dimension Door"
-msgstr "获得巴尔神力：任意门"
+msgstr "获得巴尔后裔的力量：任意门"
 
 #: ascension.tra:1058
 msgid "Bhaalspawn Power gained: Control Demons"
-msgstr "获得巴尔神力：控制恶魔"
+msgstr "获得巴尔后裔的力量：控制恶魔"
 
 #: ascension.tra:1059
 msgid "Bhaalspawn Power gained: immunity to Maze and Imprisonment"
-msgstr "获得巴尔神力：免疫迷宫和禁锢"
+msgstr "获得巴尔后裔的力量：免疫迷宫和禁锢"
 
 #: ascension.tra:1060
 msgid "Bhaalspawn Power gained: Focus"
-msgstr "获得巴尔神力：能量聚焦"
+msgstr "获得巴尔后裔的力量：神性聚焦"
 
 #: ascension.tra:1061
 msgid "Bhaalspawn Power gained: immunity to Taint of the Slayer"
-msgstr "获得巴尔神力：免疫杀戮者的秽魂"
+msgstr "获得巴尔后裔的力量：免疫杀戮者的秽魂"
 
 #: ascension.tra:1062
 msgid "Divine Gift"
-msgstr "非凡天赋"
+msgstr "神性天赋"
 
 #: ascension.tra:1063
 msgid "Magic Resistance Restored"
@@ -224,6 +220,7 @@ msgid "AI activated"
 msgstr "人工智能已激活"
 
 #: ascension.tra:1068
+#, fuzzy
 msgid "Lunar Malison"
 msgstr "月阴诅咒"
 
@@ -1920,13 +1917,13 @@ msgstr ""
 
 #: description.tra:14 imoen_after.tra:1000
 msgid "Bhaalspawn powers granted"
-msgstr ""
+msgstr "获得巴尔后裔的力量"
 
 #: description.tra:15
 msgid ""
 "Imoen can now change into the Slayer at will, and can enter the Ethereal "
 "plane once per minute"
-msgstr ""
+msgstr "爱蒙现在可以随时化身为杀戮者形态，也可以每分钟进入一次灵界。"
 
 #: description.tra:16
 #, fuzzy
