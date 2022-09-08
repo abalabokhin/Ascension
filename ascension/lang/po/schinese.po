@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-08 03:30+0000\n"
-"Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
+"PO-Revision-Date: 2022-09-08 03:57+0000\n"
+"Last-Translator: RomancingSugar <saladinqiao@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
 "Language: schinese\n"
@@ -46,24 +46,20 @@ msgid "Control Demon"
 msgstr "控制恶魔"
 
 #: ascension.tra:1014
-#, fuzzy
 msgid "Focus"
-msgstr "能量聚焦"
+msgstr "神力聚焦"
 
 #: ascension.tra:1016
-#, fuzzy
 msgid "Divine Mantle"
-msgstr "非凡防御"
+msgstr "神力护罩"
 
 #: ascension.tra:1017
-#, fuzzy
 msgid "Draw Power"
-msgstr "非凡之力"
+msgstr "吸取能量"
 
 #: ascension.tra:1018
-#, fuzzy
 msgid "Divine Spell Shield"
-msgstr "非凡护盾"
+msgstr "神力法术护盾"
 
 #: ascension.tra:1019
 #, fuzzy
@@ -144,9 +140,8 @@ msgid "Regains Bhaal powers"
 msgstr "重新获得巴尔能力"
 
 #: ascension.tra:1045
-#, fuzzy
 msgid "You have regained control for now."
-msgstr "你现在已经恢复控制。"
+msgstr "你现在已重获控制权。"
 
 #: ascension.tra:1046 ascension.tra:1047
 msgid "Magic Resistance lowered by 5%"
