@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
 "PO-Revision-Date: 2022-09-08 03:57+0000\n"
-"Last-Translator: RomancingSugar <saladinqiao@gmail.com>\n"
+"Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
 "Language: schinese\n"
@@ -104,7 +104,7 @@ msgstr "缓慢法印"
 
 #: ascension.tra:1037
 msgid "Ravager Change"
-msgstr "变身终结者"
+msgstr "化身破坏者"
 
 #: ascension.tra:1038
 #, fuzzy
@@ -1635,7 +1635,7 @@ msgid ""
 msgstr ""
 "停止变身杀戮者\n"
 "\n"
-"该能力使得爱蒙能停止她的杀戮者变身并变回人形。"
+"该能力使得爱蒙能停止她的杀戮者化身并变回人形。"
 
 #: description.tra:7
 msgid ""
