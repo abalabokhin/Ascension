@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-09-07 16:30+0000\n"
+"PO-Revision-Date: 2022-09-08 15:30+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
@@ -64,15 +64,15 @@ msgstr ""
 
 #: ascension.tra:1020
 msgid "Banish"
-msgstr ""
+msgstr "Placera i exil"
 
 #: ascension.tra:1022
 msgid "Unleash"
-msgstr ""
+msgstr "Släpp loss"
 
 #: ascension.tra:1024
 msgid "Feedback"
-msgstr ""
+msgstr "Återkoppling"
 
 #: ascension.tra:1025
 msgid "Divine Restoration"
@@ -112,7 +112,7 @@ msgstr ""
 
 #: ascension.tra:1041
 msgid "Transfixed"
-msgstr ""
+msgstr "Transfixerad"
 
 #: ascension.tra:1042
 msgid "Weapons weakened by Babau slime"
@@ -120,7 +120,7 @@ msgstr ""
 
 #: ascension.tra:1043
 msgid "Grabbed"
-msgstr ""
+msgstr "Greppad"
 
 #: ascension.tra:1044
 msgid "Regains Bhaal powers"
@@ -1947,7 +1947,7 @@ msgstr ""
 #: epilogues.tra:4006 epilogues.tra:4011 epilogues.tra:4012 epilogues.tra:4013
 #: epilogues.tra:4015
 msgid " "
-msgstr ""
+msgstr " "
 
 #: epilogues.tra:4007
 msgid ""
@@ -3120,7 +3120,7 @@ msgstr ""
 
 #: setup.tra:101000
 msgid "Ascension"
-msgstr ""
+msgstr "Himmelsfärd"
 
 #: setup.tra:101001
 msgid ""
