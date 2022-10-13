@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-10-13 04:30+0000\n"
+"PO-Revision-Date: 2022-10-13 05:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -3189,24 +3189,19 @@ msgstr ""
 "败几率。在这三轮内，她能看到所有隐形的目标。"
 
 #: imoen_after.tra:486
-#, fuzzy
-#| msgid "Sure.  Let's join up again."
 msgid "Sure. Let's join up again."
-msgstr "当然，让我们再一次并肩作战吧。"
+msgstr "当然。让我们再一次携手并进吧。"
 
 #: imoen_after.tra:487
 msgid "No... get out of here while you can, Imoen."
-msgstr "不......如果你能的话，赶快离开这里，爱蒙......"
+msgstr "不……趁现在能走赶紧走吧，爱蒙。"
 
 #: imoen_after.tra:488
-#, fuzzy
-#| msgid ""
-#| "I wish you well, <CHARNAME>, and I hope I'll see you again.  Maybe back at "
-#| "Candlekeep, huh?  Anyway... good luck..."
 msgid ""
 "I wish you well, <CHARNAME>, and I hope I'll see you again. Maybe back at "
 "Candlekeep, huh? Anyway... good luck..."
-msgstr "祝你好运，<CHARNAME>，希望我能再见到你，你还会回到烛堡么？不过......再见......"
+msgstr "祝你一切顺利，<CHARNAME>，希望我能再见到你。也许你会回到烛堡，对吧？总之……祝"
+"你好运……"
 
 #: imoen_after.tra:489
 #, fuzzy
