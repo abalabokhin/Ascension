@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-10-12 09:30+0000\n"
+"PO-Revision-Date: 2022-10-13 03:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -3111,14 +3111,11 @@ msgstr ""
 "者，就像一根木桩刺穿了芭荻依然漆黑的心，终结了她罪恶的一生。"
 
 #: imoen_after.tra:477
-#, fuzzy
-#| msgid ""
-#| "It... it's gone... I'm human again.  Ohhhh, now I know what you went "
-#| "through, <CHARNAME>!  I don't know if I ever want to go through that again!"
 msgid ""
 "It... it's gone... I'm human again. Ohhhh, now I know what you went through,"
 " <CHARNAME>! I don't know if I ever want to go through that again!"
-msgstr "过去了......我又是人类了。哦，我现在知道你的感受了，<CHARNAME>！我可不想再经历一回！"
+msgstr "结、结束了……我变回人了。哦……现在我知道你曾经历什么了，<CHARNAME>！我不知道我"
+"是否还想再经历一次！"
 
 #: imoen_after.tra:478
 #, fuzzy
