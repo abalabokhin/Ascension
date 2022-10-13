@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-10-13 06:30+0000\n"
+"PO-Revision-Date: 2022-10-13 07:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -3130,7 +3130,7 @@ msgstr "我在尝试让梅丽珊把你丢到一旁不管，爱蒙！"
 
 #: imoen_after.tra:480
 msgid "Get over yourself, little girl. I never asked you to come, did I?"
-msgstr "克制一下自己，小女孩。 我从来没有叫你跟来，不是吗？"
+msgstr "克制一下自己，小女孩。我从来没有叫你跟过来，不是吗？"
 
 #: imoen_after.tra:481
 msgid ""
@@ -3142,7 +3142,7 @@ msgid ""
 "Well... I suppose. You convinced me more than her, obviously. I... I'm just "
 "glad I didn't do more damage as the Slayer. I don't know how you handled it."
 " Thank you for... for not killing me."
-msgstr "嗯……我想也是。 很明显，比起她来我更相信你。我、我只是庆幸我没在杀戮者形态下造"
+msgstr "嗯……我想也是。很明显，比起她来我更相信你。我、我只是庆幸我没在杀戮者形态下造"
 "成更多伤害。我不知道你是怎么掌控它的。谢谢你……没有杀了我。"
 
 #: imoen_after.tra:483
@@ -3159,7 +3159,7 @@ msgid ""
 "think... I think I have that power, now, same as you. But I'll fight by your"
 " side again, if you want me to."
 msgstr "你需要我加入队伍里支援你吗？我可以……离开这个王座，我想……我想我现在也有了那种"
-"力量，像你一样。但如果你愿意，我会再次与你并肩作战。"
+"力量，和你一样。但如果你愿意，我会再次与你并肩作战。"
 
 #: imoen_after.tra:485
 msgid ""
@@ -3232,7 +3232,7 @@ msgid ""
 " I think... I think I have that power, now, same as you. But I'll fight by "
 "your side again, if you want me to."
 msgstr "哦，是这样啊！ 你需要我回到队伍里吗？我可以……离开这个王座，我想……我想我现在也"
-"有了那种力量，像你一样。但如果你愿意，我会再次与你并肩作战。"
+"有了那种力量，和你一样。但如果你愿意，我会再次与你并肩作战。"
 
 #: imoen_after.tra:493
 msgid ""
@@ -3243,21 +3243,14 @@ msgstr "我看到战斗还在进行。你需要我回到队伍里吗？我可以
 "现在也有了那种力量，和你一样。但是我也想把这一切都结束。"
 
 #: imoen_after.tra:494
-#, fuzzy
-#| msgid ""
-#| "Stop distracting me in the middle of combat, already!  Get back in the "
-#| "party!"
 msgid ""
 "Stop distracting me in the middle of combat, already! Get back in the party!"
-msgstr "别再分散我的注意力了，赶快归队！"
+msgstr "别再让我在战斗中分心了！赶快归队！"
 
 #: imoen_after.tra:495
-#, fuzzy
-#| msgid ""
-#| "Yes <PRO_SIRMAAM>!  (giggle!)  Time to kick a certain someone's butt, right?"
 msgid ""
 "Yes <PRO_SIRMAAM>! (giggle!) Time to kick a certain someone's butt, right?"
-msgstr "是的，<PRO_SIRMAAM>！（咯咯）"
+msgstr "是的，<PRO_SIRMAAM>！（咯咯地笑！）是时候去踢某人的屁股了，对吧？"
 
 #: iren_bodhi.tra:33
 #, fuzzy
