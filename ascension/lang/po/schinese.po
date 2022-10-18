@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-10-13 07:30+0000\n"
+"PO-Revision-Date: 2022-10-18 07:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -3253,26 +3253,18 @@ msgid ""
 msgstr "是的，<PRO_SIRMAAM>！（咯咯地笑！）是时候去踢某人的屁股了，对吧？"
 
 #: iren_bodhi.tra:33
-#, fuzzy
-#| msgid ""
-#| "Ahhh... my dear brother calls me at last, does he?  I knew you would not be "
-#| "able to live without my assistance for long."
 msgid ""
 "Ahhh... my dear brother calls me at last, does he? I knew you would not be "
 "able to live without my assistance for long."
-msgstr "啊...我的宝贝弟弟最后还是叫我了,不是么？我知道你没有我的协助你是是玩转不久的。"
+msgstr "啊……我亲爱的弟弟最后还是叫我了，不是吗？我就知道，没有我的协助你是活不久的。"
 
 #: iren_bodhi.tra:34
-#, fuzzy
-#| msgid ""
-#| "(chuckle)  How very like you to blame me for your own failings.  Poor, poor "
-#| "Irenicus... always so very, very close to getting what he wants and yet "
-#| "always so very, very far."
 msgid ""
 "(chuckle) How very like you to blame me for your own failings. Poor, poor "
 "Irenicus... always so very, very close to getting what he wants and yet "
 "always so very, very far."
-msgstr "（咯咯）你想因此责备我么？小可怜，总是离他想要的很近很近，可就是拿不到。"
+msgstr "（轻笑）你多么喜欢把自己的失败归咎于我。可怜，可怜的艾瑞尼卡斯……总是及其，及"
+"其接近得到他想要的，而又总是非常，非常遥远。"
 
 #: iren_bodhi.tra:35
 #, fuzzy
