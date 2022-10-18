@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-10-18 07:30+0000\n"
+"PO-Revision-Date: 2022-10-18 08:30+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -3267,43 +3267,30 @@ msgstr "（轻笑）你多么喜欢把自己的失败归咎于我。可怜，可
 "其接近得到他想要的，而又总是非常，非常遥远。"
 
 #: iren_bodhi.tra:35
-#, fuzzy
-#| msgid ""
-#| "So I see.  How absolutely delicious to let me in on your little play with "
-#| "the Bhaalspawn again, brother dear.  And how are you, <CHARNAME>?  I do so "
-#| "hope you are as... healthy... as I remember.  Shall we continue our merry "
-#| "dance?"
 msgid ""
 "So I see. How absolutely delicious to let me in on your little play with the"
 " Bhaalspawn again, brother dear. And how are you, <CHARNAME>? I do so hope "
 "you are as... healthy... as I remember. Shall we continue our merry dance?"
 msgstr ""
-"哦，我明白了,亲爱的弟弟让我加入你的这场“游戏”是多么的令人愉快啊！你呢？<CHARNAME>，我希望你跟上次见面时同样健康，我们可以继续了么？"
+"哦，我明白了。亲爱的兄弟，让我再次参与你与巴尔后裔的小游戏真是太棒了。你还好"
+"吗，<CHARNAME>？我真的希望你像我记得的那样……健康。要继续我们的快乐舞蹈吗？"
 
 #: iren_bodhi.tra:36
-#, fuzzy
-#| msgid ""
-#| "Still trapped in servitude to Irenicus?  Do you have no will of your own, "
-#| "Bodhi?"
 msgid ""
 "Still trapped in servitude to Irenicus? Do you have no will of your own, "
 "Bodhi?"
-msgstr "仍然被他控制着么？你就不能有点自己的主意？"
+msgstr "你仍陷于艾瑞尼卡斯的奴役之中？ 你就没有自己的意志吗，芭荻？"
 
 #: iren_bodhi.tra:37
 msgid ""
 "Why don't you go jump on a stake and spare us both the tedium of battle?"
-msgstr "怎么又是你，我已经厌倦了，你还是自己找一个木桩插上吧?"
+msgstr "你为什么不跳上木桩，让我们俩免于单调乏味的战斗呢？"
 
 #: iren_bodhi.tra:38
-#, fuzzy
-#| msgid ""
-#| "Best hike up your skirts and run, Bodhi.  The time when I found vampires "
-#| "remotely threatening is long past!"
 msgid ""
 "Best hike up your skirts and run, Bodhi. The time when I found vampires "
 "remotely threatening is long past!"
-msgstr "卷起裙子跑吧，很久以前我就不怕吸血鬼了！"
+msgstr "你最好提起裙子跑路吧，芭荻。吸血鬼对我构成威胁的日子早就过去了！"
 
 #: iren_bodhi.tra:39
 #, fuzzy
