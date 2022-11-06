@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-10-18 08:30+0000\n"
+"PO-Revision-Date: 2022-11-06 15:02+0000\n"
 "Last-Translator: goldspan544 <goldspan544@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
 "infinity-engine/ascension/schinese/>\n"
@@ -3293,72 +3293,49 @@ msgid ""
 msgstr "你最好提起裙子跑路吧，芭荻。吸血鬼对我构成威胁的日子早就过去了！"
 
 #: iren_bodhi.tra:39
-#, fuzzy
-#| msgid ""
-#| "Do I have to suffer your prattle again?  I shall stamp out your evil "
-#| "presence once and for all!"
 msgid ""
 "Do I have to suffer your prattle again? I shall stamp out your evil presence"
 " once and for all!"
-msgstr "我受不了你那幼稚的想法，我要彻底消灭你！"
+msgstr "难道我又得忍受你的胡话了吗？我要彻底铲除你的邪恶存在！"
 
 #: iren_bodhi.tra:41
-#, fuzzy
-#| msgid ""
-#| "Oh Child of Bhaal, so serious and grim!  Do you not enjoy that our paths "
-#| "have crossed again?  Does your blood not rejoice?"
 msgid ""
 "Oh Child of Bhaal, so serious and grim! Do you not enjoy that our paths have"
 " crossed again? Does your blood not rejoice?"
-msgstr "哦，巴尔之子，别这么冷酷好么，你不觉得这是缘分么？你的内心不感觉高兴么？"
+msgstr "哦，巴尔之子，如此的严肃和冷酷！我们的道路再次交错，你不觉得高兴吗？你没感觉"
+"热血沸腾吗？"
 
 #: iren_bodhi.tra:42
-#, fuzzy
-#| msgid ""
-#| "You are weak, Bodhi, while the blood of a god flows within me.  I shall "
-#| "enjoy your death... again."
 msgid ""
 "You are weak, Bodhi, while the blood of a god flows within me. I shall enjoy"
 " your death... again."
-msgstr "你太软弱了，神的血液在我身体里流淌，我要再一次看到你的死亡。"
+msgstr "你太弱了，芭荻，而神的血液在我身体里流淌。我要再次享受……你的死亡。"
 
 #: iren_bodhi.tra:43
-#, fuzzy
-#| msgid "Enough of this!  You will fall before me, undead thing."
 msgid "Enough of this! You will fall before me, undead thing."
-msgstr "够了，你就要完了，混蛋东西。"
+msgstr "够了！你将在我面前倒下，不死的怪物。"
 
 #: iren_bodhi.tra:44
-#, fuzzy
-#| msgid ""
-#| "You have nothing to gain from this fight.  Will you sacrifice yourself out "
-#| "of sibling loyalty?  Do not make that mistake again."
 msgid ""
 "You have nothing to gain from this fight. Will you sacrifice yourself out of"
 " sibling loyalty? Do not make that mistake again."
-msgstr "为他卖命最后对你有什么好处？可别再犯错误了。"
+msgstr "你从这场战斗中得不到任何好处。你会为了姐弟间的忠诚而牺牲自己吗？不要再犯这样"
+"的错误了。"
 
 #: iren_bodhi.tra:45
-#, fuzzy
-#| msgid ""
-#| "Stand aside Bodhi.  Your brother is blinded by his lust for vengance.  He's "
-#| "prepared to fight me to the death, but you don't need to die at his side.  "
-#| "There is no need for you to die at all."
 msgid ""
 "Stand aside Bodhi. Your brother is blinded by his lust for vengance. He's "
 "prepared to fight me to the death, but you don't need to die at his side. "
 "There is no need for you to die at all."
-msgstr "躲开，你弟弟已经被复仇蒙蔽了理智，准备跟我以死相拚，但是你没有这个必要。"
+msgstr "闪开，芭荻。你的弟弟被复仇的欲望蒙蔽了双眼。他准备与我决一死战，但你不需要死"
+"在他身边。你根本没有死的必要。"
 
 #: iren_bodhi.tra:46
-#, fuzzy
-#| msgid ""
-#| "You may be strong, <CHARNAME>, but you are indeed a fool to think us weak.  "
-#| "I shall take your soul for my own, I swear it!"
 msgid ""
 "You may be strong, <CHARNAME>, but you are indeed a fool to think us weak. I"
 " shall take your soul for my own, I swear it!"
-msgstr "你也许很强大，<CHARNAME>，但却是个低估我们的蠢货。我会把你的灵魂据为己有的，我发誓！"
+msgstr "你或许很强大，<CHARNAME>，但你的确是个低估我们的蠢货。我要把你的灵魂据为己有"
+"，我发誓！"
 
 #: iren_bodhi.tra:47
 #, fuzzy
