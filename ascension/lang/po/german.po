@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2023-01-03 15:02+0000\n"
+"PO-Revision-Date: 2023-01-03 16:02+0000\n"
 "Last-Translator: Ychap <asdfsa85@web.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/de/>\n"
@@ -134,7 +134,7 @@ msgstr ""
 
 #: ascension.tra:1046 ascension.tra:1047
 msgid "Magic Resistance lowered by 5%"
-msgstr ""
+msgstr "Magieresistenz um 5% verringert"
 
 #: ascension.tra:1048
 msgid "Slayer transformation enhanced"
@@ -142,11 +142,11 @@ msgstr ""
 
 #: ascension.tra:1049
 msgid "The demon bows to your will"
-msgstr ""
+msgstr "Der Dämon beugt sich Eurem Willen"
 
 #: ascension.tra:1050
 msgid "The demon defies your will"
-msgstr ""
+msgstr "Der Dämon widersetzt sich Eurem Willen"
 
 #: ascension.tra:1051
 msgid "This power only affects demons"
@@ -154,43 +154,43 @@ msgstr ""
 
 #: ascension.tra:1052
 msgid "The demon bows to Melissan's will"
-msgstr ""
+msgstr "Der Dämon beugt sich Melissans Willen"
 
 #: ascension.tra:1053
 msgid "The demon defies Melissan's will"
-msgstr ""
+msgstr "Der Dämon widersetzt sich Melissans Willen"
 
 #: ascension.tra:1054
 msgid "Bhaalspawn Power gained: Unleash"
-msgstr ""
+msgstr "Bhaalspross-Fähigkeit erhalten: Entfesseln"
 
 #: ascension.tra:1055
 msgid "Bhaalspawn Power gained: immunity to death magic"
-msgstr ""
+msgstr "Bhaalspross-Fähigkeit erhalten: Immun gegen Todesmagie"
 
 #: ascension.tra:1056
 msgid "Bhaalspawn Power gained: immunity to vorpal effects"
-msgstr ""
+msgstr "Bhaalspawn Power gained: Immun gegen Enthauptungen"
 
 #: ascension.tra:1057
 msgid "Bhaalspawn Power gained: Dimension Door"
-msgstr ""
+msgstr "Bhaalspross-Fähigkeit erhalten: Dimensionstor"
 
 #: ascension.tra:1058
 msgid "Bhaalspawn Power gained: Control Demons"
-msgstr ""
+msgstr "Bhaalspross-Fähigkeit erhalten: Dämonen beherrschen"
 
 #: ascension.tra:1059
 msgid "Bhaalspawn Power gained: immunity to Maze and Imprisonment"
-msgstr ""
+msgstr "Bhaalspawn Power gained: Immun gegen Irrgarten und Einkerkerung"
 
 #: ascension.tra:1060
 msgid "Bhaalspawn Power gained: Focus"
-msgstr ""
+msgstr "Bhaalspross-Fähigkeit erhalten: Fokus"
 
 #: ascension.tra:1061
 msgid "Bhaalspawn Power gained: immunity to Taint of the Slayer"
-msgstr ""
+msgstr "Bhaalspross-Fähigkeit erhalten: Immun gegen Mal des Schlächters"
 
 #: ascension.tra:1062
 msgid "Divine Gift"
@@ -198,7 +198,7 @@ msgstr "Göttliche Gabe"
 
 #: ascension.tra:1063
 msgid "Magic Resistance Restored"
-msgstr ""
+msgstr "Magieresistenz wiederhergestellt"
 
 #: ascension.tra:1064
 msgid "Antimagic Protections Removed"
@@ -210,11 +210,11 @@ msgstr ""
 
 #: ascension.tra:1066
 msgid "AI deactivated"
-msgstr ""
+msgstr "KI deaktiviert"
 
 #: ascension.tra:1067
 msgid "AI activated"
-msgstr ""
+msgstr "KI aktiviert"
 
 #: ascension.tra:1068
 msgid "Lunar Malison"
@@ -423,25 +423,6 @@ msgstr ""
 "<CHARNAME> hat einen permanenten Schutz vor Lebenskraftentzug sowie 5% Magieresistenz erhalten."
 
 #: ascension.tra:2005
-#, fuzzy
-#| msgid ""
-#| "Bhaalspawn Powers\n"
-#| "\n"
-#| "<CHARNAME> has gained the ability, usable once per day: \n"
-#| "\n"
-#| "Hand of Murder (Necromancy) \n"
-#| "Range: Caster\n"
-#| "Duration: 1 rounds/5 levels\n"
-#| "Casting Time: 1\n"
-#| "Saving Throw: none \n"
-#| "\n"
-#| "When this power is called upon by the Bhaalspawn, <PRO_HESHE> immediately does extra damage with each hit to <PRO_HISHER> target with any melee weapon desired (whether it be fist or sword). <PRO_HISHER> dark energies travel through <PRO_HISHER> weapon and assaulting <PRO_HISHER> victim... and absorb that damage as healing for <PRO_HIMHER>self.\n"
-#| "The effects vary by level as follows:\n"
-#| "10th: 2 rounds, 4 hp extra damage, 4 hp healed\n"
-#| "15th: 3 rounds, 6 hp extra damage, 6 hp healed\n"
-#| "20th: 4 rounds, 8 hp extra damage, 8 hp healed\n"
-#| "25th: 5 rounds, 10 hp extra damage, 10 hp healed\n"
-#| "30th: 6 rounds, 12 hp extra damage, 12 hp healed"
 msgid ""
 "Bhaalspawn Powers\n"
 "\n"
@@ -463,22 +444,34 @@ msgid ""
 msgstr ""
 "Bhaalspross-Fähigkeiten\n"
 "\n"
-"<CHARNAME> hat die folgende Fähigkeit erhalten, die einmal am Tag eingesetzt werden kann:\n"
+"<CHARNAME> hat die folgende Fähigkeit erhalten, die einmal am Tag eingesetzt "
+"werden kann:\n"
 "\n"
-"Hand des Mordes (Nekromantie)\n"
-"Reichweite: Zaubernder\n"
-"Wirkungsdauer: 1 Runde pro 5 Stufen\n"
+"Hand des Mordes\n"
+"\n"
+"Schule: Nekromantie\n"
+"Reichweite: Anwender\n"
+"Dauer: 1 Runde pro 5 Stufen\n"
 "Zeitaufwand: 1\n"
-"Wirkungsbereich: Der Zaubernde\n"
-"Rettungswurf: Keiner\n"
+"Bereich: Anwender\n"
+"Rettungswurf: Nein\n"
 "\n"
-"Wenn ein Kind Bhaals diese Fähigkeit einsetzt, erhöht sich der Schaden, den es im Nahkampf anrichtet, egal mit welcher Waffe es zuschlägt (beispielsweise mit Schwert oder Faust). Die dunkle Energie des Kindes von Bhaal strömt durch die Waffe in den Gegner und entreißt ihm Lebenskraft. So richtet jeder Schlag zusätzlichen Schaden an und heilt das Kind Bhaals.\n"
+"Wenn ein Kind Bhaals diese Fähigkeit einsetzt, erhöht sich der Schaden, den "
+"es im Nahkampf anrichtet, egal mit welcher Waffe es zuschlägt ("
+"beispielsweise mit Schwert oder Faust). Die dunkle Energie strömt durch die "
+"Waffe in den Gegner und entreißt ihm Lebenskraft. So richtet jeder Schlag "
+"zusätzlichen Schaden an und heilt das Kind Bhaals.\n"
 "Die Auswirkungen hängen von der Stufe ab:\n"
-"Ab der 10. Stufe: 2 Runden, +4 Schadenspunkte pro Schlag, Kind Bhaals heilt 4 Trefferpunkte\n"
-"Ab der 15. Stufe: 3 Runden, +6 Schadenspunkte pro Schlag, Kind Bhaals heilt 6 Trefferpunkte\n"
-"Ab der 20. Stufe: 4 Runden, +8 Schadenspunkte pro Schlag, Kind Bhaals heilt 8 Trefferpunkte\n"
-"Ab der 25. Stufe: 5 Runden, +10 Schadenspunkte pro Schlag, Kind Bhaals heilt 10 Trefferpunkte\n"
-"Ab der 30. Stufe: 6 Runden, +12 Schadenspunkte pro Schlag, Kind Bhaals heilt 12 Trefferpunkte"
+"Ab der 10. Stufe: 2 Runden, +4 Schadenspunkte pro Schlag, Kind Bhaals heilt "
+"4 Trefferpunkte\n"
+"Ab der 15. Stufe: 3 Runden, +6 Schadenspunkte pro Schlag, Kind Bhaals heilt "
+"6 Trefferpunkte\n"
+"Ab der 20. Stufe: 4 Runden, +8 Schadenspunkte pro Schlag, Kind Bhaals heilt "
+"8 Trefferpunkte\n"
+"Ab der 25. Stufe: 5 Runden, +10 Schadenspunkte pro Schlag, Kind Bhaals heilt "
+"10 Trefferpunkte\n"
+"Ab der 30. Stufe: 6 Runden, +12 Schadenspunkte pro Schlag, Kind Bhaals heilt "
+"12 Trefferpunkte"
 
 #: ascension.tra:2006
 #, fuzzy
@@ -579,30 +572,26 @@ msgstr ""
 "\n"
 "EIGENSCHAFTEN:\n"
 "\n"
-"Bei jedem Treffer wird dem Ziel 1 Trefferpunkt entzogen und auf den Träger "
-"übertragen. Der Träger kann dadurch nicht mehr als seine maximalen "
-"Trefferpunkte erhalten.\n"
+"Bei jedem Treffer verliert das Ziel 1W5 Trefferpunkte und heilt damit den "
+"Träger.\n"
 "\n"
-"Die Klinge gewährt zusätzlich +10% Magieresistenz, wenn sie getragen wird.\n"
-"\n"
+"Schaden: 1W10 +4 (Klinge)\n"
 "ETW0-Bonus: -4\n"
-"Schaden: 1W10 +4 (Klingenwaffe)\n"
+"Magiewiderstand: 10%\n"
+"Gewicht: 10\n"
 "Initiativefaktor: 8\n"
+"Mindeststärke: 14\n"
+"Mindestkonstitution: 18\n"
 "Fertigkeit: Zweihänder\n"
 "Typ: 2-händig\n"
-"Waffentyp: Beidhändig\n"
-"Mindeststärke: 14\n"
-"Mindestkonstitution : 18\n"
-"\n"
-"Gewicht: 10\n"
 "\n"
 "Kann nicht verwendet werden von:\n"
-"Klerikern\n"
-"Magiern\n"
-"Paladinen\n"
-"Waldläufern\n"
-"Druiden\n"
-"Charakteren ohne chaotische Gesinnung"
+"- Klerikern\n"
+"- Magiern\n"
+"- Paladinen\n"
+"- Waldläufern\n"
+"- Druiden\n"
+"- Charakteren ohne chaotische Gesinnung"
 
 #: ascension.tra:3002
 msgid "Sendai's Potion"
@@ -3932,51 +3921,35 @@ msgstr ""
 "Kampf!"
 
 #: imoen_after.tra:482
-#, fuzzy
-#| msgid ""
-#| "Well... I suppose.  You convinced me more than her, obviously.  I... I'm "
-#| "just glad I didn't do more damage as the slayer.  I don't know how you "
-#| "handled it.  Thank you for... for not killing me."
 msgid ""
 "Well... I suppose. You convinced me more than her, obviously. I... I'm just "
 "glad I didn't do more damage as the Slayer. I don't know how you handled it."
 " Thank you for... for not killing me."
 msgstr ""
-"Nun... mag sein.  Ihr habt mich offensichtlich mehr überzeugt als sie.  "
-"Ich... ich bin nur froh, dass ich als Schlächter nicht mehr Schaden "
-"angerichtet habe.  Ich weiß nicht, wie Ihr damit fertig geworden seid.  "
-"Danke, dass Ihr mich nicht... nicht getötet habt."
+"Nun... mag sein. Ihr habt mich offensichtlich mehr überzeugt als sie. Ich... "
+"ich bin nur froh, dass ich als Schlächter nicht mehr Schaden angerichtet "
+"habe. Ich weiß nicht, wie Ihr damit fertig geworden seid. Danke, dass Ihr "
+"mich nicht... nicht getötet habt."
 
 #: imoen_after.tra:483
-#, fuzzy
-#| msgid ""
-#| "I... I can't stay here, though.  This is way out of my league.  I wish you "
-#| "well, <CHARNAME>, and I hope I'll see you again.  Maybe back at Candlekeep, "
-#| "huh?  Anyway... good luck..."
 msgid ""
 "I... I can't stay here, though. This is way out of my league. I wish you "
 "well, <CHARNAME>, and I hope I'll see you again. Maybe back at Candlekeep, "
 "huh? Anyway... good luck..."
 msgstr ""
-"Ich... ich kann jedoch nicht hier bleiben.  Hier wird in einer höheren Liga "
-"gespielt.  Ich wünsche Euch alles Gute, <CHARNAME>, und ich hoffe, ich sehe "
-"Euch wieder.  Vielleicht in Kerzenburg, hmmm? Auf jeden Fall... viel "
-"Glück..."
+"Ich... ich kann jedoch nicht hier bleiben. Hier wird in einer höheren Liga "
+"gespielt. Ich wünsche Euch alles Gute, <CHARNAME>, und ich hoffe, ich sehe "
+"Euch wieder. Vielleicht in Kerzenburg, hmmm? Auf jeden Fall... viel Glück..."
 
 #: imoen_after.tra:484
-#, fuzzy
-#| msgid ""
-#| "Do you need me to join back up with you?  I could... leave the Throne, I "
-#| "think... I think I have that power, now, same as you.  But I'll fight by "
-#| "your side again, if you want me to."
 msgid ""
 "Do you need me to join back up with you? I could... leave the Throne, I "
 "think... I think I have that power, now, same as you. But I'll fight by your"
 " side again, if you want me to."
 msgstr ""
-"Braucht Ihr mich wieder, damit ich mich Euch anschließe?  Ich könnte... den "
+"Braucht Ihr mich wieder, damit ich mich Euch anschließe? Ich könnte... den "
 "Thron verlassen, denke ich... Ich denke, ich habe die Macht jetzt, dieselbe "
-"wie Ihr.  Aber ich kämpfe wieder an Eurer Seite, wenn Ihr das wollt."
+"wie Ihr. Aber ich kämpfe wieder an Eurer Seite, wenn Ihr das wollt."
 
 #: imoen_after.tra:485
 #, fuzzy
@@ -4193,7 +4166,7 @@ msgid ""
 "remotely threatening is long past!"
 msgstr ""
 "Am besten rafft Ihr Euren Rock, Bodhi, und lauft davon. Die Zeiten, wo ich "
-"Vampire auch nur ein bisschen bedrohlich fand, sind längst vorbei!"
+"Vampire auch nur ein bisschen bedrohlich fand, sind längst vorbei."
 
 #: iren_bodhi.tra:39
 #, fuzzy
@@ -5006,29 +4979,33 @@ msgid ""
 "\n"
 "Weight: 10"
 msgstr ""
-"Die Klinge von Sarevok, <CHARNAME>s Bruder, die er im Kampf im fernen Baldurs Tor benutzte. <CHARNAME> siegte, vereitelte Sarevoks Pläne und bewahrte die Schwertküste vor einem Krieg. Nun kämpft Sarevok an <CHARNAME>s Seite, und die Klinge wurde ihm zurückgegeben. Sarevok bezeichnet die Waffe als Klinge eines Todesbringers und hat etwas von ihrer alten Macht wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie fließt, verfügt sie zwar nicht über ihre früheren Fähigkeiten; dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.\n"
+"Die Klinge von Sarevok, <CHARNAME>s Bruder, die er im Kampf im fernen "
+"Baldurs Tor benutzte. <CHARNAME> siegte, vereitelte Sarevoks Pläne und "
+"bewahrte die Schwertküste vor einem Krieg. Nun kämpft Sarevok an <CHARNAME>s "
+"Seite, und die Klinge wurde ihm zurückgegeben. Sarevok bezeichnet die Waffe "
+"als Klinge eines Todesbringers und hat etwas von ihrer alten Macht "
+"wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie fließt, "
+"verfügt sie zwar nicht über ihre früheren Fähigkeiten; dennoch ist sie eine "
+"tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für "
+"einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.\n"
 "\n"
 "SPEZIFISCHE EIGENSCHAFTEN:\n"
 "\n"
-"Besondere Fähigkeiten: jeder Treffer raubt dem Opfer einen bis fünf Trefferpunkte und überträgt ihn auf den Träger des Schwertes. Dadurch kann er aber nicht mehr Trefferpunkte als sein Maximum erhalten.\n"
+"Besondere Fähigkeiten: jeder Treffer raubt dem Opfer einen bis fünf "
+"Trefferpunkte und überträgt ihn auf den Träger des Schwertes. Dadurch kann "
+"er aber nicht mehr Trefferpunkte als sein Maximum erhalten.\n"
 "\n"
-"Die Klinge gewährt zusätzlich +10% Magieresistenz, wenn sie getragen wird.\n"
+"Magiewiderstand: +10 %\n"
 "\n"
-"Schaden:  1W10 +4 (Klingenwaffe)\n"
-"ETW0: -4\n"
-"\n"
-"Gewicht: 10\n"
+"ETW0-Bonus: -4\n"
+"Schaden: 1W10 +4 (Klinge)\n"
 "Initiativefaktor: 8\n"
-"Waffenfertigkeit: Zweihänder\n"
-"Waffentyp: Beidhändig\n"
-"Benötigt: Stärke 14, Konstitution 18\n"
-"Kann nicht verwendet werden von:\n"
-"Klerikern\n"
-"Magiern\n"
-"Paladinen\n"
-"Waldläufern\n"
-"Druiden\n"
-"Charakteren ohne chaotische Gesinnung"
+"Fertigkeit: Zweihänder\n"
+"Typ: 2-händig\n"
+"Mindeststärke: 14\n"
+"Mindestkonstitution: 18\n"
+"\n"
+"Gewicht: 10"
 
 #: items-ee.tra:3003
 msgid ""
@@ -5418,16 +5395,12 @@ msgstr ""
 "ich rufe lediglich Eure Essenz hervor."
 
 #: mel_iren_imoen.tra:612
-#, fuzzy
-#| msgid ""
-#| "There, there, Imoen.  I command the essence within you.  Let's see just how "
-#| "much of my power you have within you, yes?"
 msgid ""
 "There, there, Imoen. I command the essence within you. Let's see just how "
 "much of my power you have within you, yes?"
 msgstr ""
-"Nun los, Imoen.  Ich kontrolliere die Essenz in Euch.  Zeigt uns schon, wie "
-"viel Macht in Euch steckt."
+"Nun los, Imoen. Ich kontrolliere die Essenz in Euch. Mal sehen, wie viel "
+"meiner Macht in Euch steckt."
 
 #: pool_banter.tra:91
 msgid ""
@@ -5777,52 +5750,63 @@ msgid ""
 "Ascension must be installed BEFORE Spell Revisions. Uninstall Spell "
 "Revisions, install Ascension, then reinstall Spell Revisions."
 msgstr ""
+"Ascension muss VOR Spell Revisions installiert werden. Deinstallieren Sie "
+"Spell Revisions, installieren Sie Ascension und installieren Sie dann Spell "
+"Revisions erneut."
 
 #: setup.tra:101005
 msgid ""
 "Ascension must be installed BEFORE Sword Coast Stratagems. Uninstall Sword "
 "Coast Stratagems, install Ascension, then reinstall Sword Coast Stratagems."
 msgstr ""
+"Ascension muss VOR Sword Coast Stratagems installiert werden. Deinstallieren "
+"Sie Sword Coast Stratagems, installieren Sie Ascension und installieren Sie "
+"dann Sword Coast Stratagems erneut."
 
 #: setup.tra:101006
 msgid ""
 "Ascension must be installed BEFORE Wheels of Prophecy. Uninstall Wheels of "
 "Prophecy, install Ascension, then reinstall Wheels of Prophecy."
 msgstr ""
+"Ascension muss VOR Wheels of Prophecy installiert werden. Deinstallieren Sie "
+"Wheels of Prophecy, installieren Sie Ascension und installieren Sie dann "
+"Wheels of Prophecy erneut."
 
 #: setup.tra:101007
 msgid ""
 "Ascension must be installed BEFORE Iylos. Uninstall Iylos, install "
 "Ascension, then reinstall Iylos."
 msgstr ""
+"Ascension muss VOR Iylos installiert werden. Deinstallieren Sie Iylos, "
+"installieren Sie Ascension und installieren Sie dann Iylos erneut."
 
 #: setup.tra:102000
 msgid "Tougher Throne of Bhaal battles"
-msgstr ""
+msgstr "Verbesserte Thron des Bhaal Kämpfe"
 
 #: setup.tra:102100
 msgid "Tougher Abazigal"
-msgstr ""
+msgstr "Verbesserter Abazigal"
 
 #: setup.tra:102200
 msgid "Tougher Demogorgon"
-msgstr ""
+msgstr "Verbesserter Demogorgon"
 
 #: setup.tra:102300
 msgid "Tougher Gromnir"
-msgstr ""
+msgstr "Verbesserter Gromnir"
 
 #: setup.tra:102400
 msgid "Tougher Illasera"
-msgstr ""
+msgstr "Verbesserte Illasera"
 
 #: setup.tra:102500
 msgid "Tougher Yaga-Shura"
-msgstr ""
+msgstr "Verbesserter Yaga-Shura"
 
 #: setup.tra:102600
 msgid "Tougher Balthazar"
-msgstr ""
+msgstr "Verbesserter Balthazar"
 
 #: setup.tra:103000
 msgid "Additional Content (not part of original Ascension mod)"
@@ -6928,17 +6912,13 @@ msgstr ""
 "Vaters Essenz, die ich aufnehmen kann."
 
 #: the_five.tra:620
-#, fuzzy
-#| msgid ""
-#| "They provided a considerable challenge for you individually, <CHARNAME>.  I "
-#| "wonder how you will fare against them all?"
 msgid ""
 "They provided a considerable challenge for you individually, <CHARNAME>. I "
 "wonder how you will fare against them all?"
 msgstr ""
 "Schon jeder für sich alleine war eine beträchtliche Herausforderung für "
-"Euch, <CHARNAME>.  Ich glaube kaum, dass Ihr gegen alle gleichzeitig "
-"bestehen könnt."
+"Euch, <CHARNAME>. Ich glaube kaum, dass Ihr gegen alle gleichzeitig bestehen "
+"könnt."
 
 #: the_five.tra:621
 #, fuzzy
@@ -7013,28 +6993,20 @@ msgstr ""
 "der Ihr einst wart.  Dient mir."
 
 #: the_five.tra:627
-#, fuzzy
-#| msgid ""
-#| "Then fight for me you shall!  And your first victim will be the "
-#| "<PRO_BROTHERSISTER> upon whom vengeance is so richly deserved!"
 msgid ""
 "Then fight for me you shall! And your first victim will be the "
 "<PRO_BROTHERSISTER> upon whom vengeance is so richly deserved!"
 msgstr ""
-"Dann sollt Ihr für mich kämpfen!  Und Euer erstes Opfer soll Euer Bruder "
+"Dann sollt Ihr für mich kämpfen! Und Euer erstes Opfer soll Euer Bruder "
 "sein, der Eure Vergeltung wahrhaftig verdient."
 
 #: the_five.tra:628
-#, fuzzy
-#| msgid ""
-#| "Then die with your fool <PRO_BROTHERSISTER>, if that is your wish!  The Five"
-#| " shall be the end of you both!"
 msgid ""
 "Then die with your fool <PRO_BROTHERSISTER>, if that is your wish! The Five "
 "shall be the end of you both!"
 msgstr ""
-"Dann sterbt mit Eurem schwachsinnigen Bruder, wenn das Euer Wunsch ist!  Die"
-" Fünf werden Euer beider Ende sein."
+"Dann sterbt mit Eurem schwachsinnigen Bruder, wenn das Euer Wunsch ist! Die "
+"Fünf werden Euer beider Ende sein."
 
 #: the_five.tra:629
 #, fuzzy
@@ -7077,19 +7049,19 @@ msgstr ""
 
 #: tougher.tra:3
 msgid "Fire Drake"
-msgstr ""
+msgstr "Feuerdrache"
 
 #: tougher.tra:4
 msgid "Shadow Drake"
-msgstr ""
+msgstr "Schattendrache"
 
 #: tougher.tra:5
 msgid "Ice Drake"
-msgstr ""
+msgstr "Eisdrache"
 
 #: tougher.tra:6
 msgid "Earth Drake"
-msgstr ""
+msgstr "Erddrache"
 
 #: tougher.tra:7
 msgid "Summon the Abyssal Host"
