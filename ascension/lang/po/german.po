@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2023-01-03 19:02+0000\n"
+"PO-Revision-Date: 2023-01-03 20:02+0000\n"
 "Last-Translator: Ychap <asdfsa85@web.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/de/>\n"
@@ -138,7 +138,7 @@ msgstr "Magieresistenz um 5% verringert"
 
 #: ascension.tra:1048
 msgid "Slayer transformation enhanced"
-msgstr "Schlächterverwandlung verbessert"
+msgstr "Schlächter-Form verbessert"
 
 #: ascension.tra:1049
 msgid "The demon bows to your will"
@@ -2380,6 +2380,58 @@ msgid ""
 "- Regenerate 5 Hit Points per second\n"
 "- Chance of losing control increases to 40% plus a cumulative 10% chance per round"
 msgstr ""
+"Verwandlung zum Wüter\n"
+"\n"
+"Wenn Ihr diese Fähigkeit benutzt, nehmt Ihr die Gestalt des Schlächters oder "
+"des Wüters an: eine schreckliche Manifestation Bhaals. Das Benutzen dieser "
+"Fähigkeit reduziert Euren Ruf um 2 Punkte für den Schlächter bzw. um 3 "
+"Punkte für den Wüterich\n"
+"\n"
+"Die Form des Schlächters gewährt folgende Vorzüge:\n"
+"\n"
+"Stärke: auf 25 gesetzt\n"
+"Geschicklichkeit: auf 25 gesetzt\n"
+"\n"
+"Rüstungsklasse: -9\n"
+"Schaden: 2W8 (Wucht)\n"
+"Schadensbonus: +8 (Kälte)\n"
+"ETW0: -8\n"
+"Angriffe pro Runde: 4\n"
+"\n"
+"Spezialfähigkeiten:\n"
+"– Magiewiderstand: 60 %\n"
+"– Widerstand gegen physischen Schaden: 30 %\n"
+"– Widerstand gegen magischen Schaden: 50 %\n"
+"– Angriffe haben eine Chance von 10%, Magie zu bannen und die Magieresistenz "
+"zu senken\n"
+"– Rettungswürfe: 2\n"
+"– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 200\n"
+"– Regeneriert 3 Trefferpunkte pro Sekunde\n"
+"– Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, "
+"Verwirrung, Schlaf, Krankheit, Gift und Fernkampfangriffe\n"
+"– Handlungsfreiheit\n"
+"– Chance, die Kontrolle zu verlieren: Kumulativ 5% pro zwei Runden\n"
+"\n"
+"Die Form des Wüters gewährt folgende zusätzliche Vorzüge:\n"
+"\n"
+"Schaden: 3W8 (Wucht)\n"
+"Schadensbonus: +8 (Kälte)\n"
+"ETW0: -12\n"
+"Angriffe pro Runde: 5\n"
+"\n"
+"– Magiewiderstand: 75 %\n"
+"– Widerstand gegen physischen Schaden: 50 %\n"
+"– Widerstand gegen elementaren Schaden: 50 %\n"
+"– Widerstand gegen magischen Schaden: 50 %\n"
+"– Angriffe haben eine Chance von 20%, Magie zu bannen und die Magieresistenz "
+"zu senken\n"
+"– Trefferpunkte: PLUS_SIGN_PLACEHOLDER 250\n"
+"– Regeneriert 5 Trefferpunkte pro Sekunde\n"
+"– Immun gegen Einkerkerung, Stufenentzug, Betäubung, Furcht, Bezauberung, "
+"Verwirrung, Schlaf, Krankheit, Gift und Fernkampfangriffe\n"
+"– Handlungsfreiheit\n"
+"– Chance, die Kontrolle zu verlieren, erhöht sich auf 40% plus eine "
+"kumulative Chance von 10% pro Runde"
 
 #: description.tra:13
 msgid ""
@@ -2434,13 +2486,15 @@ msgstr ""
 
 #: description.tra:14 imoen_after.tra:1000
 msgid "Bhaalspawn powers granted"
-msgstr ""
+msgstr "Bhaalspawn-Fähigkeiten erhalten"
 
 #: description.tra:15
 msgid ""
 "Imoen can now change into the Slayer at will, and can enter the Ethereal "
 "plane once per minute"
 msgstr ""
+"Imoen kann sich nun in den Schlächter verwandeln und einmal pro Minute die "
+"Astralebene betreten"
 
 #: description.tra:16
 #, fuzzy
@@ -2532,6 +2586,9 @@ msgid ""
 "\n"
 "This ability allows Bodhi to shapeshift into bat form."
 msgstr ""
+"Gestaltwandlung: Fledermaus\n"
+"\n"
+"Diese Fähigkeit erlaubt es Bodhi, sich in eine Fledermaus zu verwandeln."
 
 #: description.tra:21
 #, fuzzy
@@ -5566,12 +5623,18 @@ msgid ""
 "a fool to oppose such power and I will not suffer in the Abyss with you this"
 " time."
 msgstr ""
+"Auf Wiedersehen, Bruder. Eure selbstzerstörerische Art kam Euch teuer zu "
+"stehen. Ihr wart töricht, Euch einer solchen Macht zu widersetzen. Ich werde "
+"dieses Mal nicht im Abgrund leiden."
 
 #: pool_banter.tra:92
 msgid ""
 "It would seem our prey intends to cower inside the magics of this place, "
 "<CHARNAME>. I have no patience for her games. I will have my soul!"
 msgstr ""
+"Es scheint, als wolle sich unsere Beute sich hinter der Magie dieses Ortes "
+"verstecken, <CHARNAME>. Ich habe keine Geduld für ihre Spielchen. Ich werde "
+"meine Seele bekommen!"
 
 #: pool_banter.tra:93
 msgid ""
@@ -5579,6 +5642,10 @@ msgid ""
 " to Melissan she will be forced to confront us. This is the realm of all "
 "Bhaalspawn, <CHARNAME> - your blood will serve you well."
 msgstr ""
+"Diese Teiche haben den Gestank von Magie. Wenn wir ihre Verbindung zu "
+"Melissan unterbrechen, wird sie sich uns stellen müssen. Dies ist das Reich "
+"aller Bhaalsprösslinge, <CHARNAME> - Euer Blut wird Euch also gute Dienste "
+"leisten."
 
 #: pool_banter.tra:396
 #, fuzzy
@@ -5885,23 +5952,27 @@ msgstr ""
 
 #: setup.tra:101000
 msgid "Ascension"
-msgstr ""
+msgstr "Ascension"
 
 #: setup.tra:101001
 msgid ""
 "You must have ToB installed or use Enhanced Edition to install the Ascension"
 " mod."
 msgstr ""
+"Sie müssen ToB installiert haben oder die Enhanced Edition verwenden, um die "
+"Ascension-Mod zu installieren."
 
 #: setup.tra:101002
 msgid "Cannot install without Ascension main component."
-msgstr ""
+msgstr "Kann ohne Hauptkomponente von Ascension nicht installiert werden."
 
 #: setup.tra:101003
 msgid ""
 "You must have BG2Fixpack installed or use Enhanced Edition to install this "
 "version of the Ascension mod."
 msgstr ""
+"Sie müssen BG2Fixpack installiert haben oder die Enhanced Edition verwenden, "
+"um diese Version der Ascension-Mod zu installieren."
 
 #: setup.tra:101004 setup.tra:101008
 msgid ""
@@ -5968,7 +6039,7 @@ msgstr "Verbesserter Balthazar"
 
 #: setup.tra:103000
 msgid "Additional Content (not part of original Ascension mod)"
-msgstr ""
+msgstr "Zusätzliche Inhalte (nicht Teil der ursprünglichen Ascension-Mod)"
 
 #: setup.tra:103010
 msgid "Full-body portrait for Bodhi"
@@ -6004,7 +6075,7 @@ msgstr ""
 
 #: setup.tra:104006
 msgid "Alternate epilogues by Shawne"
-msgstr ""
+msgstr "Alternative Epiloge von Shawne (in Englisch)"
 
 #: setup.tra:104009
 msgid "Balthazar can be redeemed"
@@ -6012,11 +6083,12 @@ msgstr ""
 
 #: setup.tra:104010
 msgid "Improved Slayer Transformation"
-msgstr ""
+msgstr "Verbesserte Schlächter-Form"
 
 #: setup.tra:105200
 msgid "Extended Epilogues for additional Beamdog NPCs, by shawne"
 msgstr ""
+"Erweiterte Epiloge für zusätzliche Beamdog-NPCs, von Shawne (in Englisch)"
 
 #: setup.tra:105210
 msgid ""
@@ -7199,11 +7271,11 @@ msgstr ""
 
 #: tougher.tra:1
 msgid "Minotaur Battle Priest"
-msgstr ""
+msgstr "Minotauren Priester"
 
 #: tougher.tra:2
 msgid "Il-Khan Medusa"
-msgstr ""
+msgstr "Il-Khan Medusa"
 
 #: tougher.tra:3
 msgid "Fire Drake"
@@ -7222,12 +7294,13 @@ msgid "Earth Drake"
 msgstr "Erddrache"
 
 #: tougher.tra:7
+#, fuzzy
 msgid "Summon the Abyssal Host"
-msgstr ""
+msgstr "Beschwöre Abyssbewohner"
 
 #: tougher.tra:11
 msgid "Yaga-Shura Cleric"
-msgstr ""
+msgstr "Yaga-Shura Kleriker"
 
 #, fuzzy
 #~ msgid ""
