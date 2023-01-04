@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2023-01-04 16:02+0000\n"
+"PO-Revision-Date: 2023-01-04 18:02+0000\n"
 "Last-Translator: Ychap <asdfsa85@web.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/de/>\n"
@@ -5187,31 +5187,31 @@ msgstr ""
 
 #: setup.tra:102000
 msgid "Tougher Throne of Bhaal battles"
-msgstr "Verbesserte Thron des Bhaal Kämpfe"
+msgstr "Härtere Kämpfe in Thron des Bhaal"
 
 #: setup.tra:102100
 msgid "Tougher Abazigal"
-msgstr "Verbesserter Abazigal"
+msgstr "Härterer Kampf gegen Abazigal"
 
 #: setup.tra:102200
 msgid "Tougher Demogorgon"
-msgstr "Verbesserter Demogorgon"
+msgstr "Härterer Kampf gegen Demogorgon"
 
 #: setup.tra:102300
 msgid "Tougher Gromnir"
-msgstr "Verbesserter Gromnir"
+msgstr "Härterer Kampf gegen Gromnir"
 
 #: setup.tra:102400
 msgid "Tougher Illasera"
-msgstr "Verbesserte Illasera"
+msgstr "Härterer Kampf gegen Illasera"
 
 #: setup.tra:102500
 msgid "Tougher Yaga-Shura"
-msgstr "Verbesserter Yaga-Shura"
+msgstr "Härterer Kampf gegen Yaga-Shura"
 
 #: setup.tra:102600
 msgid "Tougher Balthazar"
-msgstr "Verbesserter Balthasar"
+msgstr "Härterer Kampf gegen Balthasar"
 
 #: setup.tra:103000
 msgid "Additional Content (not part of original Ascension mod)"
@@ -5219,7 +5219,7 @@ msgstr "Zusätzliche Inhalte (nicht Teil der ursprünglichen Ascension-Mod)"
 
 #: setup.tra:103010
 msgid "Full-body portrait for Bodhi"
-msgstr "Körperporträt für Bodhi"
+msgstr "Ganzes Porträt von Bodhi"
 
 #: setup.tra:103020
 msgid "Alternate Balthazar portrait, by Cuv"
