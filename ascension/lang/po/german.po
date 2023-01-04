@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2023-01-04 14:02+0000\n"
+"PO-Revision-Date: 2023-01-04 15:02+0000\n"
 "Last-Translator: Ychap <asdfsa85@web.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/de/>\n"
@@ -4901,10 +4901,9 @@ msgid ""
 " to Melissan she will be forced to confront us. This is the realm of all "
 "Bhaalspawn, <CHARNAME> - your blood will serve you well."
 msgstr ""
-"Diese Teiche haben den Gestank von Magie. Wenn wir ihre Verbindung zu "
+"Diese Becken haben den Gestank von Magie. Wenn wir ihre Verbindung zu "
 "Melissan unterbrechen, wird sie sich uns stellen müssen. Dies ist das Reich "
-"aller Bhaalsprösslinge, <CHARNAME> - Euer Blut wird Euch also gute Dienste "
-"leisten."
+"der Bhaalkinder, <CHARNAME> - Euer Blut wird Euch also gute Dienste leisten."
 
 #: pool_banter.tra:396
 msgid ""
@@ -4987,8 +4986,8 @@ msgstr ""
 "selbst hinein und lenkt sie so von Melissan ab. Für einen Moment seid Ihr "
 "von grenzenloser Macht erfüllt... und obwohl der größte Teil Euch wieder "
 "verlässt und sich im Raum zerstreut, bleibt ein Teil davon in Euch. Ihr seid "
-"gegenüber Todesmagie und Enthauptungen immun, und habt für kurze Zeit die "
-"Fähigkeit Entfesseln. Die Energie stellt zudem die Kräfte aller Anwesenden "
+"gegenüber Todesmagie und Enthauptungen immun, und habt die Fähigkeit "
+"Entfesseln erhalten. Die Energie stellt zudem die Kräfte aller Anwesenden "
 "wieder her."
 
 #: pool_powers.tra:3 pool_powers.tra:4
@@ -5010,16 +5009,6 @@ msgstr ""
 "verfügbar."
 
 #: pool_powers.tra:5
-#, fuzzy
-#| msgid ""
-#| "You place your hand within the energies of the pool and draw the essence "
-#| "into yourself, diverting it away from Melissan.  Boundless power fills you, "
-#| "and while most of it dissipates you are left with much of Bhaal's essence.  "
-#| "For the moment, you have gained the ability to teleport freely throughout "
-#| "space and also fight for control of abyssal demons that are under Melissan's"
-#| " control. Part of this ability to teleport also means you are now completely"
-#| " immune to the spells Maze and Imprisonment.  The energies also restore the "
-#| "powers of all present."
 msgid ""
 "You place your hand within the energies of the pool and draw the essence "
 "into yourself, diverting it away from Melissan. Boundless power fills you, "
@@ -5031,14 +5020,14 @@ msgid ""
 "powers of all present."
 msgstr ""
 "Ihr haltet Eure Hand in die Energie des Beckens, zieht die Essenz in Euch "
-"selbst hinein und lenkt sie so von Melissan ab.  Für einen Moment seid Ihr "
+"selbst hinein und lenkt sie so von Melissan ab. Für einen Moment seid Ihr "
 "von grenzenloser Macht erfüllt... und obwohl der größte Teil Euch wieder "
 "verlässt und sich im Raum zerstreut, bleibt doch viel von Bhaals Essenz in "
-"Euch.  Ihr habt die Fähigkeit erhalten, Euch frei durch den Raum zu "
+"Euch. Ihr habt die Fähigkeit erhalten, Euch frei durch den Raum zu "
 "teleportieren und zudem um die Kontrolle über die Dämonen der Abyss zu "
-"kämpfen, die jetzt unter Melissans Kontrolle stehen.  Als Nebenwirkung Eurer"
-" Fähigkeit der Teleportation seid Ihr nun auch vollständig immun gegenüber "
-"den Zaubern Irrgarten und Einkerkerung.  Die Energien stellen außerdem die "
+"kämpfen, die jetzt unter Melissans Kontrolle stehen. Als Nebenwirkung Eurer "
+"Fähigkeit der Teleportation seid Ihr nun auch vollständig immun gegenüber "
+"den Zaubern Irrgarten und Einkerkerung. Die Energien stellen außerdem die "
 "Kräfte aller Anwesenden wieder her."
 
 #: pool_powers.tra:6
@@ -5066,15 +5055,6 @@ msgstr ""
 "Teleportationskraft kann einmal pro Runde eingesetzt werden."
 
 #: pool_powers.tra:7
-#, fuzzy
-#| msgid ""
-#| "You place your hand within the energies of the pool and draw the essence "
-#| "into yourself, diverting it away from Melissan.  You are filled with "
-#| "boundless power for a moment... and while most of it leaves you and "
-#| "dissipates into the cosmos, a part of it remains with you.  You have gained "
-#| "the ability to focus the energies within you to protect yourself from such "
-#| "magics as Time Stop, Disintegrate and Flesh to Stone for a short period.  "
-#| "The energies also restore the powers of all present."
 msgid ""
 "You place your hand within the energies of the pool and draw the essence "
 "into yourself, diverting it away from Melissan. You are filled with "
@@ -5085,13 +5065,12 @@ msgid ""
 " energies also restore the powers of all present."
 msgstr ""
 "Ihr haltet Eure Hand in die Energie des Beckens, zieht die Essenz in Euch "
-"selbst hinein und lenkt sie so von Melissan ab.  Für einen Moment seid Ihr "
+"selbst hinein und lenkt sie so von Melissan ab. Für einen Moment seid Ihr "
 "von grenzenloser Macht erfüllt... und obwohl der größte Teil Euch wieder "
-"verlässt und sich im Raum zerstreut, bleibt ein Teil davon in Euch.  Ihr "
-"habt die Fähigkeit erhalten, die Energien in Euch zu fokussieren, um Euch "
-"vor Magie wie Zeitstop, Auflösung und Versteinerung für eine kurze Zeit zu "
-"schützen.  Die Energien stellen außerdem die Kräfte aller Anwesenden wieder "
-"her."
+"verlässt und sich im Raum zerstreut, bleibt ein Teil davon in Euch. Ihr habt "
+"die Fähigkeit Fokus erhalten, womit Ihr Euch vor Magie wie Zeitstop, "
+"Auflösung und Versteinerung für eine kurze Zeit zu schützen. Die Energien "
+"stellen außerdem die Kräfte aller Anwesenden wieder her."
 
 #: pool_powers.tra:9
 msgid ""
@@ -5108,40 +5087,25 @@ msgstr ""
 "Minute eingesetzt werden."
 
 #: pool_powers.tra:10
-#, fuzzy
-#| msgid ""
-#| "The final pool has been stilled.  The light of the energy column has begun "
-#| "to ebb.  You have only moments to prepare for what is surely the final "
-#| "confrontation..."
 msgid ""
 "The final pool has been stilled. The light of the energy column has begun to"
 " ebb. You have only moments to prepare for what is surely the final "
 "confrontation..."
 msgstr ""
-"Das letzte Becken ist stillgelegt.  Das Licht der Energiesäule wird "
-"schwächer.  Ihr habt nur wenige Augenblicke, um Euch auf den Kampf "
+"Das letzte Becken ist stillgelegt. Das Licht der Energiesäule wird "
+"schwächer. Ihr habt nur wenige Augenblicke, um Euch auf den Kampf "
 "vorzubereiten, der mit Sicherheit die letzte Konfrontation sein wird..."
 
 #: pool_powers.tra:11
-#, fuzzy
-#| msgid ""
-#| "Already Melissan begins to stir within the stream of divine energies.  Once "
-#| "the last pool is stilled, there will be very little time before she reacts."
 msgid ""
 "Already Melissan begins to stir within the stream of divine energies. Once "
 "the last pool is stilled, there will be very little time before she reacts."
 msgstr ""
 "Schon beginnt Melissan, sich innerhalb des Stroms göttlicher Energien zu "
-"rühren.  Sobald das letzte Becken stillgelegt ist, wird Euch nur sehr wenig "
+"rühren. Sobald das letzte Becken stillgelegt ist, wird Euch nur sehr wenig "
 "Zeit bleiben, bevor sie reagiert."
 
 #: sarevok_sword.tra:275
-#, fuzzy
-#| msgid ""
-#| "My blade, is it?  I had thought this lost forever.  It is good to have it "
-#| "back.  While I no longer have the essence to channel through it, it is still"
-#| " a Deathbringer's weapon and I can restore much of its power.  I would not "
-#| "suggest you attempt to use it yourself, now."
 msgid ""
 "My blade, is it? I had thought this lost forever. It is good to have it "
 "back. While I no longer have the essence to channel through it, it is still "
@@ -5149,22 +5113,18 @@ msgid ""
 "suggest you attempt to use it yourself, now."
 msgstr ""
 "Meine Klinge, nicht wahr? Ich dachte, ich hätte sie für immer verloren. Es "
-"ist gut, dass ich sie wieder habe. Ich kann zwar die Essenz nicht mehr durch"
-" sie leiten, aber sie ist immer noch die Waffe eines Todesbringers, und ich "
+"ist gut, dass ich sie wieder habe. Ich kann zwar die Essenz nicht mehr durch "
+"sie leiten, aber sie ist immer noch die Waffe eines Todesbringers, und ich "
 "kann viel von ihrer Kraft wiederherstellen. Ich rate davon ab, dass Ihr "
 "versucht, sie selbst zu benutzen."
 
 #: sarevok_sword.tra:276
-#, fuzzy
-#| msgid ""
-#| "You wouldn't have my armor, too, hidden about somewhere within your packs?  "
-#| "Hmph.  I suppose some things are too much to hope for."
 msgid ""
 "You wouldn't have my armor, too, hidden about somewhere within your packs? "
 "Hmph. I suppose some things are too much to hope for."
 msgstr ""
-"Ihr habt nicht auch noch meine Rüstung dabei, irgendwo in Eurem Gepäck "
-"versteckt? Hmmm?. Nun, manches wäre vielleicht zu schön, um wahr zu sein."
+"Ihr habt nicht irgendwo in Eurem Gepäck noch meine Rüstung dabei? Hmmm, "
+"manches wäre zu schön, um wahr zu sein."
 
 #: setup.tra:101000
 msgid "Ascension"
@@ -6023,82 +5983,71 @@ msgid ""
 msgstr ""
 
 #: slayer_dialog.tra:314
-#, fuzzy
-#| msgid ""
-#| "Slayer Ability Changed\n"
-#| "\n"
-#| "It appears my ability to control the transformation to the slayer has increased.  The slayer form itself is stronger, deadlier... and I am able to maintain it for longer.  The chances of going berserk while in the form have also decreased."
 msgid ""
 "Slayer Ability Changed\n"
 "\n"
 "It appears my ability to control the transformation to the Slayer has increased. The slayer form itself is stronger, deadlier... and I am able to maintain it for longer. The chances of going berserk while in the form have also decreased."
 msgstr ""
-"Verwandlung in den Schlächter hat sich geändert\n"
+"Die Verwandlung zum Schlächter hat sich geändert\n"
 "\n"
-"Es scheint, dass meine Möglichkeiten, die Verwandlung in den Schlächter zu kontrollieren, sich verbessert haben.  Die Schlächterform ist stärker, tödlicher... und ich kann sie länger aufrecht erhalten.  Die Chancen, in einen unkontrollierbaren Berserkerrausch zu verfallen, haben sich ebenfalls verringert."
+"Anscheinend kann ich die Verwandlung zum Schlächter nun besser "
+"kontrollieren. Die Form des Schlächters ist nun stärker, tödlicher... und "
+"ich kann sie länger aufrecht erhalten. Die Chancen, in einen "
+"unkontrollierbaren Berserkerrausch zu verfallen, haben sich ebenfalls "
+"verringert."
 
 #: slayer_dialog.tra:315
-#, fuzzy
-#| msgid ""
-#| "Slayer Ability Changed Again\n"
-#| "\n"
-#| "My control over the slayer transformation continues to increase.  The slayer has become incredibly immune to harm and most magics, and it appears it is now immune to most diseases, poisons as well as any slow or hasting effects.  Even the slayer's claws now sometimes rip through magical effects and defenses."
 msgid ""
 "Slayer Ability Changed Again\n"
 "\n"
 "My control over the Slayer transformation continues to increase. The slayer has become incredibly immune to harm and most magics, and it appears it is now immune to most diseases, poisons as well as any slow or hasting effects. Even the Slayer's claws now sometimes rip through magical effects and defenses."
 msgstr ""
-"Verwandlung in den Schlächter hat sich erneut geändert\n"
+"Die Verwandlung zum Schlächter hat sich erneut geändert\n"
 "\n"
-"Meine Kontrolle über die Verwandlung in den Schlächter wächst weiter.  Der Schlächter ist unglaublich immun gegen Schaden und die meiste Magie, und es scheint, dass er ebenso immun gegen Krankheit, Vergiftung sowie gegen alle Verlangsamungs- oder Beschleunigungseffekte ist.  Auch scheinen die Klauen des Schlächters manchmal durch Verteidigungszauber hindurch zu schlagen."
+"Meine Kontrolle über die Verwandlung zum Schlächter wächst weiter. Die Form "
+"des Schlächter ist nun unglaublich immun gegen Schaden und die meiste Magie, "
+"und es scheint, dass er ebenso immun gegen Krankheit, Vergiftung sowie gegen "
+"alle Verlangsamungs- oder Beschleunigungseffekte ist. Auch scheinen die "
+"Klauen des Schlächters manchmal durch Verteidigungszauber hindurch zu "
+"schlagen."
 
 #: slayer_dialog.tra:316
-#, fuzzy
-#| msgid ""
-#| "The Ravager Form\n"
-#| "\n"
-#| "I am not sure if this is a good thing or not... but my ability to control my transformation has progressed to the point where I can now become the ravager... optionally.  Although incredibly powerful... the ravager receives half damage from most attacks, is immune to any kind of immobilization or buffeting attack... the ravager is difficult for me to control and may be a danger to those nearby."
 msgid ""
 "The Ravager Form\n"
 "\n"
 "I am not sure if this is a good thing or not... but my ability to control my transformation has progressed to the point where I can now become the Ravager... optionally. Although incredibly powerful... the Ravager receives half damage from most attacks, is immune to any kind of immobilization or buffeting attack... the Ravager is difficult for me to control and may be a danger to those nearby."
 msgstr ""
-"Verwandlung in den Wüter\n"
+"Verwandlung zum Wüter\n"
 "\n"
-"Ich bin mir nicht sicher, ob es eine gute Sache ist oder nicht... aber die Fähigkeiten, meine Verwandlung zu kontrollieren, haben einen Punkt erreicht, wo ich der Wüter werden kann... wenn ich will.  Obwohl unglaublich mächtig... der Wüter erhält nur den halben Schaden der meisten Angriffe, ist immun gegen jegliche Art von Festhalten oder Betäubung... ist der Wüter doch schwierig zu kontrollieren für mich und eine mögliche Gefahr für diejenigen, die mit mir sind."
+"Ich bin mir nicht sicher, ob es eine gute Sache ist oder nicht... aber die "
+"Fähigkeiten, meine Verwandlung zu kontrollieren, haben einen Punkt erreicht, "
+"wo ich mich zum Wüter verwandeln kann... wenn ich will. Obwohl unglaublich "
+"mächtig... die Form des Wüters erhält nur den halben Schaden der meisten "
+"Angriffe, ist immun gegen jegliche Art von Festhalten oder Betäubung... die "
+"Form ist aber schwierig für mich zu kontrollieren und kann eine Gefahr für "
+"alle in der Nähe sein."
 
 #: slayer_dialog.tra:317
-#, fuzzy
-#| msgid "I choose to turn into the ravager."
 msgid "I choose to turn into the Ravager."
-msgstr "Ich will mich in den Wüter verwandeln."
+msgstr "Ich habe mich entschieden, in den Wüter zu verwandeln."
 
 #: the_five.tra:26
-#, fuzzy
-#| msgid ""
-#| "Who--?  Melissan.  And <CHARNAME>, no less.  And to think that I had "
-#| "resigned myself to not being a part of this little play.  Who brought me "
-#| "here?  And why am I in my old armor?"
 msgid ""
 "Who? Melissan. And <CHARNAME>, no less. And to think that I had resigned "
 "myself to not being a part of this little play. Who brought me here? And why"
 " am I in my old armor?"
 msgstr ""
-"Wer...?  Melissan.  Und niemand anders als <CHARNAME>.  Ich hatte mich schon"
-" damit abgefunden, an diesem kleinen Spiel nicht beteiligt zu sein.  Wer "
-"brachte mich hierher?  Und warum in meiner alten Rüstung?"
+"Wer? Melissan und niemand anders als <CHARNAME>. Ich hatte mich schon damit "
+"abgefunden, an diesem kleinen Spiel nicht beteiligt zu sein. Wer brachte "
+"mich hierher? Und warum in meiner alten Rüstung?"
 
 #: the_five.tra:27
-#, fuzzy
-#| msgid "Fight <CHARNAME>?  Aye... I will do that."
 msgid "Fight <CHARNAME>? Aye... I will do that."
-msgstr "Kämpfen gegen <CHARNAME>?  Ja... das werde ich tun."
+msgstr "Gegen <CHARNAME> kämpfen? Ja... das werde ich tun."
 
 #: the_five.tra:28
-#, fuzzy
-#| msgid "So you die again, as well.  It's all good."
 msgid "So you die again, as well. It's all good."
-msgstr "So sterbt Ihr denn ein weiteres Mal.  Auch gut."
+msgstr "So sterbt Ihr denn ein weiteres Mal. Auch gut."
 
 #: the_five.tra:29
 msgid "You're a fool, Sarevok, if you think you'll make any difference."
@@ -6107,211 +6056,141 @@ msgstr ""
 "Unterschied macht."
 
 #: the_five.tra:30
-#, fuzzy
-#| msgid ""
-#| "You're willing to become Melissan's servant, now?  I'm disappointed."
 msgid "You're willing to become Melissan's servant, now? I'm disappointed."
-msgstr ""
-"Ihr seid also bereit, Melissan´s Diener zu werden?  Ich bin enttäuscht von "
-"Euch."
+msgstr "Ihr seid also bereit, Melissans Diener zu werden? Ich bin enttäuscht."
 
 #: the_five.tra:31
-#, fuzzy
-#| msgid ""
-#| "Then you'll die.  I gave you life again, and I can take it away... for the "
-#| "third time."
 msgid ""
 "Then you'll die. I gave you life again, and I can take it away... for the "
 "third time."
 msgstr ""
-"So werdet Ihr sterben.  Ich gab Euch Euer Leben zurück, und ich kann es Euch"
-" auch wieder nehmen... zum dritten Mal dann."
+"So werdet Ihr sterben. Ich gab Euch Euer Leben zurück, und ich kann es Euch "
+"auch wieder nehmen... zum dritten Mal dann."
 
 #: the_five.tra:32
-#, fuzzy
-#| msgid ""
-#| "It is true.  I may die again at your hand, <CHARNAME>.  But better that than"
-#| " sit in your shadow and taste the bile in my heart while you take what was "
-#| "once rightfully mine.  Better to fight for Melissan than suffer that."
 msgid ""
 "It is true. I may die again at your hand, <CHARNAME>. But better that than "
 "sit in your shadow and taste the bile in my heart while you take what was "
 "once rightfully mine. Better to fight for Melissan than suffer that."
 msgstr ""
-"Ja, es ist wahr.  Vielleicht sterbe ich ein weiteres Mal durch Eure Hand, "
-"<CHARNAME>.  Aber das ist besser, als in Eurem Schatten zu sitzen und den "
+"Ja, es ist wahr. Vielleicht sterbe ich ein weiteres Mal durch Eure Hand, "
+"<CHARNAME>. Aber das ist besser, als in Eurem Schatten zu sitzen und den "
 "Schmerz in meinem Herzen zu spüren, während Ihr nehmt, was einst rechtmäßig "
-"mir gehörte.  Besser für Melissan kämpfen, als dieses zu ertragen."
+"mir gehörte. Besser für Melissan kämpfen, als dieses zu ertragen."
 
 #: the_five.tra:262
-#, fuzzy
-#| msgid "What do you mean, wench?  We've no business, you and I."
 msgid "What do you mean, wench? We've no business, you and I."
-msgstr ""
-"Was meint Ihr, Weib?  Wir haben nichts miteinander zu tun, Ihr und ich."
+msgstr "Was meint Ihr, Weib? Wir haben nichts miteinander zu tun, Ihr und ich."
 
 #: the_five.tra:263
-#, fuzzy
-#| msgid ""
-#| "Even if cared to consider your offer, I cannot.  <CHARNAME> has bound me "
-#| "with a vow."
 msgid ""
 "Even if cared to consider your offer, I cannot. <CHARNAME> has bound me with"
 " a vow."
 msgstr ""
 "Auch wenn ich über Euer Angebot nachdenken wollte, so kann ich es doch "
-"nicht.  <CHARNAME> hat mich mit einem Schwur gebunden."
+"nicht. <CHARNAME> hat mich mit einem Schwur gebunden."
 
 #: the_five.tra:264
-#, fuzzy
-#| msgid ""
-#| "I see.  And you believe your offer interests me?  <CHARNAME> has done well "
-#| "enough against you so far."
 msgid ""
 "I see. And you believe your offer interests me? <CHARNAME> has done well "
 "enough against you so far."
 msgstr ""
-"Ich sehe es.  Und Ihr glaubt, Euer Angebot interessiere mich?  <CHARNAME> "
-"hat sich gut genug gegen Euch gehalten."
+"Ich sehe es. Und Ihr glaubt, Euer Angebot interessiere mich? <CHARNAME> hat "
+"sich gut genug gegen Euch gehalten."
 
 #: the_five.tra:265
-#, fuzzy
-#| msgid ""
-#| "Serve you?  You made me that offer once, as I recall.  I strung up your "
-#| "messenger atop the spires of my tower and allowed the crows to feed upon his"
-#| " innards.  I desired to rule, not to serve.  And I will not serve you, "
-#| "wench.  My answer is no."
 msgid ""
 "Serve you? You made me that offer once, as I recall. I strung up your "
 "messenger atop the spires of my tower and allowed the crows to feed upon his"
 " innards. I desired to rule, not to serve. And I will not serve you, wench. "
 "My answer is no."
 msgstr ""
-"Euch dienen?  Ihr machtet mir dieses Angebot schon einmal, wenn ich mich "
-"recht entsinne.  Ich hängte Euren Boten an der Spitze meines Turmes auf und "
-"erlaubte den Krähen, seine Eingeweide zu fressen.  Ich will herrschen, nicht"
-" dienen.  Und schon gar nicht werde ich Euch dienen, Weib.  Meine Antwort "
-"ist Nein."
+"Euch dienen? Ihr machtet mir dieses Angebot schon einmal, wenn ich mich "
+"recht entsinne. Ich hängte Euren Boten an der Spitze meines Turmes auf und "
+"erlaubte den Krähen, seine Eingeweide zu fressen. Ich will herrschen, nicht "
+"dienen. Und schon gar nicht werde ich Euch dienen, Weib. Meine Antwort ist "
+"Nein."
 
 #: the_five.tra:266
-#, fuzzy
-#| msgid ""
-#| "I tire of <CHARNAME> and <PRO_HISHER> foolish morals.  I tire of tagging "
-#| "along as a servant to the one who halted my own plans long before yours came"
-#| " to fruition, priestess.  Aye... I will be your general."
 msgid ""
 "I tire of <CHARNAME> and <PRO_HISHER> foolish morals. I tire of tagging "
 "along as a servant to the one who halted my own plans long before yours came"
 " to fruition, priestess. Aye... I will be your general."
 msgstr ""
-"Ich habe <CHARNAME> und <PRO_HISHER>e törichte Moral satt.  Ich habe es "
-"satt, demjenigen als Diener hinterher zu trotten, der meine Pläne zunichte "
-"machte, lange bevor Eure sich verwirklichten, Priesterin.  Ja... ich werde "
-"Euer General sein."
+"Ich habe <CHARNAME> und <PRO_HISHER>e törichte Moral satt. Ich habe es satt, "
+"demjenigen als Diener hinterher zu trotten, der meine Pläne zunichte machte, "
+"lange bevor Eure sich verwirklichten, Priesterin. Ja... ich werde Euer "
+"General sein."
 
 #: the_five.tra:267
-#, fuzzy
-#| msgid "No, Sarevok!  You traitorous bastard!"
 msgid "No, Sarevok! You traitorous bastard!"
-msgstr "Nein, Sarevok!  Ihr treuloser Bastard!"
+msgstr "Nein, Sarevok! Treuloser Bastard!"
 
 #: the_five.tra:268
-#, fuzzy
-#| msgid ""
-#| "That is a mistake, Sarevok.  You'll just die along with her this way."
 msgid "That is a mistake, Sarevok. You'll just die along with her this way."
 msgstr ""
-"Das ist ein Fehler, Sarevok.  Auf diese Weise werdet Ihr mit ihr sterben."
+"Das ist ein Fehler, Sarevok. Auf diese Weise werdet Ihr mit ihr sterben."
 
 #: the_five.tra:269
-#, fuzzy
-#| msgid ""
-#| "I expected as much.  So I get to kill you again, as well.  It's all good."
 msgid ""
 "I expected as much. So I get to kill you again, as well. It's all good."
 msgstr ""
-"Wie ich es erwartet habe.  Und so muß ich Euch eben ein weiteres Mal töten."
-"  Auch gut."
+"Wie ich es erwartet habe. Und so muß ich Euch eben ein weiteres Mal töten. "
+"Auch gut."
 
 #: the_five.tra:270
-#, fuzzy
-#| msgid ""
-#| "Become the demon I once was?  I am no longer that man, nor do I wish to be."
-#| "  If <CHARNAME> has shown me anything, it is that I am better off untouched "
-#| "by the madness that once swallowed me whole.  Wallow in your delusion if you"
-#| " will, woman... I remember it well.  And I will not join you in it."
 msgid ""
 "Become the demon I once was? I am no longer that man, nor do I wish to be. "
 "If <CHARNAME> has shown me anything, it is that I am better off untouched by"
 " the madness that once swallowed me whole. Wallow in your delusion if you "
 "will, woman... I remember it well. And I will not join you in it."
 msgstr ""
-"Der Dämon sein, der ich einst war?  Ich bin nicht länger dieser Mann und ich"
-" wünsche es auch nicht wieder zu sein.  Wenn <CHARNAME> mir eins gezeigt "
-"hat, dann dass ich besser dran bin ohne den Wahnsinn, der einst völlig von "
-"mir Besitz ergriffen hatte.  Schwelgt in Euren Wahnvorstellungen, Weib... "
-"ich erinnere mich noch gut.  Und ich werde Euch nicht dorthin folgen."
+"Der Dämon sein, der ich einst war? Ich bin nicht länger dieser Mann und ich "
+"wünsche es auch nicht wieder zu sein. Wenn <CHARNAME> mir eins gezeigt hat, "
+"dann dass ich besser dran bin ohne den Wahnsinn, der einst völlig von mir "
+"Besitz ergriffen hatte. Schwelgt in Euren Wahnvorstellungen, Weib... ich "
+"erinnere mich noch gut. Und ich werde Euch nicht dorthin folgen."
 
 #: the_five.tra:271
-#, fuzzy
-#| msgid ""
-#| "My nature has not changed, <CHARNAME>.  Did you truly expect otherwise?  "
-#| "Better to fight for Melissan than sit in your shadow and watch you take what"
-#| " was once mine."
 msgid ""
 "My nature has not changed, <CHARNAME>. Did you truly expect otherwise? "
 "Better to fight for Melissan than sit in your shadow and watch you take what"
 " was once mine."
 msgstr ""
-"Meine Natur hat sich nicht geändert, <CHARNAME>.  Habt Ihr das wirklich "
-"erwartet?  Es ist besser für Melissan zu kämpfen als in Eurem Schatten zu "
+"Meine Natur hat sich nicht geändert, <CHARNAME>. Habt Ihr das wirklich "
+"erwartet? Es ist besser für Melissan zu kämpfen als in Eurem Schatten zu "
 "sitzen und zu sehen, wie Ihr nehmt, was einst mir gehörte."
 
 #: the_five.tra:272
-#, fuzzy
-#| msgid ""
-#| "Perhaps.  But I will not sit in your shadow and simply watch you take what "
-#| "was once mine.  You do not deserve power, <CHARNAME>.  Even if it means "
-#| "fighting for Melissan, I will do what I must."
 msgid ""
 "Perhaps. But I will not sit in your shadow and simply watch you take what "
 "was once mine. You do not deserve power, <CHARNAME>. Even if it means "
 "fighting for Melissan, I will do what I must."
 msgstr ""
-"Vielleicht.  Aber ich werde nicht in Eurem Schatten sitzen und zusehen, wie "
-"Ihr nehmt, was einst mir gehörte.  Ihr verdient diese Macht nicht, "
-"<CHARNAME>.  Selbst wenn es bedeutet für Melissan zu kämpfen.  Ich tue, was "
+"Vielleicht. Aber ich werde nicht in Eurem Schatten sitzen und zusehen, wie "
+"Ihr nehmt, was einst mir gehörte. Ihr verdient diese Macht nicht, "
+"<CHARNAME>. Selbst wenn es bedeutet für Melissan zu kämpfen. Ich tue, was "
 "ich tun muss."
 
 #: the_five.tra:273
-#, fuzzy
-#| msgid ""
-#| "A typical boast.  And perhaps you will even win, but I will not sit idly by "
-#| "as you take what was once mine.  You don't deserve power, <CHARNAME>, and "
-#| "even if it means fighting for Melissan I will do what I must."
 msgid ""
 "A typical boast. And perhaps you will even win, but I will not sit idly by "
 "as you take what was once mine. You don't deserve power, <CHARNAME>, and "
 "even if it means fighting for Melissan I will do what I must."
 msgstr ""
-"Eure typische Prahlerei.  Und vielleicht werdet Ihr sogar gewinnen, aber ich"
-" werde nicht ruhig zusehen, wie Ihr nehmt, was einst mir gehörte.  Ihr "
+"Eure typische Prahlerei. Und vielleicht werdet Ihr sogar gewinnen, aber ich "
+"werde nicht ruhig zusehen, wie Ihr nehmt, was einst mir gehörte. Ihr "
 "verdient diese Macht nicht, <CHARNAME>, und selbst wenn es bedeutet, für "
 "Melissan zu kämpfen, so werde ich tun, was ich tun muss."
 
 #: the_five.tra:616
-#, fuzzy
-#| msgid ""
-#| "I was going to resurrect them anyway, to serve as my conquering avatars.  "
-#| "And I prefer them far better this way... completely servile, obeying every "
-#| "order without question."
 msgid ""
 "I was going to resurrect them anyway, to serve as my conquering avatars. And"
 " I prefer them far better this way... completely servile, obeying every "
 "order without question."
 msgstr ""
 "Ich hätte sie sowieso wiederbelebt, damit sie mir als meine siegreichen "
-"Avatare dienen.  Und so gefallen sie mir auch viel besser... vollkommen "
+"Avatare dienen. Und so gefallen sie mir auch viel besser... vollkommen "
 "unterwürfig, jedem Befehl folgend ohne Fragen zu stellen."
 
 #: the_five.tra:617
@@ -6328,29 +6207,21 @@ msgstr ""
 "gemacht. Ihr ermordetet ihn trotzdem, genau wie ich es vorhergesehen habe."
 
 #: the_five.tra:618
-#, fuzzy
-#| msgid ""
-#| "You should have kept your energies to yourself, Melissan.  Spending them on "
-#| "re-creating the Five will cost you... and cost you dearly."
 msgid ""
 "You should have kept your energies to yourself, Melissan. Spending them on "
 "re-creating the Five will cost you... and cost you dearly."
 msgstr ""
-"Ihr hättet Eure Energien für Euch behalten sollen, Melissan.  Sie für die "
-"Wiedererschaffung der Fünf zu verwenden, wird Euch teuer zu stehen kommen..."
-" sehr teuer."
+"Ihr hättet Eure Energien für Euch behalten sollen, Melissan. Sie für die "
+"Wiedererschaffung der Fünf zu verwenden, wird Euch teuer zu stehen kommen... "
+"sehr teuer."
 
 #: the_five.tra:619
-#, fuzzy
-#| msgid ""
-#| "Perhaps.  But already I am immortal, which means I cannot be killed even by "
-#| "you.  And there is still more of your father's essence for me to take."
 msgid ""
 "Perhaps. But already I am immortal, which means I cannot be killed even by "
 "you. And there is still more of your father's essence for me to take."
 msgstr ""
-"Vielleicht.  Aber ich bin bereits unsterblich, was bedeutet, dass nicht "
-"einmal Ihr mich töten könnt.  Und es existiert immer noch mehr von Eures "
+"Vielleicht. Aber ich bin bereits unsterblich, was bedeutet, dass nicht "
+"einmal Ihr mich töten könnt. Und es existiert immer noch mehr von Eures "
 "Vaters Essenz, die ich aufnehmen kann."
 
 #: the_five.tra:620
@@ -6363,12 +6234,9 @@ msgstr ""
 "könnt."
 
 #: the_five.tra:621
-#, fuzzy
-#| msgid ""
-#| "So come, <CHARNAME>...kill your siblings once again.  If you can."
 msgid "So come, <CHARNAME>...kill your siblings once again. If you can."
 msgstr ""
-"Nun kommt, <CHARNAME>... tötet Eure Geschwister ein weiteres Mal.  Wenn Ihr "
+"Nun kommt, <CHARNAME>... tötet Eure Geschwister ein weiteres Mal. Wenn Ihr "
 "könnt."
 
 #: the_five.tra:622
@@ -6376,52 +6244,33 @@ msgid "There is enough essence, in fact, even for you... Sarevok."
 msgstr "Es ist genug Essenz da, sogar für Euch... Sarevok."
 
 #: the_five.tra:623
-#, fuzzy
-#| msgid ""
-#| "But... we don't have all your siblings accounted for just quite yet, do we?"
-#| "  Haven't you forgotten someone?"
 msgid ""
 "But... we don't have all your siblings accounted for just quite yet, do we? "
 "Haven't you forgotten someone?"
 msgstr ""
-"Aber... wir haben nicht alle Eure Geschwister hier versammelt, nicht wahr?  "
+"Aber... wir haben nicht alle Eure Geschwister hier versammelt, nicht wahr? "
 "Haben wir nicht jemanden vergessen?"
 
 #: the_five.tra:624
-#, fuzzy
-#| msgid ""
-#| "Oh, but we do, Sarevok.  I made you an offer once before, and that offer "
-#| "still stands.  Join me now, abandon this pathetic whelp, and take your place"
-#| " at my side."
 msgid ""
 "Oh, but we do, Sarevok. I made you an offer once before, and that offer "
 "still stands. Join me now, abandon this pathetic whelp, and take your place "
 "at my side."
 msgstr ""
-"Aber sicher haben wir das, Sarevok.  Ich machte Euch bereits einmal ein "
-"Angebot und dieses gilt immer noch.  Unterstützt mich jetzt, verlasst diesen"
-" armseligen Jungen und stellt Euch auf meine Seite."
+"Aber sicher haben wir das, Sarevok. Ich machte Euch bereits einmal ein "
+"Angebot und dieses gilt immer noch. Unterstützt mich jetzt, verlasst diesen "
+"armseligen Jungen und stellt Euch auf meine Seite."
 
 #: the_five.tra:625
-#, fuzzy
-#| msgid ""
-#| "The geas the fool placed on your heart is nothing.  I could easily remove "
-#| "it.  In fact, I do so now.  There... act as you will."
 msgid ""
 "The geas the fool placed on your heart is nothing. I could easily remove it."
 " In fact, I do so now. There... act as you will."
 msgstr ""
-"Der Geas, den dieser Narr auf Euch gesprochen hat, ist nichts.  Ich kann ihn"
-" mit Leichtigkeit entfernen.  In Wahrheit mache ich dieses gerade. Seht... "
+"Der Bann, den dieser Narr auf Euch gesprochen hat, ist nichts. Ich kann ihn "
+"mit Leichtigkeit entfernen. In Wahrheit mache ich dieses gerade. So... "
 "handelt nach Eurem eigenen Willen."
 
 #: the_five.tra:626
-#, fuzzy
-#| msgid ""
-#| "Perhaps.  But you are a great warrior... and could be a fine general to lead"
-#| " my earthly armies.  Power, riches, respect... all you desire.  Including "
-#| "the return of the Bhaalspawn essence you lost.  Come, Sarevok... be the "
-#| "demon you once were.  Serve me."
 msgid ""
 "Perhaps. But you are a great warrior... and could be a fine general to lead "
 "my earthly armies. Power, riches, respect... all you desire. Including the "
@@ -6429,10 +6278,10 @@ msgid ""
 " once were. Serve me."
 msgstr ""
 "Vielleicht. Aber Ihr seid ein großer Krieger... und ihr könntet ein "
-"großartiger General sein, der meine irdischen Armeen anführt.  Macht, "
-"Reichtum, Respekt... alles was Ihr wünscht.  Und natürlich die Rückkehr der "
-"Bhaalessenz, die Ihr einst verloren habt.  Kommt Sarevok, seid der Dämon, "
-"der Ihr einst wart.  Dient mir."
+"großartiger General sein, der meine irdischen Armeen anführt. Macht, "
+"Reichtum, Respekt... alles was Ihr wünscht. Und natürlich die Rückkehr der "
+"Bhaalessenz, die Ihr einst verloren habt. Kommt Sarevok, seid der Dämon, der "
+"Ihr einst wart. Dient mir."
 
 #: the_five.tra:627
 msgid ""
@@ -6451,35 +6300,25 @@ msgstr ""
 "Fünf werden Euer beider Ende sein."
 
 #: the_five.tra:629
-#, fuzzy
-#| msgid ""
-#| "I brought you here, Sarevok.  To give you a second chance.  Join me and "
-#| "fight against <CHARNAME> and I will return the power you lost, the power you"
-#| " crave so much.  I will make you the man you once were."
 msgid ""
 "I brought you here, Sarevok. To give you a second chance. Join me and fight "
 "against <CHARNAME> and I will return the power you lost, the power you crave"
 " so much. I will make you the man you once were."
 msgstr ""
-"Ich brachte Euch hierher, Sarevok.  Um Euch eine zweite Chance zu geben.  "
+"Ich brachte Euch hierher, Sarevok. Um Euch eine zweite Chance zu geben. "
 "Unterstützt mich und kämpft gegen <CHARNAME> und ich werde Euch die Macht "
 "zurückgeben, die Ihr einst verlort, die Macht, nach der Ihr Euch so sehr "
-"sehnt.  Ich werde Euch wieder zu dem Mann machen, der Ihr einst wart."
+"sehnt. Ich werde Euch wieder zu dem Mann machen, der Ihr einst wart."
 
 #: the_five.tra:1008
-#, fuzzy
-#| msgid ""
-#| "You are a fool, Melissan.  You should have kept what divine energy you had "
-#| "for yourself and not spread it amongst such servants.  It will prove your "
-#| "doom."
 msgid ""
 "You are a fool, Melissan. You should have kept what divine energy you had "
 "for yourself and not spread it amongst such servants. It will prove your "
 "doom."
 msgstr ""
-"Ihr seid ein Narr, Melissan.  Ihr hättet Eure göttliche Energie für Euch "
-"behalten sollen, anstatt sie unter solchen Sklaven aufzuteilen.  Dieses wird"
-" Euer Untergang sein."
+"Ihr seid ziemlich töricht, Melissan. Ihr hättet Eure göttliche Energie für "
+"Euch behalten sollen, anstatt sie unter diesen Sklaven aufzuteilen. Dieses "
+"wird Euer Untergang sein."
 
 #: tougher.tra:1
 msgid "Minotaur Battle Priest"
@@ -6506,9 +6345,8 @@ msgid "Earth Drake"
 msgstr "Erddrache"
 
 #: tougher.tra:7
-#, fuzzy
 msgid "Summon the Abyssal Host"
-msgstr "Beschwöre Abyssbewohner"
+msgstr "Beschwöre Kreaturen des Abyss"
 
 #: tougher.tra:11
 msgid "Yaga-Shura Cleric"
