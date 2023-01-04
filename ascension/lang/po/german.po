@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2023-01-04 15:02+0000\n"
+"PO-Revision-Date: 2023-01-04 16:02+0000\n"
 "Last-Translator: Ychap <asdfsa85@web.de>\n"
 "Language-Team: German <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/de/>\n"
@@ -101,7 +101,7 @@ msgstr "Verwandlung zum Wüter"
 
 #: ascension.tra:1038
 msgid "Melissan: Command the Minions of the Abyss"
-msgstr "Melissan: Rufe die Diener der Abyss"
+msgstr "Melissan: Rufe die Diener des Abyss"
 
 #: ascension.tra:1039
 msgid "Bhaalspawn Power gained: Immunity to Energy Drain"
@@ -138,7 +138,7 @@ msgstr "Magieresistenz um 5% verringert"
 
 #: ascension.tra:1048
 msgid "Slayer transformation enhanced"
-msgstr "Schlächter-Form verbessert"
+msgstr "Verwandlung zum Schlächter wurde verbessert"
 
 #: ascension.tra:1049
 msgid "The demon bows to your will"
@@ -1786,7 +1786,7 @@ msgid ""
 "you screaming back into the abyss."
 msgstr ""
 "Ihr sollt nichts haben. Eure Nützlichkeit für mich hat sich erschöpft. Ich "
-"werde es genießen, Euch keifend zurück in die Abyss zu schicken."
+"werde es genießen, Euch keifend zurück in den Abyss zu schicken."
 
 #: bodhi_solar.tra:76
 msgid ""
@@ -1801,8 +1801,8 @@ msgid ""
 "No Bodhi, I think I will keep all of my soul. You will fall back into the "
 "abyss. Give Bhaal my regards."
 msgstr ""
-"Nein Bodhi, ich gedenke, jeden Teil meiner Seele zu behalten. Ihr werdet in "
-"die Abyss zurückfallen. Bestellt Bhaal meine Grüße."
+"Nein Bodhi, ich gedenke, jeden Teil meiner Seele zu behalten. Ihr werdet "
+"wieder im Abyss verschwinden. Bestellt Bhaal meine Grüße."
 
 #: bodhi_solar.tra:78
 msgid ""
@@ -1811,7 +1811,7 @@ msgid ""
 "end here!"
 msgstr ""
 "Narr! Ihr glaubt mich betrügen zu können, Kind von Bhaal? Niemals kehre ich "
-"in die Abyss zurück. Stattdessen werde ich jeden Fetzen Seele aus Eurem "
+"in den Abyss zurück. Stattdessen werde ich jeden Fetzen Seele aus Eurem "
 "Körper reißen! Lasst den Tanz hier enden!"
 
 #: bodhi_solar.tra:79
@@ -3663,7 +3663,7 @@ msgstr ""
 "er habe einen Kreuzzug gegen die Drow im Unterreich begonnen, einige, dass "
 "er ein Held in den weit entfernten Nordländern wurde... und einige behaupten "
 "sogar mit Sicherheit, dass <CHARNAME> gegen Lolth selbst in den "
-"Dämonennetzgruben der Abyss gekämpft habe... aber alle stimmen darin "
+"Dämonennetzgruben des Abyss gekämpft habe... aber alle stimmen darin "
 "überein, dass der frühere Sohn des Bhaal durch seine Liebe zu der dunklen "
 "Frau für immer verändert wurde. Und der Sohn, aufgezogen von zwei der "
 "mächtigsten Wesen in den Reichen? Er schmiedete seine eigene Legende, die "
@@ -4075,7 +4075,7 @@ msgid ""
 "Perhaps I do not need to taste your blood..."
 msgstr ""
 "Mein Bruder glaubt, er könne mir Eure Seele anbieten. Jetzt aber sehe ich, "
-"dass auch Ihr andere aus der Abyss zurückrufen könnt. Sogar jede, die Euch "
+"dass auch Ihr andere aus dem Abyss zurückrufen könnt. Sogar jede, die Euch "
 "bekämpft haben! Wie faszinierend! Vielleicht brauche ich nicht Euer Blut "
 "trinken..."
 
@@ -4103,10 +4103,10 @@ msgid ""
 "one, but since I must return, I shall not pass up a chance to feast on such "
 "a fine morsel."
 msgstr ""
-"Ich bin verdammt, ob ich nun kämpfe oder nicht. Mein Aufenthalt in der Abyss "
+"Ich bin verdammt, ob ich nun kämpfe oder nicht. Mein Aufenthalt in dem Abyss "
 "war kein angenehmer, aber da ich dorthin zurückkehren muss, werde ich die "
-"Gelegenheit, mich an einem so leckeren Happen gütlich zu tun, nicht "
-"verstreichen lassen."
+"Gelegenheit nicht verstreichen lassen, mich an einem so leckeren Happen "
+"gütlich zu tun."
 
 #: iren_bodhi.tra:54
 msgid ""
@@ -4730,7 +4730,7 @@ msgstr ""
 "Ihr glaubt nicht an meine Macht, ich kann es spüren. Ihr habt in Eurer "
 "Vergangenheit gegen mächtige Gegner gekämpft und immer habt ihr es geschafft "
 "zu siegen. Nun... Ihr hinterlasst eine Spur gefallener Feinde, sogar hier in "
-"der Abyss. So fand ich zum Beispiel diesen hier..."
+"dem Abyss. So fand ich zum Beispiel diesen hier..."
 
 #: mel_initial.tra:606
 msgid ""
@@ -4883,8 +4883,8 @@ msgid ""
 " time."
 msgstr ""
 "Auf Wiedersehen, Bruder. Eure selbstzerstörerische Art kam Euch teuer zu "
-"stehen. Ihr wart töricht, Euch einer solchen Macht zu widersetzen. Ich werde "
-"dieses Mal nicht im Abgrund leiden."
+"stehen. Ihr wart töricht, Euch einer solchen Macht zu widersetzen. Dieses "
+"Mal werde ich nicht im Abyss leiden."
 
 #: pool_banter.tra:92
 msgid ""
@@ -5024,7 +5024,7 @@ msgstr ""
 "von grenzenloser Macht erfüllt... und obwohl der größte Teil Euch wieder "
 "verlässt und sich im Raum zerstreut, bleibt doch viel von Bhaals Essenz in "
 "Euch. Ihr habt die Fähigkeit erhalten, Euch frei durch den Raum zu "
-"teleportieren und zudem um die Kontrolle über die Dämonen der Abyss zu "
+"teleportieren und zudem um die Kontrolle über die Dämonen des Abyss zu "
 "kämpfen, die jetzt unter Melissans Kontrolle stehen. Als Nebenwirkung Eurer "
 "Fähigkeit der Teleportation seid Ihr nun auch vollständig immun gegenüber "
 "den Zaubern Irrgarten und Einkerkerung. Die Energien stellen außerdem die "
@@ -5235,11 +5235,11 @@ msgstr "Umgeschriebenes letztes Kapitel in Thron des Bhaal"
 
 #: setup.tra:104002
 msgid "Improved Sarevok-Player Interactions"
-msgstr "Verbesserte Interaktionen mit Sarevok"
+msgstr "Zusätzliche Dialoge mit Sarevok finden definitiv statt"
 
 #: setup.tra:104003
 msgid "Improved Imoen-Player Interactions in Throne of Bhaal"
-msgstr "Verbesserte Interaktionen mit Imoen in Thron des Bhaal"
+msgstr "Zusätzliche Dialoge mit Imoen finden definitiv statt"
 
 #: setup.tra:104004
 msgid "Expanded Epilogues for Bioware NPCs"
@@ -5259,7 +5259,7 @@ msgstr "Balthasar kann erlöst werden"
 
 #: setup.tra:104010
 msgid "Improved Slayer Transformation"
-msgstr "Verbesserte Schlächter-Form"
+msgstr "Verbesserte Verwandlung zum Schlächter"
 
 #: setup.tra:105200
 msgid "Extended Epilogues for additional Beamdog NPCs, by shawne"
