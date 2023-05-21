@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: 2022-05-21 10:05+0000\n"
-"Last-Translator: Magus <magus@bgforge.net>\n"
+"PO-Revision-Date: 2023-05-21 09:51+0000\n"
+"Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: Spanish <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/es/>\n"
 "Language: spanish\n"
@@ -2653,7 +2653,7 @@ msgstr ""
 #: epilogues.tra:4006 epilogues.tra:4011 epilogues.tra:4012 epilogues.tra:4013
 #: epilogues.tra:4015
 msgid " "
-msgstr ""
+msgstr " "
 
 #: epilogues.tra:4007
 msgid ""
