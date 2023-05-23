@@ -11,7 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Poify/Unpoify/dir2msgstr
-        uses: BGforgeNet/msg2po@master
+        uses: BGforgeNet/msg2po@dev
         with:
           poify: true
           unpoify: true
