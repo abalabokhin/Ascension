@@ -18,7 +18,6 @@
 @1027 = ~Aura de paralización~
 @1029 = ~Bomba de lava~
 @1031 = ~Símbolo, Ralentizamiento~
-@1031 = ~Símbolo, Ralentizamiento~
 @1037 = ~Transformación en el Saqueador~
 @1038 = ~Melissan: Dominar las huestes del Abismo~
 @1039 = ~Poder de Engrendro de Bhaal conseguido: Inmudidad a Drenar Energía~
@@ -154,29 +153,6 @@ Al igual que el conjuro de 5º nivel Revivir a los muertos, Resurrección devolver
 <CHARNAME> ha obtenido un 25% de resistencia al daño físico (como p.e. el daño cortante, perforante, contundente y de proyectil).~
 @2008 = ~Slayer Change ability improved~
 @3000 = ~Espada del Caos +4~
-@3001 = ~La hoja de Sarevok, el hermano de <CHARNAME>, utilizada en la batalla en la que combatieron en la lejana Puerta de Baldur. <CHARNAME> se impuso, destruyendo los planes de Sarevok y librando a la Costa de la Espada de la inminente guerra. Ahora Sarevok se ha unido a la causa de <CHARNAME> y su hoja le ha sido devuelta. Sarevok ha descrito el arma como la hoja de un portador de la muerte y ha conseguido recuperar algo del viejo poder de la espada. Sin su esencia de Engendro de Bhaal para canalizarla a través de la espada, de todas formas, no puede alcanzar el poder que una vez tuvo. Todavía, a pesar de todo, es un arma formidable... y algo que Sarevok advierte es que sería más difícil de manejar en manos de alguien que no sea un portador de la muerte, si pudiera usarla claro.
-
-CARACTERÍSTICAS:
-
-Aptitudes: cada golpe drena de uno a cinco puntos de golpe al objetivo y los transfiere al portador. Esto no curará mas allá del máximo del portador.
-
-La hoja también concede un +10% de resistencia mágica mientras sea equipada.
-
-Daño: 1d10 +4
-THAC0: +4
-Tipo de daño: cortante
-Peso: 10 lbs
-Factor de velocidad: 8
-Talento marcial: Mandoble
-Tipo: A dos manos
-Requisitos: Fuerza 14, Constitución 18
-No lo puede usar:
- Clérigo
- Mago
- Paladín
- Explorador
- Druida
- Alineamiento no caótico~
 @3001 = ~La hoja de Sarevok, el hermano de <CHARNAME>, utilizada en la batalla en la que combatieron en la lejana Puerta de Baldur. <CHARNAME> se impuso, destruyendo los planes de Sarevok y librando a la Costa de la Espada de la inminente guerra. Ahora Sarevok se ha unido a la causa de <CHARNAME> y su hoja le ha sido devuelta. Sarevok ha descrito el arma como la hoja de un portador de la muerte y ha conseguido recuperar algo del viejo poder de la espada. Sin su esencia de Engendro de Bhaal para canalizarla a través de la espada, de todas formas, no puede alcanzar el poder que una vez tuvo. Todavía, a pesar de todo, es un arma formidable... y algo que Sarevok advierte es que sería más difícil de manejar en manos de alguien que no sea un portador de la muerte, si pudiera usarla claro.
 
 CARACTERÍSTICAS:

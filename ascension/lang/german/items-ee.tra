@@ -21,23 +21,6 @@ Paladinen
 Waldläufern
 Druiden
 Charakteren ohne chaotische Gesinnung~
-@3001 = ~Die Klinge von Sarevok, <CHARNAME>s Bruder, die er im Kampf im fernen Baldurs Tor benutzte. <CHARNAME> siegte, vereitelte Sarevoks Pläne und bewahrte die Schwertküste vor einem Krieg. Nun kämpft Sarevok an <CHARNAME>s Seite, und die Klinge wurde ihm zurückgegeben. Sarevok bezeichnet die Waffe als Klinge eines Todesbringers und hat etwas von ihrer alten Macht wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie fließt, verfügt sie zwar nicht über ihre früheren Fähigkeiten; dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.
-
-SPEZIFISCHE EIGENSCHAFTEN:
-
-Besondere Fähigkeiten: jeder Treffer raubt dem Opfer einen bis fünf Trefferpunkte und überträgt ihn auf den Träger des Schwertes. Dadurch kann er aber nicht mehr Trefferpunkte als sein Maximum erhalten.
-
-Magiewiderstand: +10 %
-
-ETW0-Bonus: -4
-Schaden: 1W10 +4 (Klinge)
-Initiativefaktor: 8
-Fertigkeit: Zweihänder
-Typ: 2-händig
-Mindeststärke: 14
-Mindestkonstitution: 18
-
-Gewicht: 10~
 @3003 = ~Womöglich von Sendai selbst gebraut, ist dieses ein ungeheuer mächtiger Heiltrank, der die kompletten Trefferpunkte von jedem, der ihn zu sich nimmt, wiederherstellt.
 
 EIGENSCHAFTEN:

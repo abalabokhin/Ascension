@@ -2,7 +2,6 @@
 @1072 = ~Non sei il primo che cerca di uccidermi... e probabilmente neanche l'ultimo!~
 @1074 = ~Sì, è vero. Sei un buon uomo, <CHARNAME>, e la tua presa di posizione contro il male è fuori discussione. La tua lotta contro la corruzione del nostro malvagio padre merita una lode.~
 @1075 = ~Non percepisco nessuna bontà innata in te, <CHARNAME>... sebbene le tue imprese sia decantate in lungo e in largo come degne di lodi. Mi pare... interessante che uno come te, uno che deve lottare così tanto contro la corruzione di nostro padre dentro di sé, si sia adoperato molto per combattere il vero male.~
-@1075 = ~Non percepisco nessuna bontà innata in te, <CHARNAME>... sebbene le tue imprese sia decantate in lungo e in largo come degne di lodi. Mi pare... interessante che uno come te, uno che deve lottare così tanto contro la corruzione di nostro padre dentro di sé, si sia adoperato molto per combattere il vero male.~
 @1076 = ~Vedo il bene che è in te, <CHARNAME>, ma le tue imprese sono difficilmente degne di lodi. Percepisco solo un'anima che combatte la corruzione di nostro padre, che lotta alla ricerca del cammino retto dove esso non esiste.~
 @1077 = ~Non percepisco nessuna bontà  innata in te, <CHARNAME>. Non penso che le tue imprese siano degne di lodi. Percepisco solo un'anima che combatte la corruzione di nostro padre, proprio come me.~
 @1078 = ~A dire il vero, sono la persona perfetta per giudicare, <CHARNAME>. Anch'io ho la corruzione di nostro padre. Anch'io ho provato il suo desiderio di sangue, i suoi tentativi di esercitare il caos sulla mia vita. L'ho dominata... ma solo a stento. So troppo bene di cosa sia capace.~
@@ -19,7 +18,6 @@
 @1089 = ~Non sono come te. Esisto per combattere il caos della mia corruzione, per combattere il male che il retaggio di Bhaal porta in questo mondo. Ho affrontato il male dentro di me e l'ho dominato.~
 @1090 = ~No. Ho portato la mia parte di morte e distruzione in questa terra, ma vedo uno scopo più grande dietro tutto ciò... Io cerco di porre fine per sempre alla possibilità che Bhaal ritorni e di ripulire questa terra dalla sua corruzione.~
 @1091 = ~Ho dominato il potere dentro di me e ho mantenuto il male sotto controllo, ma conosco bene... se non meglio... della maggior parte dei miei fratelli la minaccia che porta per tutto il Faerùn. Non lo permetterò. Ho dedicato l'intera mia vita a questo.~
-@1092 = ~Se solo ci fossimo incontrati in altre circostanze, <CHARNAME>... mi sarebbe piaciuto sedermi e confrontare i cammini che ci hanno portati fino a questo punto. Se non fossimo stati costretti dal destino a sopportare questa corruzione delle nostre anime, cosa saremmo stati? Rimpiango ciò che devo fare, sebbene sappia di doverlo fare.~
 @1092 = ~Se solo ci fossimo incontrati in altre circostanze, <CHARNAME>... mi sarebbe piaciuto sedermi e confrontare i cammini che ci hanno portati fino a questo punto. Se non fossimo stati costretti dal destino a sopportare questa corruzione delle nostre anime, cosa saremmo stati? Rimpiango ciò che devo fare, sebbene sappia di doverlo fare.~
 @1093 = ~E cosa ne sarà di Melissan? Sarà libera di resuscitare Bhaal e di portare a termine il suo piano?~
 @1094 = ~Non devi farlo, Balthazar. Non dobbiamo combatterci l'un l'altro.~
@@ -46,16 +44,13 @@
 @1115 = ~Lascia che Melissan tremi quando ci vedrà insieme e l'abbatteremo come merita. Anche se lo stesso Bhaal risorgerà, non sarà in grado di resisterci. Devo prepararmi, <CHARNAME>. Va' al Trono di Bhaal. Quando verrà il momento, sarò là.~
 @1116 = ~Non posso, <CHARNAME>.~
 @1117 = ~Devi combattere contro Melissan. Il tuo destino ti impone di vedere la fine del retaggio di Bhaal qui e ora. Ma devi promettermi, <CHARNAME>... devi promettermi che non cadrai nella tentazione. Dovessi sconfiggere Melissan e avere il potere alla tua portata, dovrai ignorarlo... Hai visto qual è lo sforzo che ora devi fare con solo una piccola parte della corruzione. Non prenderla, <CHARNAME>... Anche un dio può essere tentato, devi capirlo. Promettimi che la ignorerai.~
-@1117 = ~Devi combattere contro Melissan. Il tuo destino ti impone di vedere la fine del retaggio di Bhaal qui e ora. Ma devi promettermi, <CHARNAME>... devi promettermi che non cadrai nella tentazione. Dovessi sconfiggere Melissan e avere il potere alla tua portata, dovrai ignorarlo... Hai visto qual è lo sforzo che ora devi fare con solo una piccola parte della corruzione. Non prenderla, <CHARNAME>... Anche un dio può essere tentato, devi capirlo. Promettimi che la ignorerai.~
 @1118 = ~Se ne avrò l'occasione, Balthazar... rifiuterò la corruzione. Lo giuro.~
 @1119 = ~No. Non giurerò nulla del genere. Un grande bene potrebbe venir fuori da quel potere, nessuno lo sa meglio di me.~
 @1120 = ~Scordatelo! Non farò una cosa del genere!~
 @1121 = ~Allora sono soddisfatto. L'essenza di nostro padre termina con me... e con te. Possano gli dèi perdonarmi. Possa... possa tu perdonarmi, fratello...~
 @1122 = ~Allora dobbiamo combattere. Mi... mi dispiace, fratello. Speravo che finisse diversamente.~
 @1123 = ~E io non posso fidarmi che ignorerai il potere quando ti sarà offerto. Hai provato lo sforzo che ti ha portato anche solo una piccola parte della corruzione di Bhaal, ma non posso credere che la ignorerai. Mi... mi dispiace, fratello... ma non ho scelta.~
-@1123 = ~E io non posso fidarmi che ignorerai il potere quando ti sarà offerto. Hai provato lo sforzo che ti ha portato anche solo una piccola parte della corruzione di Bhaal, ma non posso credere che la ignorerai. Mi... mi dispiace, fratello... ma non ho scelta.~
 @1124 = ~Così sia. Venite, miei allievi... Possano gli dèi aiutarci tutti.~
-@1125 = ~No. Altre parole sono inutili. Facciamola finita ora, <CHARNAME>... e possano gli dèi aver pietà di noi tutti.~
 @1125 = ~No. Altre parole sono inutili. Facciamola finita ora, <CHARNAME>... e possano gli dèi aver pietà di noi tutti.~
 @1126 = ~Forse ciò che dici ha valore. Ma se morissi durante la battaglia? Se fossi indebolito, alla fine... saresti... tentato. Come potrei fidarmi di te?~
 @1128 = ~Non so come spiegarlo esattamente, ma deve averti usato! Ha usato tutti quanti! Non mi fidavo di lei, ma mi ha comunque portato a fare ciò che voleva!~
@@ -91,7 +86,6 @@
 @1158 = ~Ma questa è un'idea folle, <CHARNAME>, e io non sono un folle. Non c'è alcuna simile possibilità  per me o per ciascuno di noi, non importa quanto affascinante tu possa farla sembrare.~
 @1159 = ~No! Non hai sentito nulla di ciò che ho detto! È QUESTO il sentiero, perché non c'è scelta per noi! Vorresti che dimenticassi tutti gli omicidi che ho commesso con le mie stesse mani, tutti i torti che ho fatto nel nome del bene superiore... Non posso dimenticare! Non mi perdonerò e NON lascerò che altri siano afflitti dalla corruzione che possiedo!~
 @1160 = ~Hai un carisma notevole, <CHARNAME>... ma siamo fratelli e non possiamo collaborare. Sai bene quanto me ciò che cerca l'essenza e non sarà soddisfatta finché il nostro destino non sarà compiuto.~
-@1160 = ~Hai un carisma notevole, <CHARNAME>... ma siamo fratelli e non possiamo collaborare. Sai bene quanto me ciò che cerca l'essenza e non sarà soddisfatta finché il nostro destino non sarà compiuto.~
 @1161 = ~Non ti giudico, <CHARNAME>. Sei ciò per cui sei nato. Posso solo fidarmi di me stesso per tenere fede al sentiero del bene che porterà alla distruzione del vero male che minaccia Faerùn. Non c'è nessun altro sentiero per me.~
 @1162 = ~Guarda la sofferenza che hai portato ad Amkethran! I tuoi monaci terrorizzano gli innocenti al tuo ordine! Ingaggi mercenari senz'anima che ammazzano gli innocenti alla più piccola provocazione! E tutto per nulla! Chiami queste le azioni di un brav'uomo?~
 @1163 = ~Un vero brav'uomo sia sarebbe erto contro Melissan sin dall'inizio. Affermi che volevi scoprire chi fossero i Cinque... eppure io li ho sconfitti senza i tuoi intrighi. È stata una tua scelta unirti ai Cinque nel loro regno di distruzione, quindi non tirarti indietro!~
@@ -105,7 +99,6 @@
 @1171 = ~NON sarà sbeffeggiato in questo modo! Ho sacrificato tutta la mia vita, la gente di questo villaggio, tutto ciò che ho al fine di vedere questo male distrutto! Distrutto, completamente! Ho supplicato Ao il Padre Supremo che a un simile odio non sia permesso di vivere nel cuore dei mortali ed io SARÒ ascoltato!~
 @1172 = ~Io... so solo quali sono le tentazioni con cui la corruzione ci tormenta, <CHARNAME>. So solo che se il nostro potere crescesse, se il tuo potere crescesse, così farebbe anche la tentazione.~
 @1173 = ~Ma... tu sei riuscito a combattere la tentazione. Ci sei riuscito più di me. Ho fatto... molte cose di cui mi pento nel nome del bene. La mia gente soffre perché pongo il fine ultimo al di sopra ogni cosa... ma non è forse il modo in cui trattiamo l'ultimo dei nostri fratelli il vero metro di giudizio dell'anima di un uomo? Io... mi vergogno.~
-@1174 = ~E nonostante ciò che potrai dire, penso che la corruzione alberghi vicino al tuo cuore, quindi dovrai credermi. Devo percorrere il mio sentiero, <CHARNAME>... e tu devi percorrere il tuo.~
 @1174 = ~E nonostante ciò che potrai dire, penso che la corruzione alberghi vicino al tuo cuore, quindi dovrai credermi. Devo percorrere il mio sentiero, <CHARNAME>... e tu devi percorrere il tuo.~
 @1175 = ~Molto bene. Venite, miei allievi... I miei insegnamenti sono finiti. Combattiamo un'ultima volta per ciò che è giusto. Possano gli dèi aiutarci tutti.~
 @1176 = ~Sebbene il destino non ci abbia portati a questo punto, dubito che le cose sarebbe state diverse. Forse, se tu non fossi nato con la corruzione di nostro padre, le cose sarebbero state diverse per te. Penso che mi sarebbe piaciuto incontrare un uomo come te senza la corruzione nell'anima. Ma ora ho poco scelta.~

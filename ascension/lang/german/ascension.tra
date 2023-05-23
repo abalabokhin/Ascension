@@ -18,7 +18,6 @@
 @1027 = ~Aura der Lähmung~
 @1029 = ~Lava Bombe~
 @1031 = ~Symbol: Verlangsamen~
-@1031 = ~Symbol des Verlangsamens~
 @1037 = ~Verwandlung zum Wüter~
 @1038 = ~Melissan: Rufe die Diener des Abyss~
 @1039 = ~Bhaalspross-Fähigkeit erhalten: Schutz vor Lebenskraftentzug~
@@ -167,29 +166,6 @@ Paladinen
 Waldläufern
 Druiden
 Charakteren ohne chaotische Gesinnung~
-@3001 = ~Die Klinge von Sarevok, <CHARNAME>s Bruder, die er im Kampf im fernen Baldurs Tor benutzte. <CHARNAME> siegte, vereitelte Sarevoks Pläne und bewahrte die Schwertküste vor einem Krieg. Nun kämpft Sarevok an <CHARNAME>s Seite, und die Klinge wurde ihm zurückgegeben. Sarevok bezeichnet die Waffe als Klinge eines Todesbringers und hat etwas von ihrer alten Macht wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie fließt, verfügt sie zwar nicht über ihre früheren Fähigkeiten; dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.
-
-EIGENSCHAFTEN:
-
-Bei jedem Treffer verliert das Ziel 1W5 Trefferpunkte und heilt damit den Träger.
-
-Schaden: 1W10 +4 (Klinge)
-ETW0-Bonus: -4
-Magiewiderstand: 10%
-Gewicht: 10
-Initiativefaktor: 8
-Mindeststärke: 14
-Mindestkonstitution: 18
-Fertigkeit: Zweihänder
-Typ: 2-händig
-
-Kann nicht verwendet werden von:
-- Klerikern
-- Magiern
-- Paladinen
-- Waldläufern
-- Druiden
-- Charakteren ohne chaotische Gesinnung~
 @3002 = ~Sendais Trank~
 @3003 = ~Sendais Trank
 Womöglich von Sendai selbst gebraut, ist dieses ein ungeheuer mächtiger Heiltrank, der vollständig alle Trefferpunkte wiederherstellt.~
