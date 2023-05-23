@@ -1,4 +1,6 @@
 * text=auto
+*.tra text eol=crlf
+*.po text eol=lf
 
 # use export-ignore to skip files when downloading
 **/.* export-ignore
