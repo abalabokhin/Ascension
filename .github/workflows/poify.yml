@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - "ascension/lang/**"
+  workflow_dispatch:
 
 jobs:
   build:
