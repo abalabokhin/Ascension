@@ -1,11 +1,8 @@
-@1 = ~Imoen a survécu
+@1 = ~Éthérée
 
-Imoen a réussi à survivre à la tentative de Mélissane de la condamner à la forme d'Ecorcheuse. Il semble que ce faisant, Imoen a vu la maîtrise de son essence progresser de façon considérable. Elle peut désormais non seulement prendre la même forme d'Ecorcheur que celle que j'avais revêtu à Spellhold... mais a aussi acquis la capacité de devenir éthérée pour de brèves périodes.
+Imoen peut à présent entrer dans le plan éthéré pour de brèves périodes. Cette capacité est utilisable une fois par minute, et son utilisation l'empêche de prendre la forme d'Écorcheur pendant une minute également. Imoen peut rester complètement éthérée et intangible sur ce plan pour un round complet... au cours duquel elle est invisible et complètement immunisée aux dégâts. Pendant ce round, elle est également dans l'impossibilité de jeter des sorts ou d'utiliser d'autres capacités.
 
-Ethérée
--------------
-Imoen peut à présent entrer dans le plan éthéré pour de brèves périodes. Cette capacité est utilisable une fois par minute, et son utilisation l'empêche de prendre la forme d'Ecorcheuse pendant une minute également. Imoen peut rester complètement éthérée et intangible sur ce plan pour un round complet... au cours duquel elle est invisible et complètement immunisée aux dégâts. Pendant ce round, elle est également dans l'impossibilité de jeter des sorts ou d'utiliser d'autres capacités.
-Pour les deux rounds suivants, Imoen peut rester en 'demi-phase'... partiellement éthérée et partiellement dans ce plan. Elle est toujours invisible mais ne reçoit que la moitié des dégâts de n'importe quelle source. Dans cet état, il y a une faible chance (10%) qu'elle puisse rater un sort. Pour la totalité des trois rounds, elle est capable de voir les cibles invisibles.~
+Pour les deux rounds suivants, Imoen reste en « demi-phase »... partiellement éthérée et partiellement dans ce plan. Elle est toujours invisible mais ne reçoit que la moitié des dégâts de n'importe quelle source. Dans cet état, il y a une faible chance (10 %) qu'elle puisse rater un sort. Pour la totalité des trois rounds, elle est capable de voir les cibles invisibles.~
 @6 = ~Arrêt de la transformation en Écorcheur
 
 Cette capacité permet à Imoen d'annuler sa transformation et de retrouver sa forme habituelle.~
@@ -27,6 +24,9 @@ Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
 Tout comme le sort divin de 5ème niveau Rappel à la vie, Résurrection ramène un personnage à la vie. Il est cependant ressuscité avec le maximum de ses points de vie, de manière à ce qu'il soit de nouveau prêt pour la vie d'aventurier.~
+
+// note to translators: do not translate PLUS_SIGN_PLACEHOLDER in the below
+
 @9 = ~Transformation en Écorcheur
 
 Lorsque vous utilisez cette capacité, vous prenez la forme de l'essence brutale de Bhaal : une créature violente et puissante faite de crocs et de griffes. L'utilisation de cette capacité réduit votre réputation d'un point, car même ceux qui ne sont pas témoins de l'événement peuvent ressentir que vous avez succombé à votre instinct, et à la corruption qui en résulte.
@@ -140,7 +140,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 démon
 Jet de sauvegarde : aucun
 
-Cette capacité permet à l'enfant de Bhaal de disputer le contrôle d'un démon à Mélissanne et d'en faire son allié. L'enfant de Bhaal s'engage dans un combat mental avec le démon pendant DURATION_PLACEHOLDER secondes, à la fin duquel le démon a SUCCESS_CHANCE_PLACEHOLDER % de chance de devenir son allié (il n'y a pas de jet de sauvegarde, et la résistance à la magie n'est pas prise en compte). Cependant, le démon n'est pas sous le contrôle direct de l'enfant de Bhaal. Cette capacité peut être utilisée une fois tous les 3 rounds.~
+Cette capacité permet à l'enfant de Bhaal de disputer le contrôle d'un démon à Mélissanne et d'en faire son allié. L'enfant de Bhaal s'engage dans un combat mental avec le démon pendant DURATION_PLACEHOLDER secondes, à la fin duquel le démon a SUCCESS_CHANCE_PLACEHOLDER % de chance de devenir son allié (il n'y a pas de jet de sauvegarde, et la résistance à la magie n'est pas prise en compte). Cependant, le démon n'est pas sous le contrôle direct de l'enfant de Bhaal. Cette capacité peut être utilisée une fois tous les 3 rounds.~ // note to translators: do not translate DURATION_PLACEHOLDER or SUCCESS_CHANCE_PLACEHOLDER
 @17 = ~Décharge
 
 Portée : 1,5 mètre
