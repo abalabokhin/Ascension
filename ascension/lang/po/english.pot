@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-23-05:08+0000\n"
+"POT-Creation-Date: 2023-05-23-06:19+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -89,7 +89,7 @@ msgid "Lava Bomb"
 msgstr ""
 
 #: ascension.tra:1031
-msgid "Symbol, Slow"
+msgid "Symbol: Slow"
 msgstr ""
 
 #: ascension.tra:1037
@@ -3380,7 +3380,7 @@ msgid ""
 "claimed she'd founded a thieves' guild that ran the length and breadth of "
 "the entire Sword Coast, from Nashkel to Neverwinter. But when asked of such "
 "things, she would always answer with a smile of purest innocence: \"Heya, "
-"it's just me, Imoen.\""
+"it's just me, Imoen\"."
 msgstr ""
 
 #: shawnesepilogues.tra:4009

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-23-05:08+0000\n"
+"POT-Creation-Date: 2023-05-23-06:19+0000\n"
 "PO-Revision-Date: 2022-05-21 10:05+0000\n"
 "Last-Translator: Magus <magus@bgforge.net>\n"
 "Language-Team: Spanish <https://tra.bgforge.net/projects/infinity-engine/ascension/es/>\n"
@@ -91,7 +91,9 @@ msgid "Lava Bomb"
 msgstr "Bomba de lava"
 
 #: ascension.tra:1031
-msgid "Symbol, Slow"
+#, fuzzy
+#| msgid "Symbol, Slow"
+msgid "Symbol: Slow"
 msgstr "Símbolo, Ralentizamiento"
 
 #: ascension.tra:1037
@@ -4870,7 +4872,7 @@ msgid ""
 "claimed she'd founded a thieves' guild that ran the length and breadth of "
 "the entire Sword Coast, from Nashkel to Neverwinter. But when asked of such "
 "things, she would always answer with a smile of purest innocence: \"Heya, "
-"it's just me, Imoen.\""
+"it's just me, Imoen\"."
 msgstr ""
 
 #: shawnesepilogues.tra:4009
