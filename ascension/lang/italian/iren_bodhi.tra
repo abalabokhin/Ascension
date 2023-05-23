@@ -14,8 +14,10 @@
 @47 = ~Hai avuto la tua occasione, fratello. Da quanto ricordo, i tuoi piani sono falliti e mi hanno condotta alla morte. No, tu sei debole e <CHARNAME> è forte. È lui che mi darà ciò di cui ho bisogno. Aspetto con ansia di bagnarmi nel tuo sangue, caro fratello... una degna ricompensa per il tuo totale fallimento.~
 @48 = ~Oh, figlio di Bhaal, mi annoi così tanto con le tue parole. Vieni da me e abbraccia la morte come ho fatto io. Che le danze inizino di nuovo!~
 @49 = ~Già, non ho alcuna intenzione di morire. Combatto con mio fratello perché non ho altra scelta... o vorresti offrirmene una?~
+@49 = ~Già, non ho alcuna intenzione di morire. Combatto con mio fratello perché non ho altra scelta... o vorresti offrirmene una?~
 @50 = ~Mio fratello crede di potermi offrire la tua anima, ma vedo che anche tu puoi richiamare le persone dagli Abissi; una che ti si è opposta, nientedimeno! Intrigante. Forse non ho bisogno di assaggiare il tuo sangue...~
 @51 = ~Ti farò un'offerta, <CHARNAME>. Promettimi una parte della tua anima e combatterò per te come una sorella.~
+@52 = ~Ho bisogno di un'anima, <CHARNAME>, come ben sai. Potrei strapparla ancora una volta dalla giovane Imoen, ma sembra... maldisposta. Forse però c'è un altro modo...~
 @52 = ~Ho bisogno di un'anima, <CHARNAME>, come ben sai. Potrei strapparla ancora una volta dalla giovane Imoen, ma sembra... maldisposta. Forse però c'è un altro modo...~
 @53 = ~Sono condannata in un modo o nell'altro a combattere. La mia permanenza negli Abissi non è stata piacevole, ma dato che devo ritornare, non rifiuterò la possibilità di deliziarmi di un così buon boccone.~
 @54 = ~I miei poteri superano quelli di tuo fratello. Unisciti a me e ti concederò la ricompensa che lui non è riuscito a donarti: un'anima.~
@@ -36,6 +38,7 @@
 @69 = ~Bodhi, quando questo sarà finito, giuro che sarai adeguatamente ricompensata.~
 @70 = ~Prega di mantenere la tua parola o sarà... spiacevole. Ora, per completare gli affari...~
 @71 = ~No, <CHARNAME>. Sfortunatamente, non penso che siamo destinati a collaborare di nuovo. Nonostante la tua offerta sia allettante, le tue parole mi suonano più false di quelle di mio fratello. Sarà decisamente meglio strapparti l'anima dal petto che elemosinarla al tuo fianco.~
+@87 = ~Suvvia, <CHARNAME>... Non c'è alcuna ragione di guardarmi in quel modo. Una piccola parte della tua anima mi darebbe tutto ciò di cui ho bisogno e anche di più. Decidi in fretta, perché dubito che il mio caro fratello si accontenterà semplicemente di fulminarmi con il suo sguardo deliziosamente malvagio.~
 @87 = ~Suvvia, <CHARNAME>... Non c'è alcuna ragione di guardarmi in quel modo. Una piccola parte della tua anima mi darebbe tutto ciò di cui ho bisogno e anche di più. Decidi in fretta, perché dubito che il mio caro fratello si accontenterà semplicemente di fulminarmi con il suo sguardo deliziosamente malvagio.~
 @88 = ~Non so proprio perché credi che sia interessato alla tua alleanza, Bodhi. Sarò felice di sapervi morti come avete vissuto: senza alcun pentimento o qualità positiva.~
 @452 = ~Non sopravvalutare la tua utilità, "cara" sorella... e neanche la misura del mio inesistente affetto. O pensi davvero che abbia dimenticato le tue esortazioni sottovoce che mi hanno condotto sulla strada dell'esilio?~

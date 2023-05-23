@@ -18,6 +18,7 @@
 @1027 = ~Aura de Paralysie~
 @1029 = ~Bombe de Lave~
 @1031 = ~Symbole : Lenteur~
+@1031 = ~Symbole : Lenteur~
 @1037 = ~Changement en Ravageur~
 @1038 = ~Mélissane : Commande les Créatures des Abysses~
 @1039 = ~Bhaalspawn Power gained: Immunity to Energy Drain~
@@ -141,6 +142,30 @@ Tout comme le sort de 5ème niveau de prêtre Rappel à la vie, Résurrection ramène
 <CHARNAME> a gagné 25% de résistance aux dégâts physiques (par exemple aux dégâts tranchants, perforants, contondants et aux Projectiles).~
 @2008 = ~Slayer Change ability improved~
 @3000 = ~Epée du Chaos +4~
+@3001 = ~Lame du Chaos de Sarevok
+Il s'agit de l'arme de Sarevok, frère de <CHARNAME>, qui fut utilisée dans la bataille de la Porte de Baldur. <CHARNAME> a gagné, ruinant ainsi les plans de Sarevok, et sauvant la Côte des Epées de la guerre. Maintenant, Sarevok s'est joint à la cause de <CHARNAME> et son épée lui a été rendue. Sarevok décrit cette arme comme une Lame Fatale et a restauré une partie des anciens pouvoirs de cet objet. Cependant, sans son essence d'Enfant de Bhaal pour nourrir l'épée, il n'a pu lui rendre la totalité du pouvoir qu'elle possédait autrefois. Quoiqu'il en soit, elle reste une arme formidable... et Sarevok prévient qu'elle deviendrait très difficile à utiliser dans les mains de quelqu'un qui ne fût pas un Porteur de Mort, voire impossible à utiliser.
+
+PARAMETRES :
+
+Capacités de combat : chaque coup porté draine de 1 à 5 points de vie de la cible et les transfère au porteur (qui ne peut pas dépasser son maximum).
+
+La lame procure également +10% de Résistance à la Magie lorsqu'elle est équipée.
+
+Dégâts : 1D10 +4
+TAC0 : +4
+Type de dégâts : tranchant
+Poids : 10
+Facteur de Vitesse : 8
+Type de compétence : Epée à 2 mains
+Type :  à 2 mains
+Prérequis : 14 en Force, 18 en Constitution
+Inutilisable par :
+Clerc
+Mage
+Paladin
+Rôdeur
+Druide
+Personnages d'alignement Non Chaotiques~
 @3001 = ~Lame du Chaos de Sarevok
 Il s'agit de l'arme de Sarevok, frère de <CHARNAME>, qui fut utilisée dans la bataille de la Porte de Baldur. <CHARNAME> a gagné, ruinant ainsi les plans de Sarevok, et sauvant la Côte des Epées de la guerre. Maintenant, Sarevok s'est joint à la cause de <CHARNAME> et son épée lui a été rendue. Sarevok décrit cette arme comme une Lame Fatale et a restauré une partie des anciens pouvoirs de cet objet. Cependant, sans son essence d'Enfant de Bhaal pour nourrir l'épée, il n'a pu lui rendre la totalité du pouvoir qu'elle possédait autrefois. Quoiqu'il en soit, elle reste une arme formidable... et Sarevok prévient qu'elle deviendrait très difficile à utiliser dans les mains de quelqu'un qui ne fût pas un Porteur de Mort, voire impossible à utiliser.
 

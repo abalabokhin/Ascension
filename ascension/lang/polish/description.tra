@@ -9,7 +9,6 @@ Ta zdolnoœæ pozwala Imoen przerwaæ przemianê i powróciæ do zwyk³ej postaci.~
 @7 = ~Regeneracja
 
 Poziom: 7
-Sfera: Leczenie
 Zasiêg: dotyk
 Czas dzia³ania: 1 runda/2 poziomy
 Czas rzucania: 7
@@ -57,8 +56,10 @@ Postaæ Zabójcy staje siê silniejsza wraz ze wzrostem twojej mocy i teraz zapewni
 - Liczba ataków na rundê wynosi 4 (2k6 obra¿eñ obuchowych, 4 obra¿enia od zimna)
 - TraK0 wynosi -4
 - PLUS_SIGN_PLACEHOLDER 150 punktów ¿ycia
+- Regeneracja 2 punktów ¿ycia na sekundê
 - Niewra¿liwoœæ na uwiêzienie, wyssanie poziomów, og³uszenie, strach, zauroczenie, zamêt, uœpienie oraz pociski
-- Szansa na utratê kontroli: 10%, plus ³¹cznie 5% na ka¿d¹ rundê~
+- Szansa na utratê kontroli: 10%, plus ³¹cznie 5% na ka¿d¹ rundê
+~
 @11 = ~Przemiana w Zabójcê
 
 Po u¿yciu tej zdolnoœci przyjmujesz postaæ potê¿nej istoty posiadaj¹cej niezliczon¹ liczbê k³ów i pazurów, stanowi¹c¹ brutaln¹ esencjê samego Bhaala. Przemiana obni¿a twoj¹ reputacjê o dwa punkty, albowiem nawet ci, którzy nie byli œwiadkami tego zdarzenia, potrafi¹ wyczuæ charakterystyczn¹ woñ zepsucia, gdy poddajesz siê pierwotnym instynktom.
@@ -72,6 +73,7 @@ Postaæ Zabójcy staje siê silniejsza wraz ze wzrostem twojej mocy i teraz zapewni
 - Odpornoœæ na obra¿enia od ¿ywio³ów 40% 
 - Rzuty obronne wynosz¹ 2
 - Liczba ataków na rundê wynosi 4 (2k8 obra¿eñ obuchowych, 8 obra¿eñ od zimna)
+- Ataki maj¹ 10% szans na rzucenie Rozproszenia Magii i obni¿enie Odpornoœci na Magiê.
 - TraK0 wynosi -8
 - PLUS_SIGN_PLACEHOLDER 200 punktów ¿ycia
 - Regeneracja 3 punktów ¿ycia na sekundê
@@ -124,7 +126,6 @@ Przemiana w Zabójcê przynosi nastêpuj¹ce korzyœci:
 - Liczba ataków na rundê wynosi 4 (1k8 obra¿eñ obuchowych, 2 obra¿enia od zimna)
 - TraK0 wynosi 0
 - PLUS_SIGN_PLACEHOLDER 100 punktów ¿ycia
-- Regeneracja 3 punktów ¿ycia na sekundê
 - Odpornoœæ na uwiêzienie, wyssanie poziomu, og³uszenie, strach, zauroczenie, zamêt, uœpienie oraz pociski
 
 Byæ mo¿e dlatego, ¿e Imoen ma w sobie mniej esencji Bhaala ni¿ <CHARNAME> - albo dziêki temu, czego nauczy³a siê po tym, jak Melissana przywo³a³a jej esencjê - jest ona w stanie w wiêkszym stopniu panowaæ nad moc¹ Zabójcy i nie grozi jej utrata kontroli, kiedy przybiera jego postaæ.~

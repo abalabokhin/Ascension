@@ -18,6 +18,7 @@
 @1027 = ~Aura di Paralisi~
 @1029 = ~Bomba di Lava~
 @1031 = ~Simbolo di Lentezza~
+@1031 = ~Simbolo di Lentezza~
 @1037 = ~Cambiamento del Distruttore~
 @1038 = ~Melissan: Comanda i Tirapiedi dell'Abisso~
 @1039 = ~Poteri della progenie di Bhaal Ottenuto: Immunità al Risucchio di Energia~
@@ -149,6 +150,35 @@ Come l'incantesimo di 5° livello Rianimare Morti, Resurrezione riporta in vita u
 <CHARNAME> ha acquisito una resistenza pari al 25% ai danni fisici (tagliente, perforante, contundente e da proiettile).~
 @2008 = ~Trasformazione dell'Uccisore migliorata~
 @3000 = ~Spada del Caos di Sarevok~
+@3001 = ~La spada di Sarevok, il fratello di <CHARNAME>, usata nella battaglia combattuta nella lontana Baldur's Gate. <CHARNAME> prevalse, distruggendo i piani di Sarevok e salvando la Costa della Spada dal baratro della guerra. Ora Sarevok si è unito alla causa di <CHARNAME> e la sua lama gli è stata riconsegnata. Sarevok la descrive come l'arma di un Latore di Morte e ha ripristinato alcuni dei precedenti poteri della spada. Tuttavia, senza la sua essenza di progenie di Bhaal che scorre nella lama, non può raggiungere il potere che un tempo aveva. Resta comunque un'arma formidabile... una che secondo Sarevok sarebbe difficile da brandire da chi non è mai stato un Latore di Morte, se non del tutto impossibile.
+
+STATISTICHE:
+
+Abilità in combattimento:
+- Ogni colpo messo a segno risucchia 1-5 Punti Ferita dal bersaglio e li trasferisce in chi brandisce l'arma. Non è possibile superare i Punti Ferita Massimi del personaggio.
+
+Abilità durante l'uso:
+- Resistenza alla Magia: +10%
+
+THAC0: +4
+Danno: 1d10+4 (tagliente)
+Fattore-velocità: 8
+Tipo di Competenza: Spade a Due Mani
+Tipo: A due mani
+
+Richiede:
+Forza 14
+Costituzione 18
+
+Peso: 10
+
+Non utilizzabile da:
+Chierico
+Mago 
+Paladino
+Ranger
+Druido
+Allineamenti Non Caotici~
 @3001 = ~La spada di Sarevok, il fratello di <CHARNAME>, usata nella battaglia combattuta nella lontana Baldur's Gate. <CHARNAME> prevalse, distruggendo i piani di Sarevok e salvando la Costa della Spada dal baratro della guerra. Ora Sarevok si è unito alla causa di <CHARNAME> e la sua lama gli è stata riconsegnata. Sarevok la descrive come l'arma di un Latore di Morte e ha ripristinato alcuni dei precedenti poteri della spada. Tuttavia, senza la sua essenza di progenie di Bhaal che scorre nella lama, non può raggiungere il potere che un tempo aveva. Resta comunque un'arma formidabile... una che secondo Sarevok sarebbe difficile da brandire da chi non è mai stato un Latore di Morte, se non del tutto impossibile.
 
 STATISTICHE:

@@ -14,8 +14,10 @@
 @47 = ~Tu as eu ta chance, frère. Tes plans ont échoué, je m'en rappelle, et nous ont conduit à la mort. Non, tu es faible et <CHARNAME> est fort et il me donnera ce dont j'ai besoin. Je vais me baigner dans ton sang, cher frère... une récompense adéquate pour tes échecs.~
 @48 = ~Oh Enfant de Bhaal, tu m'ennuies avec tes discours. Viens et embrasse la mort, tout comme je l'ai fait. Dansons une fois de plus !~
 @49 = ~En effet, je n'ai pas du tout l'intention de mourir. Je combats avec mon frère car je n'ai pas le choix... ou as-tu quelque chose à me proposer ?~
+@49 = ~En effet, je n'ai pas du tout l'intention de mourir. Je combats avec mon frère car je n'ai pas le choix... ou as-tu quelque chose à me proposer ?~
 @50 = ~Mon frère pense qu'il peut m'offrir ton âme, pourtant je vois que toi aussi tu es capable de ramener quelqu'un de l'Abysse ; une personne qui s'était opposée à toi, ni plus ni moins ! Comme c'est intéressant. Peut-être n'ai-je pas besoin de goûter ton sang...~
 @51 = ~J'aimerais te faire une proposition <CHARNAME>. Promets-moi un fragment de ton âme et je combattrais comme un soeur pour toi.~
+@52 = ~J'ai besoin d'une âme <CHARNAME>, comme tu le sais. Je pourrais prendre celle de la jeune Imoen une fois encore, mais elle semble... indisposée. Il y a peut-être un autre moyen...~
 @52 = ~J'ai besoin d'une âme <CHARNAME>, comme tu le sais. Je pourrais prendre celle de la jeune Imoen une fois encore, mais elle semble... indisposée. Il y a peut-être un autre moyen...~
 @53 = ~Je suis maudite, que je me batte ou pas. Mon séjour dans les Abysses n'était pas très plaisant, mais étant donné que j'ai l'occasion de revenir, je ne laisserai pas s'échapper la chance de me régaler sur un tel morceau de choix.~
 @54 = ~J'ai une puissance qui surpasse celle de ton frère. Rejoins-moi et je te donnerai la récompense qu'il n'a pas réussi à t'offrir : une âme.~
@@ -36,6 +38,7 @@
 @69 = ~Bodhi, quand tout ceci sera fini, je te jure que tu seras grandement récompensée.~
 @70 = ~Tiens ta parole, ne pas le faire aurait des conséquences... très déplaisantes pour toi. Maintenant pour conclure les choses...~
 @71 = ~Non, <CHARNAME>. Malheureusement, je ne pense pas que nous soyons destinés à travailler ensembles. En dépit de l'attrait de ce que tu m'offres, tes mots ont moins de consistance que ceux de mon frère. Je préfère arracher ton âme de ton corps encore chaud plutôt que de la mendier à tes pieds.~
+@87 = ~<CHARNAME>... il n'y a pas de raison de me regarder ainsi. Une petite partie de ton âme me donnera tout ce qu'il me fait et bien plus encore. Décide-toi.~
 @87 = ~<CHARNAME>... il n'y a pas de raison de me regarder ainsi. Une petite partie de ton âme me donnera tout ce qu'il me fait et bien plus encore. Décide-toi.~
 @88 = ~Pourquoi tu crois que je puisse être intéressé par ton allégeance, Bodhi, je n'en ai aucune idée. Je serais heureux lorsque vous mourrez tout deux de nouveau comme vous avez vécu : sans rédemption ni valeur.~
 @452 = ~Ne surestime pas ton utilité pour moi, 'chère' soeur... ni l'étendue de mon manque d'affection pour toi. Penses-tu vraiment que j'ai oublié tes murmures à mon oreille qui m'ont conduit à mon exil ?~

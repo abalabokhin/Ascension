@@ -14,6 +14,14 @@ Etéreo
 -------------
 Imoen puede ahora entrar en el Plano Etéreo por cortos periodos de tiempo. La habilidad puede ser usada una vez por minuto, y su uso también la previene de asumir la forma del Asesino durante un minuto. Imoen puede permanecer etérea e intocable a las fuerzas de este plano durante todo un turno... durante el cual es invisible y completamente inmune al daño. Durante ese turno, ella tampoco puede lanzar conjuros o usar habilidades.
 Durante los dos turnos posteriores, Imoen puede permanecer 'en semi-fase'... ella es parcialmente en el plano etéreo y parcialmente en este plano. Es aún invisible, pero recibe la mitad de daño de cualquier origen. En este estado, hay una pequeña probabilidad (10%) de que calcule mal un conjuro. Durante tres turnos, ella puede ver objetivos invisibles.~
+@485 = ~Imoen ha sobrevivido
+
+Imoen logró sobrevivir a la tentativa de Melissan de convertirla en una forma de frenética Asesina. Parece ser que, Imoen ha tenido sus propios pogresos en un defecto considerablemente deserrollado. Ella ahora no sólo puede convertirse en la misma forma de Asesino que yo comencé a convertirme en la Prisión del Hechicero... si no que también ha adquirido la habilidad de ser Etérea durante cortos periodos de tiempo.
+
+Etéreo
+-------------
+Imoen puede ahora entrar en el Plano Etéreo por cortos periodos de tiempo. La habilidad puede ser usada una vez por minuto, y su uso también la previene de asumir la forma del Asesino durante un minuto. Imoen puede permanecer etérea e intocable a las fuerzas de este plano durante todo un turno... durante el cual es invisible y completamente inmune al daño. Durante ese turno, ella tampoco puede lanzar conjuros o usar habilidades.
+Durante los dos turnos posteriores, Imoen puede permanecer 'en semi-fase'... ella es parcialmente en el plano etéreo y parcialmente en este plano. Es aún invisible, pero recibe la mitad de daño de cualquier origen. En este estado, hay una pequeña probabilidad (10%) de que calcule mal un conjuro. Durante tres turnos, ella puede ver objetivos invisibles.~
 @486 = ~Seguro. Dejadla unirse de nuevo.~
 @487 = ~No... salid de aqui mientras podáis, Imoen.~
 @488 = ~Deseo vuestro bien, <CHARNAME>, y espero veros otra vez. Quizás vuelva a Candelero, ¿huh? De cualquier forma... buena suerte...~
