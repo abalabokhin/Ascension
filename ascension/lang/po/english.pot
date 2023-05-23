@@ -3,15 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 1970-1-01 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-05-23-05:08+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: bgforge_po v.1.0.0\n"
+"X-Generator: BGforge/msg2po v.1.1.12\n"
 
 #: ascension.tra:500
 msgid "Babau"
@@ -348,7 +347,7 @@ msgstr ""
 
 #: ascension.tra:3001
 msgid ""
-"The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon...and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.\n"
+"The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.\n"
 "\n"
 "STATISTICS:\n"
 "\n"
@@ -405,7 +404,7 @@ msgstr ""
 
 #: balth.tra:1075
 msgid ""
-"I sense no innate goodness within you, <CHARNAME>...though your deeds are "
+"I sense no innate goodness within you, <CHARNAME>... though your deeds are "
 "hailed far and wide as above reproach. It is... interesting that one like "
 "you who must struggle so much with our father's taint inside <PRO_HIMHER> "
 "has done so much to fight true evil."
@@ -521,7 +520,7 @@ msgstr ""
 
 #: balth.tra:1092
 msgid ""
-"If only we had met under other circumstances, <CHARNAME>...I would have "
+"If only we had met under other circumstances, <CHARNAME>... I would have "
 "liked to sit and compare the paths that have brought us to this point. If we"
 " had not been forced by destiny to bear this taint upon our souls, what "
 "would have become of us? I regret what I must do, yet I know it must be "
@@ -668,11 +667,11 @@ msgstr ""
 #: balth.tra:1117
 msgid ""
 "You must take the battle to Melissan. It is your destiny to see that Bhaal's"
-" legacy ends here and now. But you must promise me, <CHARNAME>...you must "
+" legacy ends here and now. But you must promise me, <CHARNAME>... you must "
 "promise me that you will not give into the temptation. Should you defeat "
 "Melissan and the power become available to you, you must turn away from "
 "it... you have seen your struggle as it is now, with only a sliver of that "
-"taint. Do not take it, <CHARNAME>...even a god can be tempted, you must "
+"taint. Do not take it, <CHARNAME>... even a god can be tempted, you must "
 "realize that. Promise me you will turn it away."
 msgstr ""
 
@@ -709,7 +708,7 @@ msgid ""
 "And I cannot trust that you will turn aside the power when it is offered to "
 "you. You have experienced the struggle even a sliver of Bhaal's taint has "
 "brought you, yet I cannot believe that you would turn it aside. I... I am "
-"sorry, <PRO_BROTHERSISTER>...but I have no choice."
+"sorry, <PRO_BROTHERSISTER>... but I have no choice."
 msgstr ""
 
 #: balth.tra:1124
@@ -718,8 +717,8 @@ msgstr ""
 
 #: balth.tra:1125
 msgid ""
-"No. Further dialogue is pointless. Let us end this now, <CHARNAME>...and may"
-" the gods have pity on us all."
+"No. Further dialogue is pointless. Let us end this now, <CHARNAME>... and "
+"may the gods have pity on us all."
 msgstr ""
 
 #: balth.tra:1126
@@ -940,7 +939,7 @@ msgstr ""
 
 #: balth.tra:1160
 msgid ""
-"You have considerable charisma, <CHARNAME>...but it is because we are "
+"You have considerable charisma, <CHARNAME>... but it is because we are "
 "siblings that we cannot work together. You know as well as I what the "
 "essence seeks, and it will not be satisfied until our destiny is culminated."
 msgstr ""
@@ -1046,8 +1045,8 @@ msgstr ""
 #: balth.tra:1174
 msgid ""
 "And despite what you might profess, I think the taint sits closer to your "
-"heart then you would have me believe. I must walk my own path, "
-"<CHARNAME>...and you must walk yours."
+"heart then you would have me believe. I must walk my own path, <CHARNAME>..."
+" and you must walk yours."
 msgstr ""
 
 #: balth.tra:1175
@@ -1201,7 +1200,7 @@ msgstr ""
 #: balth_finsol.tra:1016
 msgid ""
 "And so it is done. I believe you have made the right choice. I look forward "
-"to meeting you again on Faerun, <CHARNAME>...as a mortal and a true "
+"to meeting you again on Faerun, <CHARNAME>... as a mortal and a true "
 "<PRO_BROTHERSISTER>."
 msgstr ""
 
@@ -1321,7 +1320,7 @@ msgid ""
 "\n"
 "Imoen is now able to enter the Ethereal Plane for brief periods of time. The ability is useable once every minute, and its use prevents her from assuming the Slayer form for a minute, as well. Imoen can remain fully ethereal and intangible to forces on this plane for a full round... during which she is invisible and completely immune to harm. During that round, she also cannot cast spells or use abilities.\n"
 "\n"
-"For another two rounds afterwards, Imoen remains 'half-phased'...she is partially ethereal and partially in this plane. She is still invisible, but takes half damage from all sources. In this state, there is a small chance (10%) that she will miscast a spell. For all three rounds, she is able to see any invisible targets."
+"For another two rounds afterwards, Imoen remains 'half-phased'... she is partially ethereal and partially in this plane. She is still invisible, but takes half damage from all sources. In this state, there is a small chance (10%) that she will miscast a spell. For all three rounds, she is able to see any invisible targets."
 msgstr ""
 
 #: description.tra:6
@@ -1870,8 +1869,8 @@ msgid ""
 "Eventually parting ways with his companions, Anomen would enter the "
 "hierarchy of Helm's church, over time rising to the rank of High Watcher. He"
 " remained restless and dissatisfied, remembering his days adventuring with "
-"<CHARNAME>...and though many friends would urge him otherwise, Anomen never "
-"felt that the church was his true home. He remained in his position for a "
+"<CHARNAME>... and though many friends would urge him otherwise, Anomen never"
+" felt that the church was his true home. He remained in his position for a "
 "year until finally he could bear it no more. He left active duty in the "
 "church and, for a time, wandered the new land of Maztica as a missionary. "
 "Anomen remained a troubled soul, still never content even though his prowess"
@@ -1953,8 +1952,8 @@ msgid ""
 "Haer'Dalis found traveling with <CHARNAME> a fine introduction to the "
 "Realms, and once they parted company he was eager to see more. He visited "
 "such varied locales as Waterdeep, Neverwinter, and Thay, spreading the tales"
-" of his deeds with <CHARNAME>...and somehow always managing to find himself "
-"in the midst of as many adventures as he once had. Eventually Haer'Dalis "
+" of his deeds with <CHARNAME>... and somehow always managing to find himself"
+" in the midst of as many adventures as he once had. Eventually Haer'Dalis "
 "would find himself immersed in local troubles on one side or another, and "
 "that would lead to him being back on the road once again. Which was fine by "
 "him, although the bard would admit to himself that he only rarely understood"
@@ -2125,7 +2124,7 @@ msgstr ""
 #: epilogues.tra:4021
 msgid ""
 "Upon parting paths with <CHARNAME>, Viconia wandered for a great deal of time. She still met with ignorance and hatred from those who knew of her kind, but Viconia was determined now more than ever to establish herself as seperate from the legacy of the dark elves. She had been to the deepest planes of hell and fought side-by-side with <CHARNAME> as <PRO_HESHE> became a God... and she would hide her face from the surface lands no longer. Even when Shar, her goddess of darkness and loss, abandoned her completely Viconia was unrepetant. Tales of her grew as she made her presence felt in one land after another... often as a savior, only to be thanklessly driven out by suspicion and fear. Still Viconia traveled on, refusing the company of fellow travelers and adventurers and never finding anywhere that she could truly name a home. Her destiny was her own, and she would seek it on her own terms.\n"
-"What eventually become of Viconia is unknown. Her greatest legend is also the most unlikely, although its persistence gives it some credit. It is said that Viconia saved the elves of Suldanessallar from a Zhentarim plot, fighting valiantly against the organization's agents... and in the end placing herself in harm's way to save Queen Ellesime from a deadly arrow. Upon being revived, Viconia was surprised to discover that this last act had prompted the Suldanessallar elves to finally accept and forgive their drow sister. Queen Ellesime granted the highest honors of the Seldarine to Viconia, the first drow ever honored so, and even invited Viconia to find a home in the Tree of Life once again. Viconia was obviously moved by the gesture... and while she considered the Queen's offer, it is said she eventually merely bowed deeply to Ellesime and silently left Suldanessallar forever. Viconia was never reported seen again..."
+"What eventually become of Viconia is unknown. Her greatest legend is also the most unlikely, although its persistence gives it some credit. It is said that Viconia saved the elves of Suldanessellar from a Zhentarim plot, fighting valiantly against the organization's agents... and in the end placing herself in harm's way to save Queen Ellesime from a deadly arrow. Upon being revived, Viconia was surprised to discover that this last act had prompted the Suldanessellar elves to finally accept and forgive their drow sister. Queen Ellesime granted the highest honors of the Seldarine to Viconia, the first drow ever honored so, and even invited Viconia to find a home in the Tree of Life once again. Viconia was obviously moved by the gesture... and while she considered the Queen's offer, it is said she eventually merely bowed deeply to Ellesime and silently left Suldanessellar forever. Viconia was never reported seen again..."
 msgstr ""
 
 #: epilogues.tra:4022
@@ -2260,7 +2259,7 @@ msgid ""
 "Ethereal\n"
 "-------------\n"
 "Imoen is now able to enter the Ethereal Plane for brief periods of time. The ability is useable once every minute, and its use prevents her from assuming the Slayer form for a minute, as well. Imoen can remain fully ethereal and intangible to forces on this plane for a full round... during which she is invisible and completely immune to harm. During that round, she also cannot cast spells or use abilities.\n"
-"For another two rounds afterwards, Imoen can remain 'half-phased'...she is partially ethereal and partially in this plane. She is still invisible, but takes half damage from all sources. In this state, there is a small chance (10%) that she will miscast a spell. For all three rounds, she is able to see any invisible targets."
+"For another two rounds afterwards, Imoen can remain 'half-phased'... she is partially ethereal and partially in this plane. She is still invisible, but takes half damage from all sources. In this state, there is a small chance (10%) that she will miscast a spell. For all three rounds, she is able to see any invisible targets."
 msgstr ""
 
 #: imoen_after.tra:486
@@ -2416,7 +2415,7 @@ msgstr ""
 #: iren_bodhi.tra:49
 msgid ""
 "Indeed, I have no intention of dying at all. I fight with my brother because"
-" I have no choice....or would you offer me one now?"
+" I have no choice... or would you offer me one now?"
 msgstr ""
 
 #: iren_bodhi.tra:50
@@ -2435,7 +2434,7 @@ msgstr ""
 #: iren_bodhi.tra:52
 msgid ""
 "I require a soul <CHARNAME>, as well you know. I could tear it from young "
-"Imoen once again, but she seems....indisposed. Yet perhaps there is another "
+"Imoen once again, but she seems... indisposed. Yet perhaps there is another "
 "way..."
 msgstr ""
 
@@ -2562,7 +2561,7 @@ msgstr ""
 
 #: iren_bodhi.tra:87
 msgid ""
-"Now, now, <CHARNAME>...there is no need to look at me so. A tiny piece of "
+"Now, now, <CHARNAME>... there is no need to look at me so. A tiny piece of "
 "your soul would give me all I require and more. Decide quickly, for I doubt "
 "my dear brother will be content with merely withering me with his own "
 "delightfully evil glare."
@@ -2626,8 +2625,8 @@ msgstr ""
 #: iren_sarev.tra:277
 msgid ""
 "This is the Irenicus I have been told of? I was expecting more intensity and"
-" power from one who hounded <CHARNAME> so, and not "
-"simply...*another*...wizard."
+" power from one who hounded <CHARNAME> so, and not simply... *another*... "
+"wizard."
 msgstr ""
 
 #: iren_sarev.tra:278
@@ -2640,8 +2639,8 @@ msgstr ""
 
 #: iren_sarev.tra:440
 msgid ""
-"So, <CHARNAME>...it is now just you and I, once again. At odds in the bowels"
-" of Hell and preparing to do combat. How very fitting."
+"So, <CHARNAME>... it is now just you and I, once again. At odds in the "
+"bowels of Hell and preparing to do combat. How very fitting."
 msgstr ""
 
 #: iren_sarev.tra:441
@@ -2737,7 +2736,7 @@ msgstr ""
 
 #: items-ee.tra:3001
 msgid ""
-"The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon...and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.\n"
+"The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.\n"
 "\n"
 "STATISTICS:\n"
 "\n"
@@ -2878,7 +2877,7 @@ msgstr ""
 #: mel_iren_imoen.tra:437
 msgid ""
 "You told her how to influence me, didn't you? And you told her I was in "
-"Suldanessallar."
+"Suldanessellar."
 msgstr ""
 
 #: mel_iren_imoen.tra:438
@@ -3831,14 +3830,14 @@ msgstr ""
 msgid ""
 "Slayer Ability Changed\n"
 "\n"
-"It appears my ability to control the transformation to the Slayer has increased. The slayer form itself is stronger, deadlier... and I am able to maintain it for longer. The chances of going berserk while in the form have also decreased."
+"It appears my ability to control the transformation to the Slayer has increased. The Slayer form itself is stronger, deadlier... and I am able to maintain it for longer. The chances of going berserk while in the form have also decreased."
 msgstr ""
 
 #: slayer_dialog.tra:315
 msgid ""
 "Slayer Ability Changed Again\n"
 "\n"
-"My control over the Slayer transformation continues to increase. The slayer has become incredibly immune to harm and most magics, and it appears it is now immune to most diseases, poisons as well as any slow or hasting effects. Even the Slayer's claws now sometimes rip through magical effects and defenses."
+"My control over the Slayer transformation continues to increase. The Slayer has become incredibly immune to harm and most magics, and it appears it is now immune to most diseases, poisons as well as any slow or hasting effects. Even the Slayer's claws now sometimes rip through magical effects and defenses."
 msgstr ""
 
 #: slayer_dialog.tra:316
@@ -3995,7 +3994,7 @@ msgid ""
 msgstr ""
 
 #: the_five.tra:621
-msgid "So come, <CHARNAME>...kill your siblings once again. If you can."
+msgid "So come, <CHARNAME>... kill your siblings once again. If you can."
 msgstr ""
 
 #: the_five.tra:622
