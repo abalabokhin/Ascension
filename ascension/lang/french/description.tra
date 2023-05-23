@@ -24,6 +24,9 @@ Zone d'effet : 1 créature
 Jet de sauvegarde : aucun
 
 Tout comme le sort divin de 5ème niveau Rappel à la vie, Résurrection ramène un personnage à la vie. Il est cependant ressuscité avec le maximum de ses points de vie, de manière à ce qu'il soit de nouveau prêt pour la vie d'aventurier.~
+
+// note to translators: do not translate PLUS_SIGN_PLACEHOLDER in the below
+
 @9 = ~Transformation en Écorcheur
 
 Lorsque vous utilisez cette capacité, vous prenez la forme de l'essence brutale de Bhaal : une créature violente et puissante faite de crocs et de griffes. L'utilisation de cette capacité réduit votre réputation d'un point, car même ceux qui ne sont pas témoins de l'événement peuvent ressentir que vous avez succombé à votre instinct, et à la corruption qui en résulte.
@@ -137,7 +140,7 @@ Temps d'incantation : 1
 Zone d'effet : 1 démon
 Jet de sauvegarde : aucun
 
-Cette capacité permet à l'enfant de Bhaal de disputer le contrôle d'un démon à Mélissanne et d'en faire son allié. L'enfant de Bhaal s'engage dans un combat mental avec le démon pendant DURATION_PLACEHOLDER secondes, à la fin duquel le démon a SUCCESS_CHANCE_PLACEHOLDER % de chance de devenir son allié (il n'y a pas de jet de sauvegarde, et la résistance à la magie n'est pas prise en compte). Cependant, le démon n'est pas sous le contrôle direct de l'enfant de Bhaal. Cette capacité peut être utilisée une fois tous les 3 rounds.~
+Cette capacité permet à l'enfant de Bhaal de disputer le contrôle d'un démon à Mélissanne et d'en faire son allié. L'enfant de Bhaal s'engage dans un combat mental avec le démon pendant DURATION_PLACEHOLDER secondes, à la fin duquel le démon a SUCCESS_CHANCE_PLACEHOLDER % de chance de devenir son allié (il n'y a pas de jet de sauvegarde, et la résistance à la magie n'est pas prise en compte). Cependant, le démon n'est pas sous le contrôle direct de l'enfant de Bhaal. Cette capacité peut être utilisée une fois tous les 3 rounds.~ // note to translators: do not translate DURATION_PLACEHOLDER or SUCCESS_CHANCE_PLACEHOLDER
 @17 = ~Décharge
 
 Portée : 1,5 mètre
