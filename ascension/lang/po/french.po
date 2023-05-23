@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-23-06:24+0000\n"
-"PO-Revision-Date: 2021-07-15 14:14+0000\n"
+"PO-Revision-Date: 2023-05-23 11:51+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
-"Language-Team: French <https://tra.bgforge.net/projects/infinity-engine/ascension/fr/>\n"
+"Language-Team: French <https://tra.bgforge.net/projects/infinity-engine/"
+"ascension/fr/>\n"
 "Language: french\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: ascension.tra:500
 msgid "Babau"
@@ -91,7 +92,6 @@ msgid "Lava Bomb"
 msgstr "Bombe de lave"
 
 #: ascension.tra:1031
-#, fuzzy
 msgid "Symbol: Slow"
 msgstr "Symbole : Lenteur"
 
@@ -449,7 +449,6 @@ msgid "Sarevok's Sword of Chaos +4"
 msgstr "Épée du chaos +4"
 
 #: ascension.tra:3001
-#, fuzzy
 msgid ""
 "The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.\n"
 "\n"
@@ -478,13 +477,25 @@ msgid ""
 "non-Chaotic aligned"
 msgstr ""
 "Lame du Chaos de Sarevok\n"
-"Il s'agit de l'arme de Sarevok, frère de <CHARNAME>, qui fut utilisée dans la bataille de la Porte de Baldur. <CHARNAME> a gagné, ruinant ainsi les plans de Sarevok, et sauvant la Côte des Epées de la guerre. Maintenant, Sarevok s'est joint à la cause de <CHARNAME> et son épée lui a été rendue. Sarevok décrit cette arme comme une Lame Fatale et a restauré une partie des anciens pouvoirs de cet objet. Cependant, sans son essence d'Enfant de Bhaal pour nourrir l'épée, il n'a pu lui rendre la totalité du pouvoir qu'elle possédait autrefois. Quoiqu'il en soit, elle reste une arme formidable... et Sarevok prévient qu'elle deviendrait très difficile à utiliser dans les mains de quelqu'un qui ne fût pas un Porteur de Mort, voire impossible à utiliser.\n"
+"Il s'agit de l'arme de Sarevok, frère de <CHARNAME>, qui fut utilisée dans "
+"la bataille de la Porte de Baldur. <CHARNAME> a gagné, ruinant ainsi les "
+"plans de Sarevok, et sauvant la Côte des Epées de la guerre. Maintenant, "
+"Sarevok s'est joint à la cause de <CHARNAME> et son épée lui a été rendue. "
+"Sarevok décrit cette arme comme une Lame Fatale et a restauré une partie des "
+"anciens pouvoirs de cet objet. Cependant, sans son essence d'Enfant de Bhaal "
+"pour nourrir l'épée, il n'a pu lui rendre la totalité du pouvoir qu'elle "
+"possédait autrefois. Quoiqu'il en soit, elle reste une arme formidable... et "
+"Sarevok prévient qu'elle deviendrait très difficile à utiliser dans les "
+"mains de quelqu'un qui ne fût pas un Porteur de Mort, voire impossible à "
+"utiliser.\n"
 "\n"
 "PARAMETRES :\n"
 "\n"
-"Capacités de combat : chaque coup porté draine de 1 à 5 points de vie de la cible et les transfère au porteur (qui ne peut pas dépasser son maximum).\n"
+"Capacités de combat : chaque coup porté draine de 1 à 5 points de vie de la "
+"cible et les transfère au porteur (qui ne peut pas dépasser son maximum).\n"
 "\n"
-"La lame procure également +10% de Résistance à la Magie lorsqu'elle est équipée.\n"
+"La lame procure également +10% de Résistance à la Magie lorsqu'elle est "
+"équipée.\n"
 "\n"
 "Dégâts : 1D10 +4\n"
 "TAC0 : +4\n"
@@ -492,7 +503,7 @@ msgstr ""
 "Poids : 10\n"
 "Facteur de Vitesse : 8\n"
 "Type de compétence : Epée à 2 mains\n"
-"Type :  à 2 mains\n"
+"Type : à 2 mains\n"
 "Prérequis : 14 en Force, 18 en Constitution\n"
 "Inutilisable par :\n"
 "Clerc\n"
@@ -540,7 +551,6 @@ msgstr ""
 "malfaisant est digne d'éloges."
 
 #: balth.tra:1075
-#, fuzzy
 msgid ""
 "I sense no innate goodness within you, <CHARNAME>... though your deeds are "
 "hailed far and wide as above reproach. It is... interesting that one like "
@@ -611,15 +621,14 @@ msgstr ""
 "qui sont devenus ses esclaves."
 
 #: balth.tra:1081
-#, fuzzy
 msgid ""
 "Do not make me laugh, <CHARNAME>. If you expect me to believe that the "
 "reason for your depraved existence is to fight evil in this world, you "
 "expect far too much."
 msgstr ""
 "Ne me faites pas rire, <CHARNAME>. Si vous pensez me convaincre que votre "
-"misérable existence est consacrée à vaincre le mal dans ce monde, alors vous"
-" vous faîtes des illusions."
+"misérable existence est consacrée à vaincre le mal dans ce monde, alors vous "
+"vous faîtes des illusions."
 
 #: balth.tra:1082
 msgid ""
@@ -650,7 +659,6 @@ msgstr ""
 " notre destinée."
 
 #: balth.tra:1086
-#, fuzzy
 msgid "I deny nothing. Death comes for all who stand in my way."
 msgstr ""
 "Je ne nie rien. La mort vient à tous ceux qui se mettent en travers de ma "
@@ -714,7 +722,6 @@ msgstr ""
 "J'ai dédié ma vie à l'empêcher."
 
 #: balth.tra:1092
-#, fuzzy
 msgid ""
 "If only we had met under other circumstances, <CHARNAME>... I would have "
 "liked to sit and compare the paths that have brought us to this point. If we"
@@ -737,7 +744,6 @@ msgstr ""
 " Bhaal et d'achever ses plans ?"
 
 #: balth.tra:1094
-#, fuzzy
 msgid ""
 "You don't have to do this, Balthazar. We don't have to fight each other."
 msgstr ""
@@ -844,11 +850,9 @@ msgstr ""
 " avec tout ça, d'une façon ou d'une autre."
 
 #: balth.tra:1107
-#, fuzzy
 msgid "Alright, Balthazar. If that's what you want... let's end this now."
 msgstr ""
-"Très bien, Balthazar. Si c'est ce que vous voulez... finissons-en "
-"maintenant."
+"Très bien, Balthazar. Si c'est ce que vous voulez... finissons-en maintenant."
 
 #: balth.tra:1108
 msgid ""
@@ -870,16 +874,14 @@ msgstr ""
 "son jeu."
 
 #: balth.tra:1110
-#, fuzzy
 msgid "I don't know, Balthazar. But I don't want to fight you."
 msgstr "Je ne sais pas, Balthazar. Mais je ne veux pas vous combattre."
 
 #: balth.tra:1111
-#, fuzzy
 msgid "Let us fight, then, if it must be. Let me give you some peace at last."
 msgstr ""
-"Combattons alors, si ça doit être ainsi. Laissez-moi vous apporter un peu de"
-" paix finalement."
+"Combattons alors, si ça doit être ainsi. Laissez-moi vous apporter un peu de "
+"paix finalement."
 
 #: balth.tra:1112
 msgid ""
@@ -921,7 +923,6 @@ msgid "I cannot, <CHARNAME>."
 msgstr "Je ne peux pas, <CHARNAME>."
 
 #: balth.tra:1117
-#, fuzzy
 msgid ""
 "You must take the battle to Melissan. It is your destiny to see that Bhaal's"
 " legacy ends here and now. But you must promise me, <CHARNAME>... you must "
@@ -931,12 +932,12 @@ msgid ""
 "taint. Do not take it, <CHARNAME>... even a god can be tempted, you must "
 "realize that. Promise me you will turn it away."
 msgstr ""
-"Vous devez mener le combat contre Mélissane. C'est votre destinée d'assister"
-" à la fin de l'héritage de Bhaal. Mais promettez-moi, <CHARNAME>... vous "
+"Vous devez mener le combat contre Mélissane. C'est votre destinée d'assister "
+"à la fin de l'héritage de Bhaal. Mais promettez-moi, <CHARNAME>... vous "
 "devez me promettre de ne pas céder à la tentation. Si vous deviez vaincre "
-"Mélissane et que ce pouvoir s'offrait à vous, détournez-vous en... Vous avez"
-" vu ce qu'est votre lutte actuelle avec juste un soupçon de cette marque. Ne"
-" le prenez pas, <CHARNAME>... même un Dieu peut être tenté, sachez ceci. "
+"Mélissane et que ce pouvoir s'offrait à vous, détournez-vous en... Vous avez "
+"vu ce qu'est votre lutte actuelle avec juste un soupçon de cette marque. Ne "
+"le prenez pas, <CHARNAME>... même un Dieu peut être tenté, sachez ceci. "
 "Promettez-moi de laisser cette puissance."
 
 #: balth.tra:1118
@@ -4970,7 +4971,7 @@ msgstr ""
 
 #: setup.tra:101000
 msgid "Ascension"
-msgstr ""
+msgstr "Ascension"
 
 #: setup.tra:101001
 msgid ""
