@@ -1,5 +1,4 @@
 * text=auto
-*.tra text eol=crlf
 *.po text eol=lf
 
 # use export-ignore to skip files when downloading
@@ -48,7 +47,7 @@
 *.tpa text
 *.tph text
 *.tpp text
-*.tra text
+*.tra text eol=crlf
 *.vef binary
 *.vvc binary
 *.wav binary
