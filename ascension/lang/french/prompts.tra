@@ -1,4 +1,4 @@
-// WeiDU prompts
+// WeiDU prompts, those must be in separate file because of PO file format limitation
 @-1000= "Le mod %TP2_FILE_NAME% contient"
 @-1001= "composants optionnels distincts.
 Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
