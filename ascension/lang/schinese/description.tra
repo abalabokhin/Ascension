@@ -3,282 +3,300 @@
 爱蒙解除了梅丽珊造成的杀戮者状态，不过看起来爱蒙的天赋力量也因此而增强，她现在可以像我在禁魔监狱里那样随心转变成杀戮者形态，而且获的了新能力“虚无灵体”，使得她可以进入灵界一段时间。
 爱蒙的新能力“虚无灵体”
 爱蒙现在可以在短期内进入灵界，每十轮可以使用一次此能力，并且在十轮内爱蒙无法变成杀戮者。使用后在开始的一轮内，爱蒙处于隐形状态并免疫一切伤害，但无法使用任何法术及特殊能力。接下来的两轮内，爱蒙处于半位移状态，一半处于主物质界，一半处于灵界，隐形且对所有伤害都有一半的免疫能力，但有十分之一的施法失败几率。在这三轮内，她能看到所有隐形的目标。~
-@6 = ~结束杀戮者变身
+@6 = ~停止变身杀戮者
 
-该能力使得爱蒙能停止她的杀戮者变身并变回人形。~
-@7 = ~巴尔之子的新能力
-<CHARNAME>获得了这个能力，每天可以使用一次: 
-再生（死灵系） 
-射程：触摸
-时效：1轮/2级
+该能力使得爱蒙能停止她的杀戮者化身并变回人形。~
+@7 = ~再生术
+
+有效距离：碰触
+持续时间：1轮/2级
 施法时间：7
-有效范围：目标生物
-豁免鉴定：无
-这个超强的能力给予目标生物快速再生的能力，这个能力甚至可以恢复已经残废了的肢体。目标生物每秒恢复三点生命，被解咒前，每二等级可以持续效果一轮。例如，十四级的效果是七轮内每轮恢复十八点生命。~
-@8 = ~巴尔之子的新能力
-<CHARNAME>获得了这个能力，每天可以使用一次: 
+影响范围：1个生物
+豁免检定：无
 
-复兴（死灵系）
-射程：触摸
-时效：永久
+这个超强的能力允许巴尔后裔为一个目标生物灌输再生的能力，受术者的伤势会自动复原，甚至连残肢都可以再生。受术者每秒可以恢复3点的生命值，效果可持续1轮/每2等级的时间，或是直到被解除为止。举例而言，十四级的牧师所施展的再生术，每轮可恢复18点生命值，持续7轮的时间。~
+@8 = ~复生大法
+
+有效距离：碰触
+持续时间：永久
 施法时间：1
-有效范围：被触摸生物
-豁免鉴定：无
-类似第七级神术复兴，这个能力同样可以将死去的队友以最佳状态带回人世。~
-@9 = ~变身杀戮者
+影响范围：被碰触的生物
+豁免检定：无
 
-当你使用这个能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大、满是利爪和尖牙的生物。使用这个能力会降低你的声望1点，因为即使是没有亲眼目睹这情况的人也能感受到把你自己交给杀戮本能的堕落。
+就像是五级的死者复生，复生大法能使角色起死回生。复生大法也会治愈这名角色的伤害，所以他们已准备好再次冒险。~
+@9 = ~化身杀戮者
 
-杀戮者形态获得下列特性：
-－力量和敏捷设为25
-－基础防御等级设为-9
-－魔法抗力设为40%
-－所有豁免值设为2
-－攻击：攻击次数设为4，+5天生武器（1d8钝击伤害，+2寒冷伤害）
-－零级命中值设为0
-－增加100点生命值
-－免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠和远程攻击
+当你使用这个能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。使用这个能力会降低你的声望1点，因为即使是没有亲眼目睹这情况的人也能感受到把你自己交给杀戮本能的堕落。
 
-杀戮者形态非常难以控制：在变身的第一轮之后，每一轮你都有10%的几率（并在之后每轮都会递增10%）失去自我达一轮。~
-@10 = ~变身杀戮者
+杀戮者形态获得下列优势：
 
-当你使用这个能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大、满是利爪和尖牙的生物。使用这个能力会降低你的声望1点，因为即使是没有亲眼目睹这情况的人也能感受到把你自己交给杀戮本能的堕落。
+–力量和敏捷设为25
+–有效防御等级设为-9
+–魔法抗力设为40％
+–豁免值设为2
+–攻击次数设为4（1d8点挥砍伤害，2点寒冷伤害）
+–零级命中值设为0
+–PLUS_SIGN_PLACEHOLDER 100点生命值
+–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠和远程攻击
 
-杀戮者形态已随你内在权能的强化而强化，现在将获得下列特性：
-－力量和敏捷设为25
-－基础防御等级设为-9
-－魔法抗力设为50%
-－所有物理伤害抗性设为15%
-－所有元素伤害抗性设为30%
-－所有豁免值设为2
-－攻击：攻击次数设为4，+5天生武器（2d6钝击伤害，+4寒冷伤害）
-－零级命中值设为-4
-－再生：每秒回复2点生命值
-－增加150点生命值
-－免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠和远程攻击
+杀戮者形态难以控制：在变身的第一轮之后，每轮你都会有几率失去自我一轮，每轮递增10％。~
+@10 = ~化身杀戮者
 
-你对杀戮者形态的控制得以改善：在变身的第一轮之后，每一轮你都有10%的几率（并在之后每轮都会递增5%）失去自我达一轮。
+当你使用这个能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。使用这个能力会降低你的声望2点，因为即使是没有亲眼目睹这情况的人也能感受到把你自己交给杀戮本能的堕落。
+
+杀戮者形态已随你内在的力量而强化，现在将获得下列优势：
+
+–力量和敏捷设为25
+–有效防御等级设为-9
+–魔法抗力设为50％
+–物理伤害抗性设为15％
+–元素伤害抗性设为30％
+–豁免值设为2
+–攻击次数设为4（2d6钝击伤害，4点寒冷伤害）
+–零级命中值设为-4
+–PLUS_SIGN_PLACEHOLDER 150点生命值
+–每秒回复2点生命值
+–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠和远程攻击
+–失控几率：10％，每轮递增5％
 ~
-@11 = ~变身杀戮者
+@11 = ~化身杀戮者
 
-当你使用这个能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大、满是利爪和尖牙的生物。使用这个能力会降低你的声望1点，因为即使是没有亲眼目睹这情况的人也能感受到把你自己交给杀戮本能的堕落。
+当你使用这个能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。使用这个能力会降低你的声望2点，因为即使是没有亲眼目睹这情况的人也能感受到把你自己交给杀戮本能的堕落。
 
-杀戮者形态已随你内在权能的强化而强化，现在将获得下列特性：
-－力量和敏捷设为25
-－基础防御等级设为-9
-－魔法抗力设为60%
-－所有物理伤害抗性设为30%
-－所有元素伤害抗性设为40%
-－所有豁免值设为2
-－攻击：攻击次数设为4，+5天生武器（2d8钝击伤害，+8寒冷伤害）
-－每次命中时有10%的几率对目标施展解除魔法并降低其魔法抗力
-－零级命中值设为-8
-－增加200点生命值
-－再生：每秒回复3点生命值
-－免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠、患病、中毒和远程攻击
-－自由行动
+杀戮者形态已随你内在的力量而强化，现在将获得下列优势：
 
-你对杀戮者形态的控制得以改善：在变身的第二轮之后，每两轮你都有5%的几率（并在之后每两轮都会递增5%）失去自我达一轮~
-@12 = ~变身终结者
+–力量和敏捷设为25
+–有效防御等级设为-9
+–魔法抗力设为60％
+–物理伤害抗性设为30％
+–元素伤害抗性设为40％
+–豁免值设为2
+–攻击次数设为4（2d8钝击伤害，8点寒冷伤害）
+–每次命中时有10％的几率对目标施展解除魔法并降低其魔法抗力
+–零级命中值设为-4
+–PLUS_SIGN_PLACEHOLDER 200点生命值
+–每秒回复3点生命值
+–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠、患病、中毒和远程攻击
+–自由行动
+–失控几率：每2轮递增5％~
+@12 = ~化身破坏者
 
-现在你可以选择是变身为杀戮者，还是更强悍的“终结者”——巴尔的一种狰狞神相。使用该能力变身为杀戮者会降低你的声望2点，变身为终结者则会降低你的声望3点。
+现在你可以选择化身为杀戮者形态，或者是破坏者形态－－巴尔的一种狰狞神相。使用这个能力化身为杀戮者会降低你的声望2点，化身为破坏者则会降低你的声望3点。
 
-如果你变身为杀戮者，将获得下列特性：
-－力量和敏捷设为25
-－基础防御等级设为-9
-－魔法抗力设为60%
-－所有物理伤害抗性设为30%
-－所有元素伤害抗性设为50%
-－所有豁免值设为2
-－所有豁免值设为2
-－攻击：攻击次数设为4，+5天生武器（2d8钝击伤害，+8寒冷伤害）
-－每次命中时有10%的几率对目标施展解除魔法并降低其魔法抗力
-－零级命中值设为-8
-－增加200点生命值
-－再生：每秒回复3点生命值
-－免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠、患病、中毒和远程攻击
-－自由行动
-－在变身的第二轮之后，每两轮你都有5%的几率（并在之后每两轮都会递增5%）失去自我达两轮
+化身为杀戮者，你将获得下列优势：
 
-如果你变身为终结者，将额外获得下列特性，取代上述杀戮者的对应特性：
-－魔法抗力设为75%
-－所有物理伤害抗性设为50%
-－所有元素伤害抗性设为50%
-－魔法能量伤害抗性设为50%
-－攻击：攻击次数设为5，+5天生武器（3d8钝击伤害，+8寒冷伤害）
-－每次命中时有20%的几率对目标施展解除魔法并降低其魔法抗力
-－零级命中值设为-12
-－增加250点生命值
-－再生：每秒回复5点生命值
-－在变身的第一轮之后，你将有40%的几率（并在之后每轮都会递增10%）失去自我达一轮~
-@13 = ~变身杀戮者
+–力量和敏捷设为25
+–有效防御等级设为-9
+–魔法抗力设为60％
+–物理伤害抗性设为30％
+–元素伤害抗性设为50％
+–豁免值设为2
+–攻击次数设为4（2d8钝击伤害，8点寒冷伤害）
+–每次命中时有10％的几率对目标施展解除魔法并降低其魔法抗力
+–零级命中值设为-8
+–PLUS_SIGN_PLACEHOLDER 200点生命值
+–每秒回复3点生命值
+–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠、患病、中毒和远程攻击
+–自由行动
+–失控几率：每2轮递增5％
 
-当爱蒙使用这个能力的时候，她会显现出巴尔的残忍本质：一只狂暴、强大、满是利爪和尖牙的生物。
+化身为破坏者，你将额外获得下列优势：
 
-杀戮者形态获得下列特性：
-－力量和敏捷设为25
-－基础防御等级设为-9
-－魔法抗力设为40%
-－所有豁免值设为2
-－攻击：攻击次数设为4，+5天生武器（1d8钝击伤害，+2寒冷伤害）
-－零级命中值设为0
-－增加100点生命值
-－免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠和远程攻击
+–魔法抗力设为75％
+–物理伤害抗性设为50％
+–元素伤害抗性设为50％
+–魔法伤害抗性设为50％
+–攻击次数设为5（3d8钝击伤害，8点寒冷伤害）
+–解除魔法的几率提升至20％
+–零级命中值设为-12
+–PLUS_SIGN_PLACEHOLDER 250点生命值
+–每秒回复5点生命值
+–失控几率：提升至40％，每轮递增10％~
+@13 = ~化身杀戮者
 
-或许是因为爱蒙拥有的巴尔本质比<CHARNAME>更少——又或许是爱蒙从梅丽珊强行控制她的本质的行为中学到的知识，她能更好地控制杀戮者的力量，在杀戮者形态下她不会失去自我。~
-@14 = ~Bhaalspawn powers granted~
-@15 = ~Imoen can now change into the Slayer at will, and can enter the Ethereal plane once per minute~
-@16 = ~
-获得新能力：“控制恶魔”
-这个能力允许巴尔之子从梅丽珊的控制下夺取一个恶魔的控制权，在使用后，巴尔之子必须和目标恶魔做一轮的思想斗争，成功后恶魔会成为巴尔之子的同盟，但并不受其直接控制，每三轮可以使用此能力一次。
-获得新能力：“时空门”
-这个能力允许巴尔之子自由的穿越时空的限制，每轮可以使用一次。~
-@17 = ~
-获得新能力：“能量释放”
-“能量释放”这个能力能够将你内在的能量在短程内释放出来，目标会受到10d12魔法能量伤害（通过死亡豁免则伤害减半），并被推开一段距离，每五轮可使用这个能力一次......在使用后，会造成二轮的自身的疲倦以及施法失败。由于内在的天赋被释放，在使用此能力后，无论内无法变身杀戮者。~
-@18 = ~
-获得新能力：“能量聚焦”
-这个能力允许巴尔之子将内在的能量聚集起来以抵抗外来的法术攻击，使用后在五轮之内，巴尔之子免疫石化，解离，时间暂停以及所有一到三级法术，每十轮可以使用一次这个能力。~
-@19 = ~Dimension Door
+当爱蒙使用这个能力的时候，你会显现出巴尔的残忍本质：一只狂暴、强大的生物，满是利爪和尖牙。
 
-Range: Infinite
-Casting Time: 0
-Duration: Instant
-Area of Effect: Caster
-Saving Throw: None
+杀戮者形态获得下列优势：
 
-The Bhaalspawn may now move freely through space and the planes. This teleportation power is useable once per round.~
-@20 = ~Shapeshift: Bat
+–力量和敏捷设为25
+–有效防御等级设为-9
+–魔法抗力设为40％
+–豁免值设为2
+–攻击次数设为4（1d8点挥砍伤害，2点寒冷伤害）
+–零级命中值设为0
+–PLUS_SIGN_PLACEHOLDER 100点生命值
+–免疫禁锢、等级吸取、震慑、恐惧、魅惑、困惑、睡眠和远程攻击
 
-This ability allows Bodhi to shapeshift into bat form.~
-@21 = ~巴尔之子的新能力
-<CHARNAME>获得了这个能力，每天可以使用一次: 
+或许是因为爱蒙拥有的巴尔本质比<CHARNAME>的少－－又或许是在梅丽珊强行唤起她的本质后，爱蒙从中学到了什么－－她能更好地控制杀戮者的力量，在杀戮者形态下她不会失去自我。~
+@14 = ~获得巴尔后裔的力量~
+@15 = ~爱蒙现在可以随时化身为杀戮者形态，也可以每分钟进入一次灵界。~
+@16 = ~控制恶魔
 
-召唤圣力（塑能系）
-射程：0
-时效：1回合
+有效距离：施法者视线所及
+持续时间：特殊
+施法时间：1
+影响范围：1个恶魔
+豁免检定：无
+
+该能力允许巴尔后裔从梅丽珊手中夺取一个恶魔的控制权，并使其成为盟友。在使用后，巴尔后裔必须与该恶魔做DURATION_PLACEHOLDER秒的思想斗争，之后恶魔有SUCCESS_CHANCE_PLACEHOLDER％的机会成为盟友。（无需豁免检定，魔法抗性无效。）恶魔并不受巴尔后裔的直接控制。此能力每3轮可以使用一次。~
+@17 = ~神性释放
+
+有效距离：5呎
+持续时间：立即
+施法时间：1
+影响范围：1个生物
+豁免检定：1/2
+
+“神性释放”将你的内在力量倾泻在一个近战范围的目标身上，对其造成DICENUMBER_PLACEHOLDERd12点魔法伤害（以-2不利通过对死亡的豁免检定则伤害减半），将其击飞并使其在昏迷一小段时间。该能力每30秒可以使用一次，并且在使用后，巴尔后裔会非常疲劳，并有25％的几率会施法失败，持续2轮。由于释放了大量的神性本质，在接下来的30秒中无法化身杀戮者形态。~
+@18 = ~神性聚集
+
+有效距离：0
+持续时间：5轮
+施法时间：1
+影响范围：施法者
+豁免检定：无
+
+该能力可以让巴尔后裔聚集<PRO_HIMHER>内在的能量，以抵抗外来的法术效果。在使用后的30秒内，巴尔后裔将免疫石化，解离和时间停止。所有一到三级的法术也对巴尔后裔无效。该能力每分钟可以使用一次。~
+@19 = ~任意门
+
+有效距离：无限
+持续时间：立即
+施法时间：0
+影响范围：施法者
+豁免检定：无
+
+巴尔后裔可以自由的穿越空间和位面。这项传送能力每轮可以使用一次。~
+@20 = ~形体变化：蝙蝠
+
+该能力使芭荻变形成为蝙蝠形态。~
+@21 = ~神性天赋
+（聚能/塑能系）
+
+有效距离：0
+持续时间：1回合
 施法时间：1
 有效范围：施法者
 豁免鉴定：无
-巴尔之子利用血液中的力量使自己在短期内变得更强壮。使用这个能力的效果是，<PRO_HISHER>的每三个等级可以提高强壮，体制，敏捷一点。十二级的施法者可以提高四点。~
-@22 = ~Flip Resistances
 
-Range: 0
-Duration: Permanent
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+巴尔后裔呼唤<PRO_HISHER>血液中的力量使自己在短时间内变得强大。当<PRO_HESHE>使用这个能力后，<PRO_HISHER>力量、体质和敏捷都提升至25。~
+@22 = ~翻转抗性
 
-With this ability, Balthazar inverts his innate resistances. His normal 10% resistance to physical damage increases to 90%; his normal 90% resistance to magic, magic damage and elemental damage drops to 10%.
+有效距离：0
+持续时间：永久
+施法时间：1
+有效范围：巴萨札
+豁免鉴定：无
 
-Balthazar may flip his resistances at will.~
-@23 = ~Flip Resistances
+巴萨札可以通过这个能力来翻转他天生的抗性。他的物理伤害抗性由通常状态下的10％提升至90％；他的魔法抗性、魔法伤害抗性和元素伤害抗性由通常状态下的90％下降至10％。
 
-Range: 0
-Duration: Permanent
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+巴萨札可随时翻转抗性。~
+@23 = ~翻转抗性
 
-With this ability, Balthazar inverts his innate resistances. His normal 10% resistance to physical damage is restored; so is his normal 90% resistance to magic, magic damage and elemental damage.
+有效距离：0
+持续时间：永久
+施法时间：1
+有效范围：巴萨札
+豁免鉴定：无
 
-Balthazar may flip his resistances at will.~
-@24 = ~Solar Stance
+巴萨札可以通过这个能力来翻转他天生的抗性。他的物理伤害抗性恢复至通常状态下的10％；他的魔法抗性、魔法伤害抗性和元素伤害抗性也恢复至通常状态下的90％。
 
-Range: 0
-Duration: 3 hours
-Casting Time: 1
-Area of Effect: Balthazar, plus any creatures within 30ft
-Saving Throw: None
+巴萨札可随时翻转抗性。~
+@24 = ~炎阳势
 
-By entering the Solar Stance, Balthazar calls on the power of the sun to enhance his mystical abilities. He gains 127% resistance to fire (even when using Flip Resistance) and all of his attacks deal an additional 1d10 fire damage; this damage actually heals Balthazar. Upon entering the Solar Stance, Balthazar releases a blast of flame which deals 12d6 fire damage (save vs. spell for 1/2) and 1d8 crushing damage to all with 30ft, blasting any nearby creatures away from him.
+有效距离：0
+持续时间：3小时
+施法时间：1
+有效范围：巴萨札，及其30呎内的所有生物
+豁免鉴定：无
 
-Balthazar can have only one stance active at a time: entering the Solar Stance cancels all other stances. The Solar Stance can be removed by effects such as Breach.~
-@25 = ~Lunar Stance
+通过进入炎阳势，巴萨札呼唤太阳的力量来增强他的神秘能力。他将获得127％的火焰抗性（即便是已经使用了翻转抗性），他所有的攻击将造成额外1d10点火焰伤害，该伤害也会治疗他自己。在进入炎阳势时，巴萨札释放出一团爆炸性的火焰，对30呎内的所有生物造成12d6点火焰伤害（通过对法术的豁免检定则伤害减半）和1d8点钝击伤害，并吹飞身边的所有生物。
 
-Range: 0
-Duration: 3 hours
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+巴萨札同一时间内只能启用1个姿态，进入炎阳势将取消其他姿态。炎阳势可以被破解术等解除。~
+@25 = ~月阴势
 
-By entering the Lunar Stance, Balthazar calls on the power of the moon to enhance his mystical abilities. While in the Lunar Stance, Balthazar is immune to energy drain, Imprisonment and Time Stop, and receives one use of the Lunar Malison ability. Upon entering the Lunar Stance, all enemies adjacent to Balthazar are blinded for four rounds (save vs. spells to avoid).
+有效距离：0
+持续时间：3小时
+施法时间：1
+有效范围：巴萨札
+豁免鉴定：无
 
-Balthazar can have only one stance active at a time: entering the Lunar Stance cancels all other stances. The Lunar Stance can be removed by effects such as Breach.~
-@26 = ~Shadow Stance
+通过进入月阴势，巴萨札呼唤月亮的力量来增强他的神秘能力。进入月阴势后，巴萨札将免疫石化，解离和时间停止，并可使用一次月阴毒咒。在进入月阴势时，巴萨札附近的所有敌人将目盲4轮（通过对法术的豁免检定则无效）。
 
-Range: 0
-Duration: 3 hours
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+巴萨札同一时间内只能启用1个姿态，进入月阴势将取消其他姿态。月阴势可以被破解术等解除。~
+@26 = ~影之姿
 
-By entering the Shadow Stance, Balthazar calls on the power of the Plane of Shadow to enhance his mystical abilities. While in the Shadow Stance, Balthazar is protected by Improved Invisibility (and is completely invisible for the first 15 seconds, or until he attacks). In addition to the already-significant defensive advantages of Improved Invisibility, the cloak of shadows grants Balthazar an additional +6 bonus to Armor Class.
+有效距离：0
+持续时间：3小时
+施法时间：1
+有效范围：巴萨札
+豁免鉴定：无
 
-Balthazar can have only one stance active at a time: entering the Shadow Stance cancels all other stances. The Shadow Stance can be removed by effects such as Oracle or True Sight.~
-@27 = ~Faster than the Eye
+通过进入影之姿，巴萨札呼唤幽影位面的力量来增强他的神秘能力。进入影之姿后，巴萨札将受高等隐形术保护（在最初的15秒内完全隐形，直到他攻击为止）。除了高等隐形术带来的非常显着的防御优势以外，暗影斗篷还给巴萨札带来了防御等级+6的额外加成。
 
-Range: Sight
-Duration: Instant
-Casting Time: 0
-Area of Effect: Balthazar
-Saving Throw: None
+巴萨札同一时间内只能启用1个姿态，进入影之姿将取消其他姿态。影之姿可以被谕言术或真实视域等解除。~
+@27 = ~眼难及
 
-In the blink of an eye, Balthazar transports himself anywhere in sight.
+有效距离：视线范围
+持续时间：立即
+施法时间：0
+有效范围：巴萨札
+豁免鉴定：无
 
-This power can be used once per two rounds.~
-@28 = ~Dragon Fist
+眨眼之间，巴萨札就能将自己传送到视线范围内的任何地方。
 
-Range: Touch
-Duration: Special
-Casting Time: 0
-Area of Effect: Creature hit
-Saving Throw: None
+该能力每2轮可使用一次。~
+@28 = ~升龙拳
 
-By channeling ki energy into a blow, Balthazar rips through his opponent's magical defenses. The Dragon Fist has a 25% chance of destroying all combat protections and boosts below 9th level, a 25% chance of destroying all antimagic effects below 9th level, and a 50% chance of destroying both. It also slows its target (causing a -4 penalty to AC and attack rolls) for two rounds.
+有效距离：触碰
+持续时间：特殊
+施法时间：0
+有效范围：1个生物
+豁免鉴定：无
 
-This power can be used once per three rounds.~
-@29 = ~Tiger Strike
+通过将气能量引导到攻击中，巴萨札可以撕碎对手的魔法防御。升龙拳有25％的几率解除9级以下所有的战斗防护和增益效果，25％的几率解除9级以下的魔法防护效果，以及50％的几率都解除。它还会使目标缓慢（带来防御等级+4不利，攻击检定则-4不利），持续2轮。
 
-Range: 0
-Duration: 2 rounds
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: None
+该能力每3轮可使用一次。~
+@29 = ~猛虎出柙
 
-While Tiger Strike is active, Balthazar has a 50% chance per hit of a critical hit; in addition, any hit sends its victim flying backwards, stunning them for 1 round.
+有效距离：0
+持续时间：2轮
+施法时间：1
+有效范围：巴萨札
+豁免鉴定：无
 
-This power can be used once per four rounds.~
-@30 = ~Hand of Murder
+使用猛虎出柙时，巴萨札有50％的几率造成致命一击；除此之外，还可以击飞对手，并使其震慑1轮。
 
-Range: 0
-Duration: 1 round
-Casting Time: 1
-Area of Effect: Balthazar
-Saving Throw: Special
+该能力每4轮可使用一次。~
+@30 = ~谋杀之手
 
-Through combining his ki with his Bhaalspawn essence, all of Balthazar's attacks for one round are automatic critical hits. For the first three second after he activates the power, anyone hit drops dead (save vs. spells to negate).
+有效距离：0
+持续时间：1轮
+施法时间：1
+有效范围：巴萨札
+豁免鉴定：特殊
 
-This power can be used once per three rounds.~
-@31 = ~Shadowless Kick
+通过将气与巴尔后裔的本质结合，在接下来的一轮内，巴萨札的所有攻击都自动成为致命一击。在使用能力后的前3秒内，被击中的目标将立即死亡（通过对法术的豁免检定则无效）。
 
-Range: Touch
-Duration: 4 seconds
-Casting Time: 0
-Area of Effect: Creature kicked
-Saving Throw: None
+该能力每3轮可使用一次。~
+@31 = ~无影脚
 
-With a powerful kick, Balthazar knocks his opponent away, sending them flying; they take 4d8 damage from the impact and are knocked unconscious for a few seconds.
+有效距离：触碰
+持续时间：4秒
+施法时间：0
+有效范围：1个生物
+豁免鉴定：无
 
-This power can be used once per two rounds.~
-@32 = ~Lunar Malison
+巴萨札将强有力的一脚踢向对手，将其踢飞；被踢飞的对手将因为冲击而受到4d8点伤害，并昏迷几秒。
 
-Range: 30 ft.
-Duration: special
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: Special
+该能力每2轮可使用一次。~
+@32 = ~月阴毒咒
 
-The creature affected by Lunar Malison suffers a -4 penalty to all saving throws for a period of 40 rounds. Additionally, they must save vs. spells at a -2 penalty or be slowed (taking a -4 penalty to AC and attack rolls) for 2 rounds.
+有效距离：30呎
+持续时间：特殊
+施法时间：1
+有效范围：1个生物
+豁免鉴定：特殊
 
-Balthazar receives one use of this ability whenever he enters the Lunar Stance.~
+受到月阴毒咒影响的生物的所有豁免检定都会受到-4的不利影响，持续40轮。除此之外，还必须以-2不利通过对法术的豁免检定，否则将被缓慢（防御等级+4不利，攻击检定则-4不利）2轮。
+
+巴萨札每次进入月阴势时便能使用一次此能力。~

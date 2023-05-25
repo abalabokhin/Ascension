@@ -1,8 +1,9 @@
-name: Poify/Unpoify
+name: Poify/Unpoify/dir2msgstr
 on:
   push:
     paths:
       - "ascension/lang/**"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -10,9 +11,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Poify/Unpoify
-        uses: BGforgeNet/msg2po@master
+      - name: Poify/Unpoify/dir2msgstr
+        uses: BGforgeNet/msg2po@dev
         with:
-          poify: "true"
-          unpoify: "true"
-          push: "true"
+          poify: true
+          unpoify: true
+          push: true
+          single_commit: false
+          dir2msgstr: true

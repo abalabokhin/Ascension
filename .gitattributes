@@ -1,6 +1,11 @@
+# Files detected as text
 * text=auto
 
-# use export-ignore to skip files when downloading
+# Required for hive.bgforge.net
+*.po text eol=lf
+*.pot text eol=lf
+
+# Use export-ignore to skip files when downloading
 **/.* export-ignore
 *.gitignore text eol=crlf
 *.gitattributes text eol=crlf
@@ -46,7 +51,7 @@
 *.tpa text
 *.tph text
 *.tpp text
-*.tra text
+*.tra text eol=crlf
 *.vef binary
 *.vvc binary
 *.wav binary

@@ -17,7 +17,7 @@
 @1026 = ~Boskie oczyszczenie~
 @1027 = ~Parali¿uj¹ca aura~
 @1029 = ~Wybuch lawy~
-@1031 = ~Symbol: spowolnienie~
+@1031 = ~Symbol: Spowolnienie~
 @1037 = ~Przemiana w Pustoszyciela~
 @1038 = ~Melissana: Rozkazywanie s³ugom Otch³ani~
 @1039 = ~Uzyskano moc pomiotu Bhaala: Niewra¿liwoœæ na Wyssanie energii~
@@ -66,9 +66,8 @@ U¿ywaj¹c tej zdolnoœci, pomiot Bhaala musi wyobraziæ sobie dok³adnie oblicza swy
 
 <CHARNAME> uzyska³<PRO_HESHE> zdolnoœæ, której mo¿e u¿yæ raz dziennie:
 
-Regeneracja (Nekromancja)
 Poziom: 4
-Sfera: Leczenie
+Regeneracja (Nekromancja)
 Zasiêg: dotyk
 Czas dzia³ania: 1 runda/2 poziomy
 Czas rzucania: 7
@@ -113,7 +112,7 @@ Za pomoc¹ tego zaklêcia, pomiot Bhaala mo¿e przelaæ na wybran¹ ofiarê mroczn¹ sk
 <CHARNAME> uzyska³a permanentn¹ ochronê przed negatywn¹ energi¹ (tj. nie da siê wyssaæ jej poziomów) oraz 5% odpornoœci na magiê.~
 @2005 = ~Moce pomiotu Bhaala
 
-<CHARNAME> uzyska³<PRO_HESHE> zdolnoœæ, której mo¿e u¿yæ raz dziennie: 
+<CHARNAME> uzyska³<PRO_HESHE> zdolnoœæ, której mo¿e u¿yæ raz dziennie:
 
 Rêka mordu (Nekromancja)
 Zasiêg: rzucaj¹cy czar
@@ -121,7 +120,8 @@ Czas dzia³ania: 1 runda/5 poziomów
 Czas rzucania: 1
 Rzut obronny: brak
 
-Po przywo³aniu przez pomiot Bhaala tej mocy ka¿dy cios zadany przezeñ dowoln¹ broni¹ do walki wrêcz (bez wzglêdu na to, czy jest to piêœæ, czy broñ bia³a) wyrz¹dzi nieprzyjacielowi dodatkowe obra¿enia. Dzieje siê tak, poniewa¿ mroczna energia Bhaala przenika broñ i w dodatkowy sposób atakuje przeciwnika, pozwalaj¹c przy tym wch³on¹æ zadane obra¿enia w postaci punktów ¿ycia. Efekty tej zdolnoœci ró¿ni¹ siê w zale¿noœci od poziomu:
+Po przywo³aniu przez pomiot Bhaala tej mocy ka¿dy cios zadany przezeñ dowoln¹ broni¹ do walki wrêcz (bez wzglêdu na to, czy jest to piêœæ, czy broñ bia³a) wyrz¹dzi nieprzyjacielowi dodatkowe obra¿enia. Dzieje siê tak, poniewa¿ mroczna energia Bhaala przenika broñ i w dodatkowy sposób atakuje przeciwnika, pozwalaj¹c przy tym wch³on¹æ zadane obra¿enia w postaci punktów ¿ycia.
+ Efekty tej zdolnoœci ró¿ni¹ siê w zale¿noœci od poziomu:
 10. poziom: 2 rundy, 4 dodatkowe obra¿enia, leczy 4 punkty ¿ycia
 15. poziom: 3 rundy, 6 dodatkowych obra¿eñ, leczy 6 punktów ¿ycia
 20. poziom: 4 rundy, 8 dodatkowych obra¿eñ, leczy 8 punktów ¿ycia
