@@ -127,7 +127,7 @@ msgstr "В захвате"
 
 #: ascension.tra:1044
 msgid "Regains Bhaal powers"
-msgstr "Regains Bhaal powers"
+msgstr "Восстанавливает силы Баала"
 
 #: ascension.tra:1045
 msgid "You have regained control for now."
@@ -1553,8 +1553,8 @@ msgid ""
 " to your elder sibling. You may become a normal mortal, with a destiny to "
 "follow as you see fit."
 msgstr ""
-"Если это твой выбор, то ты можешь отдать свою часть божественной сущности "
-"<CHARNAME>. И сможешь стать простым смертным, который сам выбирает свою "
+"Если это твой выбор, то <CHARNAME> может принять твою часть божественной "
+"сущности. И ты сможешь стать простым смертным, который сам выбирает свою "
 "судьбу."
 
 #: balth_finsol.tra:584
@@ -2519,8 +2519,8 @@ msgid ""
 "Oh, please. I saw you coming from a mile away. I just played along because I"
 " had no choice."
 msgstr ""
-"Да ладно. Я давным-давно тебя раскусила. Я просто подыгрывала, так как у "
-"меня не было выбора."
+"Да ладно. Я давным-давно тебя раскусил. Я просто подыгрывал, так как у меня "
+"не было выбора."
 
 #: dream_mel.tra:420
 msgid ""
@@ -4090,7 +4090,6 @@ msgstr ""
 "никакого значения для меня... ты будешь раздавлен, как и <CHARNAME>."
 
 #: items-ee.tra:3001
-#, fuzzy
 msgid ""
 "The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.\n"
 "\n"
@@ -4118,19 +4117,21 @@ msgstr ""
 "\n"
 "ПАРАМЕТРЫ:\n"
 "\n"
-"Способности: каждое попадание вытягивает от одного до пяти единиц жизни из цели и передает их владельцу. Свыше максимума носителя здоровье не будет увеличиваться.\n"
+"Боевые возможности:\n"
+"– Каждое попадание вытягивает от одного до пяти пунктов здоровья из цели и передаёт их владельцу. Выше уровня здоровья владельца его пункты здоровья не поднимаются\n"
 "\n"
-"Клинок так же увеличивает +10% сопротивление магии, пока используется.\n"
+"Свойства экипировки:\n"
+"– Сопротивление магии: +10%\n"
 "\n"
 "THAC0: +4 улучшение\n"
-"Урон: 1D10+4 (рубящий)\n"
-"Показатель скорости: 8\n"
-"Специализация: двуручный меч\n"
+"Урон: 1d10+4 (рубящий)\n"
+"Фактор скорости: 8\n"
+"Навык: двуручный меч\n"
 "Тип: двуручное\n"
 "\n"
-"Требует:\n"
-"14 силы\n"
-"18 сложения\n"
+"Требования:\n"
+" Сила 14\n"
+" Телосложение 18\n"
 "\n"
 "Вес: 10"
 
@@ -4144,7 +4145,7 @@ msgid ""
 msgstr ""
 "Вероятно, сваренное самой Сендай, это удивительно сильное зелье лечения способно полностью восстановить здоровье любого, кто его выпьет.\n"
 "\n"
-"СТАТИСТИКА:\n"
+"ПАРАМЕТРЫ:\n"
 "\n"
 "Вес:  1"
 
@@ -5822,7 +5823,7 @@ msgstr ""
 
 #: the_five.tra:27
 msgid "Fight <CHARNAME>? Aye... I will do that."
-msgstr "Биться с <CHARNAME>? Да... я сделаю это."
+msgstr "Сражаться против своего брата? Да... я сделаю это."
 
 #: the_five.tra:28
 msgid "So you die again, as well. It's all good."
@@ -5852,7 +5853,7 @@ msgid ""
 msgstr ""
 "Это правда. Я могу опять умереть от твоей руки, <CHARNAME>. Но это лучше, "
 "чем находиться за твоей спиной и захлебываться желчью, в то время как ты "
-"берешь все, что однажды принадлежало мне по праву. Лучше бороться вместе с "
+"берешь все, что однажды принадлежало мне по праву. Лучше биться рядом с "
 "Мелиссан, чем терпеть это."
 
 #: the_five.tra:262
@@ -5866,8 +5867,8 @@ msgid ""
 "Even if cared to consider your offer, I cannot. <CHARNAME> has bound me with"
 " a vow."
 msgstr ""
-"Даже если я хотел бы рассмотреть твое предложение, но я не могу. Я дал "
-"клятву <CHARNAME>."
+"Даже если я хотел бы рассмотреть твое предложение, но я не могу. <CHARNAME> "
+"и я связаны клятвой."
 
 #: the_five.tra:264
 msgid ""
@@ -5895,9 +5896,9 @@ msgid ""
 "along as a servant to the one who halted my own plans long before yours came"
 " to fruition, priestess. Aye... I will be your general."
 msgstr ""
-"Я устал от <CHARNAME> и <PRO_HISHER> дурацких нравоучений. Я утомился "
-"служить тому, кто помешал моим собственным планам намного раньше, чем начали"
-" осуществляться твои, жрица. Да... я стану твоим генералом."
+"<CHARNAME>, я уже так устал от тебя и от твоих дурацких нравоучений. Я "
+"утомился служить тому, кто помешал моим собственным планам намного раньше, "
+"чем начали осуществляться твои, жрица. Да... я стану твоим генералом."
 
 #: the_five.tra:267
 msgid "No, Sarevok! You traitorous bastard!"
@@ -5919,9 +5920,9 @@ msgid ""
 " the madness that once swallowed me whole. Wallow in your delusion if you "
 "will, woman... I remember it well. And I will not join you in it."
 msgstr ""
-"Стать демоном, которым я был когда-то? Я больше не такой человек и не желаю "
-"возвращаться к прошлому. Рядом с <CHARNAME> я понял, что живу лучше, "
-"нетронутый сумасшествием, которое когда-то поглотило меня целиком. "
+"Стать демоном, которым я был когда-то? Я больше не таков и не желаю "
+"возвращаться к прошлому. Пока <CHARNAME> был рядом, я понял, что так я живу "
+"лучше, нетронутый сумасшествием, которое когда-то поглотило меня целиком. "
 "Наслаждайся своим заблуждением, если хочешь, женщина... Я хорошо помню это. "
 "И я не присоединюсь к тебе."
 
@@ -5932,8 +5933,8 @@ msgid ""
 " was once mine."
 msgstr ""
 "Мой характер не изменился, <CHARNAME>. Да и можно ли было ожидать другого? "
-"Лучше биться вместе с Мелиссан, чем находиться в твоей тени и наблюдать, как"
-" ты берешь то, что было когда-то моим."
+"Лучше биться рядом с Мелиссан, чем находиться в твоей тени и наблюдать, как "
+"ты берешь то, что было когда-то моим."
 
 #: the_five.tra:272
 msgid ""
@@ -5943,7 +5944,7 @@ msgid ""
 msgstr ""
 "Возможно. Но я не буду сидеть в твоей тени и просто наблюдать, как ты берешь"
 " то, что было когда-то моим. Ты не заслуживаешь власти, <CHARNAME>. Даже "
-"если это означает биться вместе с Мелиссан, я сделаю то, что должен."
+"если это означает биться рядом с Мелиссан, я сделаю то, что должен."
 
 #: the_five.tra:273
 msgid ""
@@ -5953,7 +5954,7 @@ msgid ""
 msgstr ""
 "Типичное хвастовство. И возможно, ты даже победишь, но я не буду просто "
 "сидеть, пока ты берешь то, что было когда-то моим. Ты не заслуживаешь "
-"власти, <CHARNAME> и даже если это означает биться вместе с Мелиссан, я "
+"власти, <CHARNAME>, и даже если это означает биться рядом с Мелиссан, я "
 "сделаю то, что должен."
 
 #: the_five.tra:616
@@ -5977,7 +5978,7 @@ msgstr ""
 "себе восхитительную иронию, воссоздав бедного жалкого Громнира. Это "
 "доставляет мне бесконечное наслаждение - знать, что все это время он был "
 "прав в отношении меня... и это ни на что не повлияло. Он все равно погиб от "
-"твоей руки, как я и знала."
+"твоей руки, как я и желала."
 
 #: the_five.tra:618
 msgid ""
@@ -6005,10 +6006,8 @@ msgstr ""
 "сможешь ты выстоять против них всех одновременно?"
 
 #: the_five.tra:621
-#, fuzzy
 msgid "So come, <CHARNAME>... kill your siblings once again. If you can."
-msgstr ""
-"Итак, начнем, <CHARNAME>... убей своих родных братьев еще раз. Если сможешь."
+msgstr "Итак, начнем, <CHARNAME>... убей своих родичей еще раз. Если сможешь."
 
 #: the_five.tra:622
 msgid "There is enough essence, in fact, even for you... Sarevok."
@@ -6019,8 +6018,7 @@ msgid ""
 "But... we don't have all your siblings accounted for just quite yet, do we? "
 "Haven't you forgotten someone?"
 msgstr ""
-"Но... не все твои родные братья тут собрались, не так ли? Неужели кого-то "
-"забыли?"
+"Но... не все твои родичи тут собрались, не так ли? Неужели кого-то забыли?"
 
 #: the_five.tra:624
 msgid ""
@@ -6049,16 +6047,16 @@ msgid ""
 msgstr ""
 "Возможно. Но ты - великий воин... и мог бы быть прекрасным генералом, чтобы "
 "руководить моими земными армиями. Сила, богатство, преклонение... все, что "
-"пожелаешь. И включая возвращение силы потомка Баала, которую ты потерял. И "
-"так, Саревок... стань демоном, каким однажды был. И служи мне."
+"пожелаешь. И включая возвращение силы потомка Баала, которую ты потерял. "
+"Итак, Саревок... стань демоном, каким однажды был. И служи мне."
 
 #: the_five.tra:627
 msgid ""
 "Then fight for me you shall! And your first victim will be the "
 "<PRO_BROTHERSISTER> upon whom vengeance is so richly deserved!"
 msgstr ""
-"Тогда ты будешь сражаться за меня! И твоей первой жертвой будет "
-"<PRO_BROTHERSISTER>, и пусть возмездие свершится!"
+"Тогда ты будешь сражаться за меня! И твоей первой жертвой будет твой брат, "
+"пусть возмездие свершится!"
 
 #: the_five.tra:628
 msgid ""
@@ -6075,8 +6073,9 @@ msgid ""
 " so much. I will make you the man you once were."
 msgstr ""
 "Я вызвала тебя сюда, Саревок. И даю тебе второй шанс. Присоединяйся ко мне в"
-" борьбе против <CHARNAME>, и я верну силу, которую ты потерял, силу, к "
-"которой ты так долго стремился. И верну тебе человеческую жизнь, как раньше."
+" борьбе против своего брата по имени <CHARNAME>, и я верну силу, которую ты "
+"потерял, силу, к которой ты так долго стремился. И верну тебе человеческую "
+"жизнь, как раньше."
 
 #: the_five.tra:1008
 msgid ""
@@ -6090,11 +6089,11 @@ msgstr ""
 
 #: tougher.tra:1
 msgid "Minotaur Battle Priest"
-msgstr "Боевой минотавр жрец"
+msgstr "Минотавр-боевой жрец"
 
 #: tougher.tra:2
 msgid "Il-Khan Medusa"
-msgstr "Медуза Ил-Хан"
+msgstr "Медуза Иль-Хана"
 
 #: tougher.tra:3
 msgid "Fire Drake"
@@ -6403,6 +6402,42 @@ msgstr ""
 "Ты... может быть, и права, <CHARNAME>. Но это не значит, что мой план "
 "обречен на провал. Мелиссан недооценивает меня, я уверен... также, как "
 "недооценивает и тебя."
+
+msgctxt "female"
+msgid "Fight <CHARNAME>? Aye... I will do that."
+msgstr "Сражаться против своей сестры? Да... я сделаю это."
+
+msgctxt "female"
+msgid ""
+"Become the demon I once was? I am no longer that man, nor do I wish to be. "
+"If <CHARNAME> has shown me anything, it is that I am better off untouched by"
+" the madness that once swallowed me whole. Wallow in your delusion if you "
+"will, woman... I remember it well. And I will not join you in it."
+msgstr ""
+"Стать демоном, которым я был когда-то? Я больше не таков и не желаю "
+"возвращаться к прошлому. Пока <CHARNAME> была рядом, я понял, что так я живу"
+" лучше, нетронутый сумасшествием, которое когда-то поглотило меня целиком. "
+"Наслаждайся своим заблуждением, если хочешь, женщина... Я хорошо помню это. "
+"И я не присоединюсь к тебе."
+
+msgctxt "female"
+msgid ""
+"Then fight for me you shall! And your first victim will be the "
+"<PRO_BROTHERSISTER> upon whom vengeance is so richly deserved!"
+msgstr ""
+"Тогда ты будешь сражаться за меня! И твоей первой жертвой будет твоя сестра,"
+" пусть возмездие свершится!"
+
+msgctxt "female"
+msgid ""
+"I brought you here, Sarevok. To give you a second chance. Join me and fight "
+"against <CHARNAME> and I will return the power you lost, the power you crave"
+" so much. I will make you the man you once were."
+msgstr ""
+"Я вызвала тебя сюда, Саревок. И даю тебе второй шанс. Присоединяйся ко мне в"
+" борьбе против своей сестры по имени <CHARNAME>, и я верну силу, которую ты "
+"потерял, силу, к которой ты так долго стремился. И верну тебе человеческую "
+"жизнь, как раньше."
 
 #~ msgid ""
 #~ "Jan Jansen's life following his time with <CHARNAME> was unsurprisingly "
