@@ -144,31 +144,27 @@ Podobnie jak czar 5. poziomu o nazwie Wskrzeszenie, zaklêcie to mo¿e przywróciæ 
 <CHARNAME> uzyska³<PRO_HESHE> 25% odpornoœci na obra¿enia fizyczne (tj. sieczne, k³ute, obuchowe oraz od pocisków).~
 @2008 = ~Umiejêtnoœæ przemiany w Zabójcê zosta³a udoskonalona~
 @3000 = ~Miecz chaosu Sarevoka +4~
-@3001 = ~Tego oto miecza dobywa³ Sarevok, kiedy star³ siê ze swoim bratem w odleg³ych Wrotach Baldura. Jednak¿e to w³aœnie jego brat, <CHARNAME>, zwyciê¿y³, obracaj¹c wniwecz plany Sarevoka i ratuj¹c Wybrze¿e Mieczy od nieuchronnej wojny. Teraz, gdy Sarevok i <CHARNAME> walcz¹ ramiê w ramiê, ostrze powróci³o do prawowitego w³aœciciela. Sarevok nazywa je ostrzem Zwiastuna Œmierci, uda³o mu siê równie¿ przywróciæ mu czêœæ jego dawnej mocy. Mimo to, odk¹d nie przenika go esencja Bhaala, miecz nie mo¿e odzyskaæ pe³ni swej niegdysiejszej potêgi. Wci¹¿ pozostaje on jednak niebywale groŸn¹ broni¹… któr¹, wed³ug Sarevoka, nie zdo³a w³adaæ nikt inny ni¿ Zwiastun Œmierci.
+@3001 = ~Tego oto miecza dobywa³ Sarevok, kiedy star³ siê ze swoim bratem w odleg³ych Wrotach Baldura. Jednak¿e to w³aœnie jego brat, <CHARNAME>, zwyciê¿y³, obracaj¹c wniwecz plany Sarevoka i ratuj¹c Wybrze¿e Mieczy od nieuchronnej wojny. Teraz, gdy Sarevok i <CHARNAME> walcz¹ ramiê w ramiê, ostrze powróci³o do prawowitego w³aœciciela. Sarevok nazywa je ostrzem Zwiastuna Œmierci, uda³o mu siê równie¿ przywróciæ mu czêœæ jego dawnej mocy. Mimo to, odk¹d nie przenika go esencja Bhaala, miecz nie mo¿e odzyskaæ pe³ni swej niegdysiejszej potêgi. Jednak nadal jest to imponuj¹ca broñ... i Sarevok ostrzega, ¿e staje siê coraz trudniejsza do opanowania przez osobê, która nie jest Zwiastunem Œmierci, jeœli w ogóle mog¹ z niej skorzystaæ.
 
 PARAMETRY:
 
-Obra¿enia: 1k10 +4
-TraK0: +4
 Specjalne:
- Ka¿de trafienie wysysa z ofiary od jednego do piêciu punktów ¿ycia i przekazuje je posiadaczowi miecza. Zgromadzone w ten sposób punkty 
+- Ka¿de trafienie wysysa z ofiary od jednego do piêciu punktów ¿ycia i przekazuje je posiadaczowi miecza. Zgromadzone w ten sposób punkty 
  ¿ycia nie przekrocz¹ jednak maksymalnej liczby punktów dzier¿¹cego miecz.
- 10% odpornoœci na magiê kiedy jest w u¿yciu
+- Odpornoœæ na magiê: 10%
+
+TraK0: +4
+Obra¿enia: 1k10 +4
 Typ obra¿eñ: sieczne
-Waga: 10
 OpóŸnienie: 8
 Rodzaj bieg³oœci: miecz oburêczny
 Typ broni: 2-rêczna
+
 Wymagania:
 - Si³a: 14
 - Kondycja: 18
-Nie mo¿e u¿ywaæ:
- Kap³an
- Mag
- Paladyn
- £owca
- Druid
- Postaæ o charakterze innym ni¿ chaotyczny~
+
+Waga: 10~
 @3002 = ~Mikstura Sendai~
 @3003 = ~Mikstura Sendai
 Ta niezwykle potê¿na mikstura uzdrawiaj¹ca, bêd¹ca najprawdopodobniej dzie³em samej Sendai, jest zdolna przywróciæ pe³niê punktów ¿ycia pij¹cej j¹ osobie.~
