@@ -1,4 +1,4 @@
-The ability to translate this mod using tra files is restored. For convnence, please enable "Allow edits from maintainers".
+The ability to translate this mod using tra files is restored. For convenience, please enable "Allow edits from maintainers".
 
 Regardless of that, you can still use the online translation system.  
 Website: https://hive.bgforge.net/projects/infinity-engine/ascension  
