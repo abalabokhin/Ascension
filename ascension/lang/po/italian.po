@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-23-06:24+0000\n"
+"POT-Creation-Date: 2023-05-25-16:53+0000\n"
 "PO-Revision-Date: 2022-01-29 09:10+0000\n"
 "Last-Translator: Davide Rossini <davidewmilan@alice.it>\n"
 "Language-Team: Italian <https://tra.bgforge.net/projects/infinity-engine/ascension/it/>\n"
@@ -4202,6 +4202,23 @@ msgstr ""
 "STATISTICHE:\n"
 "\n"
 "Peso: 1"
+
+#: items-ee.tra:3004
+msgid ""
+"Still, however, it is a formidable weapon... and one that Sarevok warns "
+"would become increasingly difficult to wield in the hands of one who was not"
+" a Deathbringer, if they could use it at all."
+msgstr ""
+
+#: items-ee.tra:3005
+msgid ""
+"Still, however, it is a formidable weapon... and one that only a "
+"Deathbringer of Sarevok's skill and power can wield."
+msgstr ""
+
+#: items-ee.tra:3006
+msgid "Only Sarevok can use this weapon."
+msgstr ""
 
 #: mel_balth.tra:591
 msgid ""

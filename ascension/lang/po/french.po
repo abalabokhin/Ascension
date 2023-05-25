@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-23-06:24+0000\n"
+"POT-Creation-Date: 2023-05-25-16:53+0000\n"
 "PO-Revision-Date: 2023-05-23 11:51+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/infinity-engine/ascension/fr/>\n"
@@ -4449,6 +4449,23 @@ msgstr ""
 "\n"
 "Poids : 1"
 
+#: items-ee.tra:3004
+msgid ""
+"Still, however, it is a formidable weapon... and one that Sarevok warns "
+"would become increasingly difficult to wield in the hands of one who was not"
+" a Deathbringer, if they could use it at all."
+msgstr ""
+
+#: items-ee.tra:3005
+msgid ""
+"Still, however, it is a formidable weapon... and one that only a "
+"Deathbringer of Sarevok's skill and power can wield."
+msgstr ""
+
+#: items-ee.tra:3006
+msgid "Only Sarevok can use this weapon."
+msgstr ""
+
 #: mel_balth.tra:591
 #, fuzzy
 msgid ""
@@ -7533,6 +7550,7 @@ msgstr ""
 "<CHARNAME> n'est pas seule, Mélissanne. Il est temps de mettre fin à tout "
 "ceci."
 
+#, fuzzy
 msgctxt "female"
 msgid ""
 "You do not believe in my power, I can see that much. You have fought "
@@ -7781,6 +7799,7 @@ msgstr ""
 "destruction du véritable mal qui menace Féérune. Il n'y a pas d'autre voie "
 "pour moi."
 
+#, fuzzy
 msgctxt "female"
 msgid "Then let's get this over with. I'm tired of talking."
 msgstr "Alors finissons-en. Je suis fatiguée de discuter."
@@ -7913,6 +7932,7 @@ msgstr ""
 "Tu es désireux de devenir le serviteur de Mélissanne maintenant ? Je suis "
 "déçue."
 
+#, fuzzy
 msgctxt "female"
 msgid ""
 "I see. And you believe your offer interests me? <CHARNAME> has done well "
@@ -7940,6 +7960,7 @@ msgstr ""
 "Le serment que cette idiote t'a imposé n'est rien. Je pourrais facilement le"
 " briser. En fait, je viens de le faire. Maintenant, fais ce que tu veux."
 
+#, fuzzy
 msgctxt "female"
 msgid ""
 "Then fight for me you shall! And your first victim will be the "
