@@ -1,4 +1,4 @@
-@3001 = ~Die Klinge von Sarevok, <CHARNAME>s Bruder, die er im Kampf im fernen Baldurs Tor benutzte. <CHARNAME> siegte, vereitelte Sarevoks Pläne und bewahrte die Schwertküste vor einem Krieg. Nun kämpft Sarevok an <CHARNAME>s Seite, und die Klinge wurde ihm zurückgegeben. Sarevok bezeichnet die Waffe als Klinge eines Todesbringers und hat etwas von ihrer alten Macht wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie fließt, verfügt sie zwar nicht über ihre früheren Fähigkeiten; dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.
+@3001 = ~Die Klinge von Sarevok, <CHARNAME>s Bruder, die er im Kampf im fernen Baldurs Tor benutzte. <CHARNAME> siegte, vereitelte Sarevoks Pläne und bewahrte die Schwertküste vor einem Krieg. Nun kämpft Sarevok an <CHARNAME>s Seite, und die Klinge wurde ihm zurückgegeben. Sarevok bezeichnet die Waffe als Klinge eines Todesbringers und hat etwas von ihrer alten Macht wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie fließt, verfügt sie zwar nicht über ihre früheren Fähigkeiten. Dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.
 
 SPEZIFISCHE EIGENSCHAFTEN:
 
@@ -26,6 +26,6 @@ Charakteren ohne chaotische Gesinnung~
 EIGENSCHAFTEN:
 
 Gewicht: 1~
-@3004 = ~Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.~
-@3005 = ~Still, however, it is a formidable weapon... and one that only a Deathbringer of Sarevok's skill and power can wield.~
-@3006 = ~Only Sarevok can use this weapon.~
+@3004 = ~Dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.~
+@3005 = ~Dennoch ist sie eine tödliche Waffe... und nur ein Todesbringer mit den Fähigkeiten und der Macht von Sarevok kann sie führen.~
+@3006 = ~Nur Sarevok kann diese Waffe benutzen.~
