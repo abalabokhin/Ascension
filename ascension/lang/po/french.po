@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2023-05-25 17:22+0000\n"
+"PO-Revision-Date: 2023-05-25 17:44+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/infinity-engine/"
 "ascension/fr/>\n"
@@ -4456,16 +4456,21 @@ msgid ""
 "would become increasingly difficult to wield in the hands of one who was not"
 " a Deathbringer, if they could use it at all."
 msgstr ""
+"Quoi qu'il en soit, elle reste une arme formidable... et Sarevok prévient "
+"qu'elle deviendrait trčs difficile (voire impossible) ŕ utiliser dans les "
+"mains de quelqu'un qui ne fűt pas un semeur de mort."
 
 #: items-ee.tra:3005
 msgid ""
 "Still, however, it is a formidable weapon... and one that only a "
 "Deathbringer of Sarevok's skill and power can wield."
 msgstr ""
+"Quoi qu'il en soit, elle reste une arme formidable... et que seul un semeur "
+"de mort de la trempe et de la puissance de Sarevok peut manier."
 
 #: items-ee.tra:3006
 msgid "Only Sarevok can use this weapon."
-msgstr ""
+msgstr "Seul Sarevok peut utiliser cette arme."
 
 #: mel_balth.tra:591
 #, fuzzy
@@ -4978,7 +4983,7 @@ msgstr ""
 
 #: setup.tra:101000
 msgid "Ascension"
-msgstr ""
+msgstr "Ascension"
 
 #: setup.tra:101001
 msgid ""
