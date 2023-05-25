@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-25-17:14+0000\n"
-"PO-Revision-Date: 2020-11-23 14:13+0000\n"
-"Last-Translator: RomancingSugar <saladinqiao@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/infinity-engine/ascension/schinese/>\n"
+"PO-Revision-Date: 2023-05-25 17:22+0000\n"
+"Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/"
+"infinity-engine/ascension/schinese/>\n"
 "Language: schinese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: ascension.tra:500
 msgid "Babau"
@@ -92,7 +93,7 @@ msgstr "熔岩炸弹"
 
 #: ascension.tra:1031
 msgid "Symbol, Slow"
-msgstr "缓慢法印"
+msgstr "符号，慢"
 
 #: ascension.tra:1037
 msgid "Ravager Change"
