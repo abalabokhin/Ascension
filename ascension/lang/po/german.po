@@ -4259,7 +4259,6 @@ msgstr ""
 "<PRO_HIMHER> ausgelöscht."
 
 #: items-ee.tra:3001
-#, fuzzy
 msgid ""
 "The blade of Sarevok, brother of <CHARNAME>, used in the battle they fought in faraway Baldur's Gate. <CHARNAME> prevailed, destroying Sarevok's plans and rescuing the Sword Coast from the brink of war. Now Sarevok has joined with <CHARNAME>'s cause and his blade has been restored to him. Sarevok describes the weapon as a Deathbringer blade and has restored some of the weapon's old power. Without his Bhaalspawn essence to channel through the sword, however, it cannot achieve the power it once had. Still, however, it is a formidable weapon... and one that Sarevok warns would become increasingly difficult to wield in the hands of one who was not a Deathbringer, if they could use it at all.\n"
 "\n"
@@ -4283,7 +4282,7 @@ msgid ""
 "\n"
 "Weight: 10"
 msgstr ""
-"Die Klinge von Sarevok, <CHARNAME>s Bruder, die er im Kampf im fernen Baldurs Tor benutzte. <CHARNAME> siegte, vereitelte Sarevoks Pläne und bewahrte die Schwertküste vor einem Krieg. Nun kämpft Sarevok an <CHARNAME>s Seite, und die Klinge wurde ihm zurückgegeben. Sarevok bezeichnet die Waffe als Klinge eines Todesbringers und hat etwas von ihrer alten Macht wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie fließt, verfügt sie zwar nicht über ihre früheren Fähigkeiten; dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.\n"
+"Die Klinge von Sarevok, <CHARNAME>s Bruder, die er im Kampf im fernen Baldurs Tor benutzte. <CHARNAME> siegte, vereitelte Sarevoks Pläne und bewahrte die Schwertküste vor einem Krieg. Nun kämpft Sarevok an <CHARNAME>s Seite, und die Klinge wurde ihm zurückgegeben. Sarevok bezeichnet die Waffe als Klinge eines Todesbringers und hat etwas von ihrer alten Macht wiederhergestellt. Ohne dass die Essenz der Bhaalbrut durch sie fließt, verfügt sie zwar nicht über ihre früheren Fähigkeiten. Dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu führen sein wird für einen, der kein Todesbringer ist - wenn er sie überhaupt tragen kann.\n"
 "\n"
 "SPEZIFISCHE EIGENSCHAFTEN:\n"
 "\n"
@@ -4327,16 +4326,21 @@ msgid ""
 "would become increasingly difficult to wield in the hands of one who was not"
 " a Deathbringer, if they could use it at all."
 msgstr ""
+"Dennoch ist sie eine tödliche Waffe... und Sarevok warnt, dass sie schwer zu"
+" führen sein wird für einen, der kein Todesbringer ist - wenn er sie "
+"überhaupt tragen kann."
 
 #: items-ee.tra:3005
 msgid ""
 "Still, however, it is a formidable weapon... and one that only a "
 "Deathbringer of Sarevok's skill and power can wield."
 msgstr ""
+"Dennoch ist sie eine tödliche Waffe... und nur ein Todesbringer mit den "
+"Fähigkeiten und der Macht von Sarevok kann sie führen."
 
 #: items-ee.tra:3006
 msgid "Only Sarevok can use this weapon."
-msgstr ""
+msgstr "Nur Sarevok kann diese Waffe benutzen."
 
 #: mel_balth.tra:591
 msgid ""
