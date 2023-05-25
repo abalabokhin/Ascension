@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-25-16:53+0000\n"
+"POT-Creation-Date: 2023-05-25-17:14+0000\n"
 "PO-Revision-Date: 2023-05-23 11:51+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: French <https://tra.bgforge.net/projects/infinity-engine/ascension/fr/>\n"
@@ -91,7 +91,8 @@ msgid "Lava Bomb"
 msgstr "Bombe de lave"
 
 #: ascension.tra:1031
-msgid "Symbol: Slow"
+#, fuzzy
+msgid "Symbol, Slow"
 msgstr "Symbole : Lenteur"
 
 #: ascension.tra:1037
@@ -8119,6 +8120,9 @@ msgstr ""
 "dans une guerre sainte. Une croisade dont la secte de la Lune Noire ne se "
 "remit jamais complètement."
 
+#~ msgid "Symbol: Slow"
+#~ msgstr "Symbole : Lenteur"
+
 #~ msgid ""
 #~ "Jan Jansen's life following his time with <CHARNAME> was unsurprisingly "
 #~ "convoluted, the barest of details hidden amidst half-truths and whole lies. "
@@ -8156,10 +8160,6 @@ msgstr ""
 #~ "il avait fait pour se trouver à tant d'endroits en même temps... et si loin "
 #~ "de la scène du crime. « Bah », répondit-il, « Quand on a autant de singes, "
 #~ "tout est possible. »"
-
-#, fuzzy
-#~ msgid "Symbol, Slow"
-#~ msgstr "Symbole : Lenteur"
 
 #~ msgid ""
 #~ "And what of the eternally-playful Imoen? She had long stood in the shadow of"

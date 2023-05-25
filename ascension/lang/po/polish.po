@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-25-16:53+0000\n"
+"POT-Creation-Date: 2023-05-25-17:14+0000\n"
 "PO-Revision-Date: 2023-05-23 06:29+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: Polish <https://tra.bgforge.net/projects/infinity-engine/ascension/pl/>\n"
@@ -91,8 +91,8 @@ msgid "Lava Bomb"
 msgstr "Wybuch lawy"
 
 #: ascension.tra:1031
-msgid "Symbol: Slow"
-msgstr "Symbol: Spowolnienie"
+msgid "Symbol, Slow"
+msgstr "Symbol: spowolnienie"
 
 #: ascension.tra:1037
 msgid "Ravager Change"
@@ -7503,6 +7503,9 @@ msgstr ""
 "mam żadnego niebiańskiego przewodnika. Być może moja ścieżka została już "
 "jednak ustalona."
 
+#~ msgid "Symbol: Slow"
+#~ msgstr "Symbol: Spowolnienie"
+
 #~ msgid ""
 #~ "Jan Jansen's life following his time with <CHARNAME> was unsurprisingly "
 #~ "convoluted, the barest of details hidden amidst half-truths and whole lies. "
@@ -7539,9 +7542,6 @@ msgstr ""
 #~ " też zdołał być w tak wielu miejscach naraz, a jednocześnie tak daleko od "
 #~ "miejsca zbrodni. „No cóż”, odpowiadał Jan, „kiedy masz tak wiele małp, "
 #~ "wszystko jest możliwe”."
-
-#~ msgid "Symbol, Slow"
-#~ msgstr "Symbol: spowolnienie"
 
 #~ msgid ""
 #~ "And what of the eternally-playful Imoen? She had long stood in the shadow of"

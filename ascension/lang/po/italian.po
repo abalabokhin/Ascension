@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-25-16:53+0000\n"
+"POT-Creation-Date: 2023-05-25-17:14+0000\n"
 "PO-Revision-Date: 2022-01-29 09:10+0000\n"
 "Last-Translator: Davide Rossini <davidewmilan@alice.it>\n"
 "Language-Team: Italian <https://tra.bgforge.net/projects/infinity-engine/ascension/it/>\n"
@@ -91,8 +91,7 @@ msgid "Lava Bomb"
 msgstr "Bomba di Lava"
 
 #: ascension.tra:1031
-#, fuzzy
-msgid "Symbol: Slow"
+msgid "Symbol, Slow"
 msgstr "Simbolo di Lentezza"
 
 #: ascension.tra:1037
@@ -6488,6 +6487,10 @@ msgstr ""
 "Puoi essere forte, <CHARNAME>, ma sei davvero sciocca a pensare che noi "
 "siamo deboli. Mi prenderò la tua anima, lo giuro!"
 
+#, fuzzy
+#~ msgid "Symbol: Slow"
+#~ msgstr "Simbolo di Lentezza"
+
 #~ msgid ""
 #~ "Jan Jansen's life following his time with <CHARNAME> was unsurprisingly "
 #~ "convoluted, the barest of details hidden amidst half-truths and whole lies. "
@@ -6525,9 +6528,6 @@ msgstr ""
 #~ "trovarsi contemporaneamente in tanti posti diversi, eppure rimanere lontano "
 #~ "dalla scena del crimine. \"Ebbene\", avrebbe risposto Jan, \"quando si hanno"
 #~ " tutte quelle scimmie, tutto è possibile.\""
-
-#~ msgid "Symbol, Slow"
-#~ msgstr "Simbolo di Lentezza"
 
 #~ msgid ""
 #~ "And what of the eternally-playful Imoen? She had long stood in the shadow of"

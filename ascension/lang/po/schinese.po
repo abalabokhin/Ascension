@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-25-16:53+0000\n"
+"POT-Creation-Date: 2023-05-25-17:14+0000\n"
 "PO-Revision-Date: 2020-11-23 14:13+0000\n"
 "Last-Translator: RomancingSugar <saladinqiao@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://tra.bgforge.net/projects/infinity-engine/ascension/schinese/>\n"
@@ -91,8 +91,7 @@ msgid "Lava Bomb"
 msgstr "熔岩炸弹"
 
 #: ascension.tra:1031
-#, fuzzy
-msgid "Symbol: Slow"
+msgid "Symbol, Slow"
 msgstr "缓慢法印"
 
 #: ascension.tra:1037
@@ -4822,7 +4821,8 @@ msgstr ""
 msgid "Yaga-Shura Cleric"
 msgstr ""
 
-#~ msgid "Symbol, Slow"
+#, fuzzy
+#~ msgid "Symbol: Slow"
 #~ msgstr "缓慢法印"
 
 #~ msgid ""

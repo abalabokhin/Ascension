@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-25-16:53+0000\n"
+"POT-Creation-Date: 2023-05-25-17:14+0000\n"
 "PO-Revision-Date: 2022-02-18 18:17+0000\n"
 "Last-Translator: Edvin <edvin@seznam.cz>\n"
 "Language-Team: Czech <https://tra.bgforge.net/projects/infinity-engine/ascension/cs/>\n"
@@ -91,9 +91,7 @@ msgid "Lava Bomb"
 msgstr "Lávová bomba"
 
 #: ascension.tra:1031
-#, fuzzy
-#| msgid "Symbol, Slow"
-msgid "Symbol: Slow"
+msgid "Symbol, Slow"
 msgstr "Symbol moci: Zpomal"
 
 #: ascension.tra:1037

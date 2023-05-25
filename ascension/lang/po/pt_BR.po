@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-25-16:53+0000\n"
+"POT-Creation-Date: 2023-05-25-17:14+0000\n"
 "PO-Revision-Date: 2021-07-04 14:13+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://tra.bgforge.net/projects/infinity-engine/ascension/pt_BR/>\n"
@@ -91,8 +91,7 @@ msgid "Lava Bomb"
 msgstr "Bomba de Lava"
 
 #: ascension.tra:1031
-#, fuzzy
-msgid "Symbol: Slow"
+msgid "Symbol, Slow"
 msgstr "Símbolo, Lento"
 
 #: ascension.tra:1037
@@ -4118,5 +4117,6 @@ msgstr ""
 msgid "Yaga-Shura Cleric"
 msgstr "Clérigo de Yaga-Shura"
 
-#~ msgid "Symbol, Slow"
+#, fuzzy
+#~ msgid "Symbol: Slow"
 #~ msgstr "Símbolo, Lento"

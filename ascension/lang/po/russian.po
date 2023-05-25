@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-25-16:53+0000\n"
+"POT-Creation-Date: 2023-05-25-17:14+0000\n"
 "PO-Revision-Date: 2023-05-25 16:22+0000\n"
 "Last-Translator: ALIENQuake <alienquake@hotmail.com>\n"
 "Language-Team: Russian <https://tra.bgforge.net/projects/infinity-engine/ascension/ru/>\n"
@@ -91,7 +91,7 @@ msgid "Lava Bomb"
 msgstr "Лавовая бомба"
 
 #: ascension.tra:1031
-msgid "Symbol: Slow"
+msgid "Symbol, Slow"
 msgstr "Символ Замедления"
 
 #: ascension.tra:1037
@@ -6441,6 +6441,9 @@ msgstr ""
 "потерял, силу, к которой ты так долго стремился. И верну тебе человеческую "
 "жизнь, как раньше."
 
+#~ msgid "Symbol: Slow"
+#~ msgstr "Символ Замедления"
+
 #~ msgid ""
 #~ "Jan Jansen's life following his time with <CHARNAME> was unsurprisingly "
 #~ "convoluted, the barest of details hidden amidst half-truths and whole lies. "
@@ -6474,9 +6477,6 @@ msgstr ""
 #~ "Лиссой, Яна спросили, как он мог быть во стольких местах сразу, и при этом "
 #~ "так далеко от места преступления. \"Ну\", ответил Ян, \"когда у вас есть "
 #~ "столько обезьян, все возможно.\""
-
-#~ msgid "Symbol, Slow"
-#~ msgstr "Символ Замедления"
 
 #~ msgid ""
 #~ "And what of the eternally-playful Imoen? She had long stood in the shadow of"

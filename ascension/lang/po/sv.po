@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-25-16:53+0000\n"
+"POT-Creation-Date: 2023-05-25-17:14+0000\n"
 "PO-Revision-Date: 2023-03-31 21:05+0000\n"
 "Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
@@ -91,7 +91,7 @@ msgid "Lava Bomb"
 msgstr ""
 
 #: ascension.tra:1031
-msgid "Symbol: Slow"
+msgid "Symbol, Slow"
 msgstr ""
 
 #: ascension.tra:1037
